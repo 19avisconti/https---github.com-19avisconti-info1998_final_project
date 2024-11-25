@@ -1,0 +1,793 @@
+Artist,Song,Song Popularity,Artist Popularity,Featured Artist,Featured Artist Popularity,Track ID,Album Name,Release Date,Duration (ms),Explicit,Danceability,Energy,Key,Loudness,Mode,Speechiness,Acousticness,Instrumentalness,Liveness,Valence,Tempo
+Curtis Walsh,Full Recovery,31,31,,,5iRdHQaLCTW165qzj2HM5c,Full Recovery,2018-07-27,176134,False,0.515,0.31,9,-9.752,1,0.0465,0.789,0,0.111,0.401,153.142
+Curtis Walsh,Perfect Rain - Remix,29,31,Trial & Error,46.0,4q8IMtch1lVEtQX8bM7h59,Perfect Rain Remix,2018-11-23,172598,False,0.716,0.661,7,-7.253,1,0.0466,0.0745,1.19e-05,0.171,0.397,116.972
+Curtis Walsh,Perfect Rain,29,31,,,4NNOyxGLkTe2rG3aEdFgYC,Perfect Rain,2018-11-02,163883,False,0.659,0.637,7,-6.496,1,0.0646,0.699,0,0.113,0.15,116.888
+Curtis Walsh,Seven Seas (Konmak Remix),24,31,Konmak,12.0,7da0wlfvxMO6zpzOEgGgAT,Seven Seas Konmak Remix,2019-11-22,166956,False,0.822,0.922,6,-4.506,0,0.141,0.119,0,0.0629,0.506,115.086
+Curtis Walsh,Seven Seas,23,31,,,1RpTxbZSfDqw0oNv3x7CST,Seven Seas,2019-07-26,165080,False,0.662,0.747,6,-5.693,0,0.059,0.336,0,0.294,0.708,90.006
+Curtis Walsh,Killing Me Softly,16,31,,,0o1ZcT1jcog0pjgPEcNSs3,Killing Me Softly,2020-02-08,163531,False,0.598,0.294,2,-7.19,1,0.0265,0.785,0,0.256,0.355,96.882
+Curtis Walsh,mm mm good (in the cellar),12,31,Curtisy,43.0,6aQQy6RB8LeQfqjluHZMy1,few beers,2023-08-30,215696,True,0.688,0.613,6,-7.886,0,0.258,0.258,0,0.448,0.658,86.976
+Curtis Walsh,Landslide,12,31,loyalties,15.0,7DKsYgxFtvl3aTPcpOdAMp,Landslide,2023-12-08,187684,False,0.555,0.679,8,-5.906,0,0.0832,0.272,1.29e-06,0.127,0.399,98.78
+Curtis Walsh,Time's Fading,14,31,,,56O9PQKg2UjQHBLZbin6p2,"""Times Fading""",2019-05-17,197509,False,0.714,0.351,6,-6.353,0,0.0399,0.667,0,0.145,0.331,120.18
+Curtis Walsh,mm mm good (In The Cellar),12,31,Walshy,9.0,2tevRx2Z0cqBF8n9A1WEht,WHAT WAS THE QUESTION,2024-05-03,215695,True,0.631,0.7,6,-5.861,0,0.189,0.168,0,0.377,0.614,87.001
+Curtis Walsh,Midnight,8,31,,,0QDXHAPzManj6nrpAaIDvq,Midnight,2020-07-24,193965,False,0.51,0.462,7,-6.461,1,0.034,0.0816,0,0.107,0.219,77.841
+Curtis Walsh,God Only Knows,8,31,,,77r2qbzvzqDenyoK3syNXV,God Only Knows,2020-01-31,85849,False,0.57,0.264,2,-6.958,1,0.0304,0.703,0,0.142,0.54,97.353
+Curtis Walsh,Midnight (Acoustic),6,31,,,1664DzlgYRIPLpGnVzCSCv,Midnight Acoustic,2022-04-07,176041,False,0.391,0.179,5,-12.857,1,0.0284,0.881,0,0.124,0.238,71.681
+Curtis Walsh,Last Christmas,12,31,,,6TZ1aguP89tNQ6fLhq9Wsf,Last Christmas,2018-11-16,201351,False,0.537,0.13,8,-12.548,1,0.044,0.947,0,0.161,0.401,100.846
+Curtis Walsh,Sarah,11,31,,,5ZF2R0BpHRJxjHR3F4tfUS,Sarah,2019-11-01,213719,False,0.458,0.191,10,-9.677,1,0.032,0.491,0,0.127,0.119,96.062
+Curtis Walsh,mm mm good (In The Cellar),9,31,Walshy,9.0,3MisHby0a2tpAkhVIE2wbq,"""WHAT WAS THE QUESTION Deluxed""",2024-10-25,215695,True,0.631,0.7,6,-5.861,0,0.189,0.168,0,0.377,0.614,87.001
+Curtis Walsh,Until I Fall,5,31,,,3qgkzLclq9OBG2wBV1mpGL,Until I Fall,2020-01-24,201370,False,0.466,0.362,7,-7.728,1,0.0275,0.565,0,0.116,0.131,91.594
+Curtis Walsh,Almost The Same,7,31,,,2BeC0lctWLNN4MvHyiRe5V,Almost The Same,2020-09-25,178979,False,0.361,0.51,3,-7.566,1,0.0878,0.649,0,0.0759,0.364,203.618
+Curtis Walsh,Seven Seas - Remix,3,31,Medii,25.0,67BQcFQGcdTV9gvOWtL9su,Seven Seas Remix,2019-10-11,191911,False,0.592,0.729,6,-8.106,0,0.0803,0.00473,0,0.139,0.307,101.945
+Curtis Walsh,Perfect Rain - Ultrabeat Remix,11,31,Ultrabeat,28.0,7MCmuCX0PDAhOYo8rwDiuQ,Perfect Rain Ultrabeat Remix,2022-03-11,251666,False,0.718,0.785,11,-5.116,0,0.0564,0.0044,0,0.125,0.379,143.988
+Curtis Walsh,Bend,4,31,Anna Pancaldi,47.0,01C3AhZgLGnR0FBobdGm9A,Bend,2021-02-25,235705,False,0.409,0.426,7,-11.698,1,0.0786,0.508,1.92e-05,0.0674,0.103,105.55
+Curtis Walsh,Picture Perfect,8,31,,,6DYhafIpp1S7OtcbjHnpEn,Picture Perfect,2021-07-16,182000,False,0.706,0.599,11,-7.246,0,0.0609,0.342,0,0.295,0.843,120.019
+Curtis Walsh,Sitting Ducks (Acoustic),1,31,,,0F4L5h8m4Iygx3QsBLdzA5,Sitting Ducks Acoustic,2022-03-24,158550,False,0.487,0.249,1,-14.872,1,0.0328,0.539,2.53e-06,0.39,0.302,99.391
+Curtis Walsh,Sitting Ducks,4,31,,,41gTOwUNQnTlVmFmEk8r4a,Sitting Ducks,2021-10-22,224408,False,0.611,0.351,3,-10.356,1,0.0306,0.638,1.61e-05,0.0919,0.306,103.981
+Curtis Walsh,mm mm good (in the cellar),3,31,Curtisy,43.0,40JHKlBdJdahsGi0WQ5vRI,mm mm good in the cellar,2023-08-04,215696,True,0.688,0.613,6,-7.886,0,0.258,0.258,0,0.448,0.658,86.976
+Curtis Walsh,Seven Seas,0,31,,,2GIDYKaLBJGp8S67i40QUK,Breathe,2019-07-26,165080,False,0.662,0.747,6,-5.693,0,0.059,0.336,0,0.294,0.708,90.006
+Curtis Walsh,Sitting Ducks (Acoustic),0,31,,,6WMnraEOgn9zHv2UQeyhcq,New Indie Folk; April 2022 Vol. 1 Indie Folk Central,2022-04-04,158550,False,0.487,0.249,1,-14.872,1,0.0328,0.539,2.53e-06,0.39,0.302,99.391
+Curtis Walsh,Full Recovery,0,31,,,61CddtHpNSIuTZ7wlHAAi6,Breathe,2019-07-26,176134,False,0.515,0.31,9,-9.752,1,0.0465,0.789,0,0.111,0.401,153.142
+Curtis Walsh,Time's Fading,0,31,,,49186xaKyeYpzwf603Gg1U,Breathe,2019-07-26,197509,False,0.714,0.351,6,-6.353,0,0.0399,0.667,0,0.145,0.331,120.18
+Curtis Walsh,Perfect Rain,0,31,,,3nUZYdI9Xv7FFWd3z5tkVp,Breathe,2019-07-26,163883,False,0.659,0.637,7,-6.496,1,0.0646,0.699,0,0.113,0.15,116.888
+Curtis Walsh,"A Midsummer Night's Dream, Act I, Scene 4: A Marvels Convenient Place",0,31,Kyle Huey,63.0,3uJhpiwcZLU58rL4mHsIag,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,140133,False,0.697,0.236,2,-11.078,0,0.0929,0.77,0,0.141,0.602,92.771
+Curtis Walsh,"A Midsummer Night's Dream, Act II, Scene 3: Finale",0,31,Jeremiah Johnson,35.0,3DnDFSA2bbAAKuV9Im6hAz,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,93013,False,0.478,0.466,7,-10.052,1,0.259,0.514,1.55e-06,0.267,0.48,147.11
+Curtis Walsh,"A Midsummer Night's Dream, Act II, Scene 3: The Wall (Reprise)",0,31,Jeremiah Johnson,35.0,2rpklvC4x8F431G7jXwsW3,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,54853,False,0.803,0.223,9,-11.209,1,0.251,0.89,0,0.17,0.499,83.899
+Curtis Walsh,"A Midsummer Night's Dream, Act I, Scene 4: The Flowers of Odious Savors Sweet",0,31,Kyle Huey,63.0,5PyPuzb4wHHIQJfWuq56dM,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,61053,False,0.364,0.263,0,-9.992,1,0.0485,0.74,0,0.217,0.34,93.095
+Curtis Walsh,"A Midsummer Night's Dream, Act II, Scene 3: The Wall",0,31,Jeremiah Johnson,35.0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,nan
+Curtis Walsh,"A Midsummer Night's Dream, Act II, Scene 3: The Actors are at Hand",0,31,Jeremiah Johnson,35.0,3TVoRhQpLwpTjxhnxFbHGf,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,59866,False,0.572,0.199,2,-10.189,1,0.0366,0.805,0,0.124,0.76,93.778
+Curtis Walsh,"A Midsummer Night's Dream, Act I, Scene 4: Scene 4, Most Radiant Pyramus",0,31,Kyle Huey,63.0,0HiNMsdRhVQ3Z6Cg15iIQ6,"""Michael Ching: A Midsummer Nights Dream–opera a capella""",2014-08-01,121506,False,0.447,0.265,4,-9.846,1,0.146,0.826,0,0.123,0.439,172.022
+Cuatro Gatos,El Fantasma de la Ópera,34,34,,,7FOkwBsKI1ayKDN9e4QpRq,Mañana Quizá Sea Peor,2009-01-13,242360,False,0.348,0.913,3,-0.723,1,0.043,0.00207,0.215,0.0582,0.333,132.077
+Cuatro Gatos,Me Arriesgaré - Acústico,28,34,,,6akmz7yWaJGwyBPI7UNXH8,Me Arriesgaré,2010-09-30,241586,False,0.548,0.963,2,-2.338,1,0.0382,0.00135,0,0.0626,0.776,120.1
+Cuatro Gatos,Adiós,27,34,,,0Au3JqDBwDbIuRMm6ax6Nu,El Sueño de la Razón,2009-02-09,310026,False,0.422,0.959,9,-1.352,0,0.0456,0.00156,0.0168,0.391,0.479,131.986
+Cuatro Gatos,Una Promesa,27,34,,,5mM64XYoezxjWhOXOeblk6,La Caja de Música,2003-09-15,227893,False,0.548,0.476,2,-8.092,1,0.0292,0.4,0,0.0941,0.511,108.566
+Cuatro Gatos,Quiero Morir,26,34,,,2qnr81NcTzIGdYyHMmGLID,El Sueño de la Razón,2009-02-09,333973,False,0.294,0.886,1,-1.8,0,0.0414,0.000702,0.345,0.0975,0.286,156.161
+Cuatro Gatos,Mañana Quiza Sea Peor,26,34,,,3q7iwolUGDKQodyc1oz4f7,El Sueño de la Razón,2009-02-09,285920,False,0.454,0.957,4,-1.95,0,0.0691,0.000335,0.0686,0.313,0.443,112.085
+Cuatro Gatos,Adiós - Acústico,23,34,,,5XBtLAxFkcznqpfDe5v2fw,Me Arriesgaré,2010-09-30,297040,False,0.567,0.917,9,-3.832,0,0.0634,0.0979,0,0.939,0.468,126.109
+Cuatro Gatos,Lo Que Hay Detrás,21,34,,,5Pqva02F0OZqj3AakSlUhQ,El Sueño de la Razón,2009-02-09,316613,False,0.488,0.725,0,-4.443,1,0.0305,0.00641,6.03e-05,0.197,0.131,135.875
+Cuatro Gatos,Hermano Enemigo,23,34,,,0x7DvykXFMV4mgDUvPOzaF,La Caja de Música,2003-09-15,314000,False,0.477,0.948,0,-4.425,1,0.0691,0.0758,0.0113,0.291,0.17,121.974
+Cuatro Gatos,La Caja de Música,17,34,,,0h2RXpwTvH3cpE3Svg2xfS,La Caja de Música,2003-09-15,449160,False,0.34,0.857,7,-4.839,1,0.0699,0.0842,0.0554,0.0899,0.124,162.563
+Cuatro Gatos,Mas Allá de la Realidad,17,34,,,0GUDJSSbjxQYW1inpvwZu5,La Caja de Música,2003-09-15,320600,False,0.16,0.95,0,-2.587,0,0.109,0.0139,3.91e-05,0.0637,0.339,66.254
+Cuatro Gatos,Todos los Ayeres,16,34,,,5ysOuJ1xmUNCWcEO9heuHz,La Caja de Música,2003-09-15,352160,False,0.382,0.939,0,-2.908,1,0.0641,0.00353,0.0445,0.0935,0.34,146.435
+Cuatro Gatos,Desde el Infierno,2,34,,,58fbBLqMrHbGjY3J3QsC5K,La Caja de Música,2003-09-15,54480,False,0.308,0.176,11,-27.077,0,0.0547,0.00441,0.943,0.043,0.132,111.662
+Cuatro Gatos,Noche de Paz,0,34,,,0y8ITecnwiuAIDvWos1yW3,Christmas Rock,2011-11-21,238666,False,0.416,0.894,0,-0.227,1,0.0731,0.36,0,0.67,0.3,119.949
+Cuatro Gatos,Siembra Viento - Acústico,2,34,,,0GzYRmbzulUtEXk94gqMzn,Me Arriesgaré,2010-09-30,276440,False,0.493,0.897,0,-2.27,1,0.109,0.0213,4.47e-05,0.104,0.559,172.034
+Cuatro Gatos,Esférica (El Eterno Retorno),1,34,,,4sXClriVbTUhr2MjlP4hj0,Esférica,2005-04-01,359666,False,0.334,0.874,7,-6.514,0,0.0938,0.00235,0.0104,0.0924,0.0786,151.681
+Cuatro Gatos,Es Tu Momento (Heat of the Moment),3,34,,,3NK7DdSkHbyORrnQbl5m9x,Esférica,2005-04-01,255026,False,0.325,0.796,1,-4.142,1,0.0366,0.000674,0.0355,0.0797,0.482,136.033
+Cuatro Gatos,Adiós - Versión Acústica,2,34,,,4ab2u1t9Iuo62p0nzzoNWF,Mañana Quizá Sea Peor,2009-01-13,294600,False,0.57,0.918,9,-3.833,0,0.0637,0.121,0,0.964,0.473,126.113
+Cuatro Gatos,Tocaba Correr - Acústico,3,34,,,0gvHPrUEqmEPIht5DWTv3p,Me Arriesgaré,2010-09-30,211160,False,0.442,0.838,7,-3.193,1,0.0435,0.0409,0,0.282,0.74,172.083
+Cuatro Gatos,Salvame - Acústico,1,34,,,3vCBgXMZodzY6bQ7bJDKyX,Me Arriesgaré,2010-09-30,273640,False,0.599,0.93,11,-2.763,1,0.032,0.00148,0,0.133,0.715,122.025
+Cuatro Gatos,Un Brillo en el Bosque,1,34,,,7bn4wjPA7kRng8xFBX5xn9,El Sueño de la Razón,2009-02-09,180493,False,0.283,0.314,10,-8.091,1,0.0328,0.563,0.944,0.109,0.107,122.209
+Cuatro Gatos,Sálvame,4,34,,,5fOSEIYcIPNoJJL9timh8L,Esférica,2005-04-01,307600,False,0.408,0.923,11,-4.984,1,0.157,0.00514,0.000225,0.191,0.205,121.987
+Cuatro Gatos,Fuego en Tu Piel,2,34,,,64H9Z00ODVqK8SLGulG2Eo,Esférica,2005-04-01,347373,False,0.43,0.935,5,-3.778,1,0.0776,0.000679,0,0.377,0.163,132.126
+Cuatro Gatos,Mas Alla de la Realidad - Acústico,1,34,,,41CZy1Z7vKaVMTeEUERYhj,Me Arriesgaré,2010-09-30,339800,False,0.643,0.932,0,-2.416,1,0.0419,0.0439,8.33e-05,0.324,0.683,124.032
+Cuatro Gatos,La Luz Interior,1,34,,,53Ck9UkERQ8x3FqAbf1z7B,Esférica,2005-04-01,389040,False,0.433,0.882,0,-5.115,1,0.061,0.00413,4.11e-05,0.17,0.27,128.769
+Cuatro Gatos,Entre el Cielo y el Mar,3,34,,,4nLwBXJEMDPQ9rx73JVvCj,El Sueño de la Razón,2009-02-09,335506,False,0.339,0.918,7,-1.317,0,0.0388,0.00337,0.618,0.224,0.563,171.824
+Cuatro Gatos,Tierra de Nadie - Acústico,2,34,,,1ejCQMwY0EA4pgyvE52wpL,Me Arriesgaré,2010-09-30,272733,False,0.415,0.983,9,-1.725,0,0.0587,0.00162,0,0.0562,0.632,162.115
+Cuatro Gatos,Quiero Morir - Acústico,1,34,,,3SijjBlapWsvsDtTCr9JAO,Me Arriesgaré,2010-09-30,311920,False,0.514,0.808,9,-2.986,1,0.0279,0.0414,0,0.0642,0.333,135.965
+Cuatro Gatos,En Tierra de Dadie,4,34,,,7oVlaYo3Ao6691Kq399MyN,La Caja de Música,2003-09-15,340266,False,0.388,0.943,10,-2.937,1,0.0505,0.002,0.0025,0.113,0.379,148.269
+Cuatro Gatos,Un Extraño en Mi Cabeza,3,34,,,1Gd6QKnb2tUj5WvGXdVVqg,La Caja de Música,2003-09-15,316026,False,0.582,0.808,9,-5.328,0,0.0371,0.149,2.32e-05,0.0762,0.236,116.377
+Cuatro Gatos,Una Promesa,1,34,,,6b3erOEVQZqnYYbD8B2Opz,Baladas del Heavy Español,2013-04-17,227893,False,0.548,0.476,2,-8.092,1,0.0292,0.4,0,0.0941,0.511,108.566
+Cuatro Gatos,Cruce de Caminos,9,34,,,4NglZ6RCA8kKjDV7hEeJhJ,El Sueño de la Razón,2009-02-09,267106,False,0.368,0.902,9,-1.673,0,0.0422,0.000736,0.452,0.502,0.516,131.945
+Cuatro Gatos,The Islander (Al final del Mundo) - Acústico,3,34,,,4EBqeJcx2SSdQZwhD00dV1,Me Arriesgaré,2010-09-30,281760,False,0.287,0.799,4,-4.702,0,0.0538,0.0231,0.00716,0.0861,0.054,167.763
+Cuatro Gatos,Tu Propio Dios,3,34,,,6k9VMfu0lI858rFN7HJiT8,El Sueño de la Razón,2009-02-09,314213,False,0.39,0.954,2,-1.374,0,0.0649,0.00127,0.0943,0.373,0.302,147.095
+Cuatro Gatos,Mañana Quizá Sea Peor,2,34,,,6TyVXAunyVnYAYRg2Om81k,Mañana Quizá Sea Peor,2009-01-13,287013,False,0.461,0.956,4,-1.944,0,0.0676,0.00034,0.0779,0.318,0.468,112.063
+Cuatro Gatos,Contracorriente,4,34,,,6k7v8VnMJMbnPSYV9NE8ZW,El Sueño de la Razón,2009-02-09,269626,False,0.378,0.93,2,-0.549,1,0.0512,0.00179,0.346,0.112,0.377,106.604
+Cuatro Gatos,Quiero Morir,2,34,,,1unWLOAKV18aIJOvJwXyJZ,Baladas del Heavy Español,2013-04-17,333973,False,0.294,0.886,1,-1.8,0,0.0414,0.000702,0.345,0.0975,0.286,156.161
+Cuatro Gatos,Tras el Cristal,6,34,,,5IxD4dT6lKsr3vVa3sfA2q,La Caja de Música,2003-09-15,370040,False,0.376,0.897,9,-3.963,0,0.0654,0.00191,0.0285,0.084,0.244,162.216
+Cuatro Gatos,Heat Of The Moment - Acústico,2,34,,,6tT0NbLEXmpO9AW2rRMW1K,Me Arriesgaré,2010-09-30,310733,False,0.568,0.855,2,-3.799,1,0.0309,0.117,0,0.0762,0.579,126.077
+Cuatro Gatos,Declaración de Amor,0,34,,,0e1IXVcwHKUmpVWzsKZw1u,Con Alegría y Sentimiento,2015-09-11,225573,False,0.568,0.871,1,-2.376,1,0.0352,0.11,0,0.298,0.83,177.848
+Cuatro Gatos,Calma Melódica Para Gatos Domésticos,2,34,Cuatro Vientos,29.0,2e1YHQOidGOSqAnnbCY6nZ,Notas Felinas: Música Relajante Para Gatos,2024-07-29,152712,False,0.139,0.0736,1,-24.197,1,0.0423,0.944,0.917,0.113,0.0363,143.446
+Cuatro Gatos,Acordes Tranquilizadores Para Gatos Curiosos,1,34,Cuatro Vientos,29.0,5ztGoG7lF3FFkcuDc29xO7,Notas Felinas: Música Relajante Para Gatos,2024-07-29,152929,False,0.163,0.146,2,-18.166,1,0.0383,0.954,0.943,0.105,0.0345,109.459
+Cuatro Gatos,Notas Silenciosas Para Calmar A Los Gatos,0,34,Cuatro Vientos,29.0,2qmxQqcqXTqF1ExclSM2nO,Notas Felinas: Música Relajante Para Gatos,2024-07-29,161395,False,0.181,0.172,1,-16.139,1,0.0373,0.958,0.875,0.127,0.0373,72.087
+Cuatro Gatos,Melodías Apacibles Para Gatos,0,34,FX factorial,23.0,1LM2CCXSn7olTO3iQR3olM,Música Para La Comodidad Del Gato: Armónicos Ronroneantes,2024-07-03,351808,False,0.138,0.153,4,-20.651,1,0.051,0.982,0.919,0.118,0.0307,73.124
+Cuatro Gatos,Quiero Morir,0,34,,,5d0b58fqIV6Zb4OsoRKBnM,Baladas de Rock y Amor,2011-02-03,333973,False,0.294,0.886,1,-1.8,0,0.0414,0.000702,0.345,0.0975,0.286,156.161
+Cuatro Gatos,Mañana Quiza Sea Peor,1,34,,,0Rt2UaEHBE5lpjqGEqcQNE,Power Metal Español,2020-06-26,285920,False,0.454,0.957,4,-1.949,0,0.0692,0.000337,0.0658,0.313,0.456,112.092
+Cuatro Gatos,Tocaba Correr - En Acústico,0,34,,,3U1Lsn98FkVKTuyHaZTNwn,Los Acústicos,2020-10-16,211160,False,0.439,0.838,7,-3.193,1,0.0435,0.0414,0,0.282,0.741,172.075
+Cuatro Gatos,Hermano Enemigo - Acústico,1,34,,,6kNYgr1TU8VZbZQoEEodm3,Me Arriesgaré,2010-09-30,309546,False,0.27,0.701,9,-2.338,0,0.0345,0.00136,2.21e-06,0.0692,0.388,166.181
+Cuatro Gatos,71.12 - Mensajes en el Aire,0,34,,,78FOH4qGGYe5f5TBofhfJv,Rock Instrumental,2020-11-06,114173,False,0.431,0.264,5,-18.766,1,0.0358,0.905,0.924,0.107,0.406,142.358
+Cuatro Gatos,A.M.A.M.A. (Palíndromo),1,34,,,4wvvXDjPt40KePfoyy9N4z,Esférica,2005-04-01,76800,False,0.632,0.75,11,-11.295,1,0.0756,0.163,0.962,0.104,0.404,152.825
+Cultural Roots,Love Feelings,25,25,,,1CjuK5VQ5wyOkShLhjXCUp,Hell A Go Pop,1984,199133,False,0.719,0.417,10,-10.026,0,0.081,0.0869,2.11e-05,0.0798,0.645,72.875
+Cultural Roots,Every Man Has A Right,24,25,,,54OLbDhvPJIVF1cKtp3g1Y,Hell A Go Pop,1984,214933,False,0.705,0.442,5,-9.268,0,0.108,0.0141,0,0.208,0.622,73.842
+Cultural Roots,Hell A Go Pop,21,25,,,3hTZavdPmvWNVi7w5nWxDY,Hell A Go Pop,1984,195066,False,0.722,0.57,11,-9.351,0,0.0587,0.194,0,0.0981,0.814,142.426
+Cultural Roots,Reggae Music,21,25,,,04eQZqNa0SCskyXCfVtr3m,Hell A Go Pop,1984,208866,False,0.723,0.481,1,-9.09,1,0.0837,0.00948,1.77e-06,0.0635,0.466,73.779
+Cultural Roots,"Thief, Liars, Criminals",18,25,,,5tJf0YPaxOqUPFXfIYNLEX,Hell A Go Pop,1984,217466,False,0.807,0.505,10,-9.154,0,0.108,0.00862,3.41e-06,0.134,0.638,140.061
+Cultural Roots,World Of Illusion,15,25,,,2aHmuaN6WCCnHNCVml3t45,Drift Away From Evil,1982-05-04,242651,False,0.849,0.485,5,-9.656,0,0.0887,0.521,0.00203,0.047,0.794,135.293
+Cultural Roots,Mr. Bossman,17,25,,,2sZU2fuhKk6PRjYKm9WhNG,"""5 Decades of Jamaicas Musical Heritage""",2012-08-12,217573,True,0.751,0.678,1,-7.817,1,0.0407,0.0124,1.22e-06,0.0877,0.952,133.416
+Cultural Roots,Drift Away From Evil,16,25,,,3UKfwmdZvazMRpquVejTy3,Drift Away From Evil,1982-05-04,224835,False,0.888,0.406,5,-10.868,1,0.217,0.368,0,0.27,0.857,129.97
+Cultural Roots,Tell It To Her,11,25,,,76erUdjspMoS1YEUQLf1SD,Hell A Go Pop,1984,200866,False,0.796,0.52,1,-7.111,0,0.0713,0.0057,1.28e-05,0.0953,0.776,73.569
+Cultural Roots,Greedy Woman,11,25,,,6uI6XADrwMAFVdasAuMylb,Drift Away From Evil,1982-05-04,239098,False,0.815,0.35,5,-10.36,0,0.117,0.579,3.91e-05,0.158,0.722,134.658
+Cultural Roots,Execute,14,25,,,2A8PPw9MFcK9dpGjpQs3NT,Hell A Go Pop,1984,202133,False,0.771,0.709,8,-8.682,0,0.237,0.109,0,0.301,0.727,140.872
+Cultural Roots,Easy Living,11,25,,,1AItwR4P9ItEnpLnBEjfA2,Cultural Roots: Roots & Culture,2024-11-06,158302,False,0.789,0.271,7,-20.58,0,0.102,0.0284,0,0.0777,0.884,139.531
+Cultural Roots,World of Illusion,13,25,,,1ziRl2H8RN7oe9kiNEOMn9,Drift Away from Evil,2012-05-06,242651,False,0.847,0.485,1,-9.646,1,0.0892,0.555,0.00151,0.0473,0.804,135.264
+Cultural Roots,Where Have You Been,11,25,,,2cUnCfzjmBoqUTtXoLRQWG,Hell A Go Pop,1984,178240,False,0.722,0.437,1,-10.897,0,0.0421,0.0579,1.81e-05,0.0932,0.785,71.989
+Cultural Roots,Jah No Partial,12,25,,,6UNWLQSdlqvIzmDJrDGPnS,Revolutionary Sounds,1980-04-07,232191,False,0.874,0.312,4,-15.045,0,0.151,0.000536,0.00358,0.103,0.783,129.904
+Cultural Roots,Greedy Woman,9,25,,,3mezdqxUN8ogwNTWgPY9SV,Drift Away from Evil,2012-05-06,239098,False,0.813,0.348,5,-10.362,0,0.121,0.603,4.49e-05,0.177,0.739,134.647
+Cultural Roots,Won't Co-Operate,11,25,,,3LsMFbb1D8GebRGJCXOi7W,Hell A Go Pop,1984,217333,False,0.849,0.501,10,-7.86,1,0.0458,0.0264,1.14e-06,0.193,0.709,134.881
+Cultural Roots,Devil-Ites,9,25,,,6SSNTVZ9FPbHRotwIhFiwT,Drift Away From Evil,1982-05-04,301627,False,0.765,0.137,5,-25.219,0,0.0761,0.149,0.644,0.0917,0.901,142.79
+Cultural Roots,The Roots,8,25,Ras Iyah,7.0,2XaMzkupfX7j3B8hsizvfD,Dubplates Remix from the Warriors Camp,2019-01-02,224397,False,0.73,0.675,11,-6.437,1,0.0333,0.000657,4.43e-05,0.209,0.585,137.014
+Cultural Roots,The Roots - Vocal Dub,3,25,Ras Iyah,7.0,41h4nW8o0b3yJZCQqFD8ev,Dubplates Remix from the Warriors Camp,2019-01-02,210279,False,0.801,0.544,11,-7.36,1,0.0465,0.0023,0.209,0.152,0.635,136.981
+Cultural Roots,Channa Channa,5,25,,,35xdZ5ot0NQGAIdbAi4Zf3,Cultural Roots: Roots & Culture,2024-11-06,398976,False,0.797,0.152,7,-22.211,1,0.21,0.00128,0.0273,0.0392,0.82,138.289
+Cultural Roots,Mr. Bossman,8,25,,,4gQnGzWitc7O3W5I5DOB7d,Drift Away from Evil,2012-05-06,218794,False,0.809,0.539,1,-11.357,1,0.0597,0.0134,3.01e-06,0.109,0.955,133.44
+Cultural Roots,His Majesty Reign,8,25,,,0GkSFYnmUH4auqDFZJBtba,Running Back To Me,2023-06-30,233733,False,0.823,0.393,1,-12.314,1,0.0467,0.0352,0,0.156,0.938,86.933
+Cultural Roots,"Love Feelings 12"" Mix",6,25,,,1FnCrUz7Bze5Cl9qmtHrIL,Hell A Go Pop,1984,425560,False,0.726,0.4,5,-9.998,1,0.115,0.018,0.0102,0.079,0.51,73.983
+Cultural Roots,Devilites,5,25,,,5n0O2DE2Vgkzb2HZPuEGAg,Drift Away from Evil,2012-05-06,301627,False,0.764,0.137,5,-25.219,0,0.0762,0.149,0.644,0.0917,0.902,143.021
+Cultural Roots,Too Late Shall Be Your Cry,6,25,,,2rvKI1fcHsv86X7exgs68n,Revolutionary Sounds,1980-04-07,206489,False,0.883,0.292,10,-13.647,0,0.234,0.0189,1.53e-05,0.139,0.818,125.717
+Cultural Roots,"Hell A Go Pop 12"" Mix",7,25,,,21pIXSKWhbccqjRr7i8bj9,Hell A Go Pop,1984,412200,False,0.868,0.297,1,-9.629,1,0.243,0.00648,1.09e-05,0.108,0.883,146.54
+Cultural Roots,Drift Away from Evil,8,25,,,2Su4VrrAujvwNz0AGrcEVT,Drift Away from Evil,2012-05-06,224835,False,0.885,0.404,5,-10.873,1,0.198,0.394,0,0.297,0.844,129.935
+Cultural Roots,Mr. Bossman,5,25,,,3IKmXbmc19YwMIci13hWuj,Drift Away From Evil,1982-05-04,218794,False,0.809,0.539,1,-11.357,1,0.0596,0.0132,3.01e-06,0.109,0.955,133.442
+Cultural Roots,Babylon Falling - Vocal Dub,3,25,Roots Masahi,28.0,3VOz4m1qs6xfv1lZ1I2Lzc,Remix from the Warriors Camp Chapter 2,2019-08-09,256000,False,0.573,0.675,9,-9.045,0,0.0281,0.00224,0.82,0.127,0.587,144.019
+Cultural Roots,Hypocrite,4,25,,,1d2FCp9aFD4PGY8FiR9OfH,Cultural Roots: Roots & Culture,2024-11-06,160651,False,0.833,0.352,0,-14.763,1,0.0768,0.00408,0.000579,0.07,0.793,128.219
+Cultural Roots,Choice of Colours,3,25,,,4bBL5cukmBo6oEa8cOStPf,Cultural Roots: Roots & Culture,2024-11-06,239978,False,0.764,0.361,8,-19.743,0,0.0664,0.586,0.00127,0.0706,0.922,171.19
+Cultural Roots,Greedy Woman,5,25,,,2uu2I8aoqgVz0W3zXMCJ4C,Cultural Roots: Roots & Culture,2024-11-06,239098,False,0.815,0.35,5,-10.36,0,0.117,0.579,3.91e-05,0.158,0.722,134.658
+Cultural Roots,Pyaka,3,25,,,1ISx2iH7ZVNTyRYOLqYbS5,Cultural Roots: Roots & Culture,2024-11-06,479475,False,0.859,0.267,10,-18.514,0,0.124,0.501,0.843,0.143,0.62,89.531
+Cultural Roots,Only Jah Knows,2,25,,,6hkLbAgZhkKbEes04WILcP,Cultural Roots: Roots & Culture,2024-11-06,182596,False,0.814,0.286,7,-15.467,0,0.1,0.000866,0,0.0657,0.944,129.497
+Cultural Roots,Age Of Creation,3,25,,,2ybydSo02HgTUKVEVLcwDb,Cultural Roots: Roots & Culture,2024-11-06,203410,False,0.76,0.279,9,-16.277,0,0.115,0.0469,0,0.0661,0.562,140.435
+Cultural Roots,Mamma Say,2,25,,,2ikVxSMvAPgrpH1VX8h1o2,Cultural Roots: Roots & Culture,2024-11-06,211069,False,0.871,0.223,9,-18.725,1,0.157,0.000317,0.00073,0.0606,0.815,130.996
+Cultural Roots,Babylon Bridge,4,25,,,59GqdBGcvy7mJ6uaTCE30g,Cultural Roots: Roots & Culture,2024-11-06,216236,False,0.8,0.299,9,-14.794,1,0.0844,0.00294,1.75e-05,0.0774,0.694,127.699
+Cultural Roots,Too Late Shall Be Your Cry,3,25,,,3NvzDSxqAH8MGDVHsR7hSU,Cultural Roots: Roots & Culture,2024-11-06,206489,False,0.883,0.292,10,-13.647,0,0.234,0.0189,1.53e-05,0.139,0.818,125.717
+Cultural Roots,Will Power,3,25,,,6CyQc7csGBqJtVmQ9MVx4a,Cultural Roots: Roots & Culture,2024-11-06,359096,False,0.763,0.477,4,-13.918,0,0.209,0.0258,0,0.218,0.932,143.653
+Cultural Roots,Mr. Bossman,4,25,,,233dknej2sru2DDlFjcLp6,Cultural Roots: Roots & Culture,2024-11-06,218794,False,0.809,0.539,1,-11.357,1,0.0596,0.0132,3.01e-06,0.109,0.955,133.442
+Cultural Roots,Blackie Blackie,1,25,,,2fLM64o159iXrCaEwwOX4I,Cultural Roots: Roots & Culture,2024-11-06,189042,False,0.807,0.326,10,-14.9,1,0.0937,0.0146,0,0.123,0.901,128.469
+Cultural Roots,Red Light,2,25,,,6x2TIEfQii2Nk2PSM7bqBs,Cultural Roots: Roots & Culture,2024-11-06,202884,False,0.827,0.178,7,-21.075,0,0.0976,0.000366,0.000244,0.0917,0.862,132.191
+Cultural Roots,Danger Light,2,25,,,7w3xVpVCRDnQlJbeRv5fCW,Cultural Roots: Roots & Culture,2024-11-06,458817,False,0.867,0.442,0,-14.543,1,0.0563,0.00752,0.609,0.294,0.76,131.249
+Cultural Roots,Tribal Avenue,2,25,,,01XYbJ3rmfGwVQlN367GUN,Cultural Roots: Roots & Culture,2024-11-06,232782,False,0.754,0.366,7,-14.562,1,0.197,0.0166,0,0.11,0.793,130.52
+Cultural Roots,Jah No Partial,3,25,,,0syD9D0IB5L6JDJqDADrpG,Cultural Roots: Roots & Culture,2024-11-06,232191,False,0.874,0.312,4,-15.045,0,0.151,0.000536,0.00358,0.103,0.783,129.904
+Cultural Roots,Devil-Ites,3,25,,,1MJbhHU0XUjdwMFxbQIjmp,Cultural Roots: Roots & Culture,2024-11-06,301627,False,0.765,0.137,5,-25.219,0,0.0761,0.149,0.644,0.0917,0.901,142.79
+Cultural Roots,Babylon Bridge,4,25,,,0vMAt7zWTfh5RdJFssifCD,Revolutionary Sounds,1980-04-07,216236,False,0.8,0.299,9,-14.794,1,0.0844,0.00294,1.75e-05,0.0774,0.694,127.699
+Cultural Roots,Can't Find Reality,3,25,,,62iqkZExUVTlll7EutJNjv,Drift Away from Evil,2012-05-06,203493,False,0.849,0.451,6,-9.829,0,0.0798,0.225,0.000375,0.139,0.847,137.291
+Cultural Roots,Girl You’re My Kind,4,25,,,7BCESDVg0RsVB4Ux2w61ir,Drift Away from Evil,2012-05-06,242050,False,0.789,0.358,4,-11.319,1,0.147,0.445,0.000189,0.436,0.91,128.232
+Catie Curtis,Troubled Mind,20,20,,,4uI5UppCshfFam4ZvIqMUy,Truth from Lies,1996-01-16,240800,False,0.499,0.232,9,-12.962,1,0.0319,0.824,3.22e-05,0.136,0.192,146.584
+Catie Curtis,Magnolia Street,16,20,,,51yv7X8OIwCsjvulm8zzw0,A Crash Course in Roses,1999-08-03,244960,False,0.312,0.145,9,-12.775,1,0.0413,0.927,0,0.129,0.251,70.914
+Catie Curtis,Radical,12,20,,,5IohAR6k8zlzhn2RekUBmF,Truth from Lies,1996-01-16,222093,False,0.665,0.374,0,-8.268,1,0.0314,0.019,0.005,0.122,0.331,76.251
+Catie Curtis,Patience,11,20,,,3uE5hOz6EHFu6SkrpMVfSY,My Shirt Looks Good On You,2001-08-21,172066,False,0.642,0.479,10,-9.866,1,0.0274,0.274,0.00105,0.0768,0.766,75.211
+Catie Curtis,Dad's Yard,11,20,,,0XUvBBj9SLDxylrK1wDj0b,Truth from Lies,1996-01-16,263773,False,0.551,0.236,2,-11.393,1,0.0308,0.574,1.89e-05,0.112,0.12,75.298
+Catie Curtis,Soulfully,10,20,,,51vyyiaIkZZ962xiPGWFpe,Catie Curtis,1997-01-14,272240,False,0.69,0.614,7,-9.736,1,0.0345,0.258,0.000166,0.205,0.617,90.066
+Catie Curtis,Kiss That Counted,10,20,,,6o81RgSsztBNKsSup7P4bZ,My Shirt Looks Good On You,2001-08-21,202466,False,0.567,0.6,5,-7.242,1,0.026,0.188,0.0004,0.22,0.488,101.082
+Catie Curtis,People Look Around,10,20,,,5AV6O063rPY7U3DSat0ONJ,Long Night Moon,2006,238453,False,0.642,0.593,1,-7.078,1,0.0257,0.249,0,0.111,0.587,91.033
+Catie Curtis,100 Miles,11,20,,,30KQnJtZPW38UcLklNk2y3,A Crash Course in Roses,1999-08-03,303826,False,0.62,0.456,11,-10.839,1,0.0285,0.606,0.00864,0.115,0.347,98.243
+Catie Curtis,If I Should Fall Behind,9,20,,,3LEp1PHUxoEbpCt03fAIww,In My Room,2010-04-13,163053,False,0.616,0.225,8,-14.075,1,0.056,0.871,0,0.107,0.467,121.786
+Catie Curtis,Falling Silent in the Dark,7,20,,,27kieXjJSl1FgpmG1p9eSI,Catie Curtis,1997-01-14,222200,False,0.584,0.281,7,-11.387,1,0.0264,0.125,1.44e-06,0.115,0.0734,134.909
+Catie Curtis,Elizabeth,8,20,,,6UTRgG1GsW2e6ixBxOw5Vp,My Shirt Looks Good On You,2001-08-21,199560,False,0.606,0.259,6,-13.84,1,0.0287,0.706,2.11e-05,0.0887,0.246,110.298
+Catie Curtis,The Widow's Lament,11,20,Wendy Beckerman,44.0,2q3MAzb0OR3yNX2ZBiNtX6,Fast Folk Musical Magazine Vol. 8 No. 8 1996 Fast Folk Revue-Live at the Bottom Line,1997-01-01,201733,False,0.788,0.274,2,-16.637,1,0.859,0.709,0,0.699,0.855,69.753
+Catie Curtis,The Wolf,8,20,,,6aGdQaaFOeJOqbM3pZ0XEw,Truth from Lies,1996-01-16,196506,False,0.568,0.338,0,-8.193,1,0.0313,0.068,8.73e-05,0.0944,0.19,76.516
+Catie Curtis,Water and Stone,4,20,,,7pBlG2LzN11jvCCvAoXQd9,Long Night Moon,2006,216600,False,0.708,0.456,5,-10.074,1,0.0305,0.796,7.81e-06,0.106,0.606,137.249
+Catie Curtis,Just Getting By,4,20,,,3EriVJdWpCczCau3IaIEQZ,Truth from Lies,1996-01-16,265826,False,0.495,0.167,0,-15.271,1,0.0338,0.817,0.000102,0.11,0.15,135.298
+Catie Curtis,I Don't Cry Anymore,2,20,,,0FeLUAHNS2SYxEMmWDaKEO,Catie Curtis,1997-01-14,311493,False,0.575,0.499,2,-11.783,1,0.0239,0.029,0.00688,0.0754,0.354,92.195
+Catie Curtis,Memphis,2,20,,,0wWGrRPhlWncOyJqaEEKWw,Catie Curtis,1997-01-14,216626,False,0.615,0.594,10,-8.862,1,0.0611,0.0513,1.86e-06,0.169,0.787,174.365
+Catie Curtis,The Party's Over,6,20,,,1v9u5MfqjJKBVq9OyMHlOS,Truth from Lies,1996-01-16,234466,False,0.592,0.207,0,-11.149,1,0.0337,0.349,6.25e-05,0.102,0.216,143.132
+Catie Curtis,Run,2,20,,,2NhtsrcRvXae2vSkb2jm7I,My Shirt Looks Good On You,2001-08-21,229560,False,0.579,0.435,5,-10.014,1,0.027,0.31,0.0156,0.115,0.523,96.374
+Catie Curtis,World Don't Owe Me,3,20,,,7zTdqvyw5GVRJxKYqZPm07,A Crash Course in Roses,1999-08-03,237866,False,0.596,0.66,9,-8.203,1,0.0278,0.502,0.000365,0.127,0.587,137.924
+Catie Curtis,My Shirt Looks Good on You,3,20,,,0xUZYHQfcmtaGYdvqAVif4,My Shirt Looks Good On You,2001-08-21,187440,False,0.639,0.87,1,-5.143,0,0.0293,0.00418,0.000174,0.226,0.682,130.07
+Catie Curtis,Hey California,2,20,,,71U4ayS95Lno2aQijIjupw,Long Night Moon,2006,165746,False,0.65,0.548,9,-7.033,1,0.0344,0.0159,0,0.27,0.421,111.68
+Catie Curtis,You Can Always Be Gone,3,20,,,7eBLSsWrrmGSm7POSP09EM,Truth from Lies,1996-01-16,186800,False,0.579,0.743,9,-7.188,1,0.0327,0.0103,0.000517,0.299,0.496,111.904
+Catie Curtis,What You Can't Believe,2,20,,,0uAx1kFV3yJm9uculiS90Q,Sweet Life,2008-09-09,281066,False,0.737,0.445,0,-8.652,1,0.0277,0.573,0,0.11,0.239,118.975
+Catie Curtis,Passing Through,2,20,,,5QSudr3ztsMzOsoAVPM9VJ,Long Night Moon,2006,272653,False,0.556,0.34,2,-9.877,1,0.0304,0.893,0,0.114,0.538,156.541
+Catie Curtis,Love Takes the Best of You,2,20,,,6Z6xQUomWRxPzWD2dydtku,My Shirt Looks Good On You,2001-08-21,258600,False,0.528,0.401,0,-13.094,1,0.0287,0.684,0.000145,0.132,0.222,90.53
+Catie Curtis,Forgiveness,0,20,,,6JYT5b3pUcUImWkLZBiaSy,Catie Curtis,1997-01-14,179493,False,0.789,0.426,4,-13.543,1,0.0327,0.123,0.00765,0.0949,0.684,118.391
+Catie Curtis,Come to Me,1,20,,,48u5DTsvwdAse69q0MAcaL,Catie Curtis,1997-01-14,188400,False,0.689,0.294,8,-13.288,1,0.0423,0.0739,0.000549,0.112,0.219,81.186
+Catie Curtis,River Winding,1,20,,,70OIrzHgDbcV77XDSFDVrA,Catie Curtis,1997-01-14,230400,False,0.554,0.492,8,-11.641,1,0.0279,0.00891,1.95e-06,0.0864,0.554,150.222
+Catie Curtis,Do Unto Others,1,20,,,5oZWkhDO8IuTkn8qIy3y2y,Catie Curtis,1997-01-14,238533,False,0.558,0.613,1,-9.994,1,0.0322,0.00721,8.36e-06,0.0303,0.144,86.236
+Catie Curtis,I Still Want To,1,20,,,1t1iLzPIDUA9tmny4zT9eD,Catie Curtis,1997-01-14,225973,False,0.654,0.454,7,-11.605,1,0.0284,0.436,6.19e-05,0.105,0.43,144.354
+Catie Curtis,Heroes,1,20,,,2IT9f2zly3EyIkqM4avEUC,Catie Curtis,1997-01-14,216173,False,0.598,0.558,7,-10.357,1,0.0343,0.00989,0.000372,0.0476,0.777,77.759
+Catie Curtis,The Truth Is,1,20,,,4xikzGMvEhfZV3cUrlcGZj,Catie Curtis,1997-01-14,189240,False,0.588,0.318,7,-13.38,1,0.0289,0.138,1.51e-06,0.111,0.367,144.286
+Catie Curtis,Larry,1,20,,,3050QZO5BL2p59OC4FGRx8,Catie Curtis,1997-01-14,283533,False,0.414,0.296,11,-12.321,1,0.0352,0.0552,3.09e-06,0.0875,0.125,154.145
+Catie Curtis,Silver Bells,0,20,,,209KLBy9C4zPqaWppyUxz5,A Catie Curtis Christmas feat. Elana Arian Ingrid Graudins & John Jennings,2012-11-13,267693,False,0.545,0.122,5,-15.949,1,0.0343,0.885,1.09e-05,0.0947,0.513,113.488
+Catie Curtis,Song for a Winter's Night,2,20,,,60f6m0zMP17EIr5LcSR0y4,A Catie Curtis Christmas feat. Elana Arian Ingrid Graudins & John Jennings,2012-11-13,209973,False,0.537,0.108,4,-15.219,1,0.0426,0.912,1.58e-06,0.14,0.448,74.681
+Catie Curtis,2000 Miles,0,20,,,2c9BysbzRXCpzZExCXzDL5,A Catie Curtis Christmas feat. Elana Arian Ingrid Graudins & John Jennings,2012-11-13,168800,False,0.446,0.191,5,-12.615,1,0.0336,0.882,1.22e-05,0.113,0.433,84.95
+Catie Curtis,Soul Meets Body,0,20,,,3RYUIvqoJMoIMS0xfQ75qd,Sweet Life,2008-09-09,234893,False,0.727,0.604,0,-8.589,0,0.0295,0.402,0.00113,0.106,0.594,127.147
+Catie Curtis,Walk Along the Highway,0,20,,,6RNnhkboSJlfalWH1v3ztL,My Shirt Looks Good On You,2001-08-21,225000,False,0.477,0.169,9,-15.051,1,0.0294,0.946,0.00875,0.102,0.21,84.765
+Catie Curtis,The Big Reprise,0,20,,,3F4CDHcugYnaeWHZO0uUkM,My Shirt Looks Good On You,2001-08-21,213306,False,0.585,0.591,0,-10.2,1,0.0606,0.793,0,0.0962,0.26,98.679
+Catie Curtis,Flying Dream,1,20,,,2TygEb5YbEXEQDoHbaDuTe,Flying Dream,2014-02-25,242704,False,0.413,0.526,9,-7.824,1,0.0359,0.404,0,0.0824,0.33,175.919
+Catie Curtis,Don't Belong to This World,0,20,,,5ndSppaeGVJ4C7mwrKGI0a,"""While Were Here""",2017-01-06,195736,False,0.3,0.165,7,-12.424,1,0.0401,0.847,4.44e-05,0.0949,0.161,60.226
+Catie Curtis,It's A Wonder,2,20,,,70V9TcujLE9rqQTvl8ncyd,Long Night Moon,2006,147986,False,0.396,0.212,0,-10.289,1,0.0388,0.891,0,0.129,0.325,180.132
+Catie Curtis,Deliver Me,1,20,,,2MHMWLoIGuioblq1jhMzph,Dreaming In Romance Languages,2004-01-01,202173,False,0.624,0.384,0,-10.129,1,0.0278,0.538,0,0.0906,0.298,94.761
+Catie Curtis,Gave Me Love,1,20,,,31CsGB7mAJVk8MmdyFppCe,A Crash Course in Roses,1999-08-03,195266,False,0.779,0.419,8,-7.909,1,0.0644,0.0796,5.22e-06,0.115,0.495,84.682
+Catie Curtis,Find You Now,1,20,,,2r0tRdExGih03ta6rM8NLB,Long Night Moon,2006,259746,False,0.794,0.307,6,-10.201,1,0.0281,0.688,2.07e-05,0.0836,0.526,102.043
+Catie Curtis,Burn Your Own House Down,1,20,,,4pGZgzBuQLfCLJ0KVRnEhc,A Crash Course in Roses,1999-08-03,236066,False,0.549,0.46,4,-8.732,1,0.0268,0.376,2.83e-06,0.104,0.393,99.799
+Catie Curtis,Jane,1,20,,,4zHfCfgQZE0C70kN6S2jyH,My Shirt Looks Good On You,2001-08-21,235000,False,0.702,0.453,10,-8.671,1,0.028,0.449,3.37e-05,0.109,0.281,111.059
+Catie Curtis,Innocent,1,20,,,1VR20o4SUiT6HRZRVYrJEU,Long Night Moon,2006,200866,False,0.377,0.191,5,-11.587,1,0.0383,0.889,0.000315,0.14,0.327,179.41
+Cunnie Williams,With Or Without You,35,35,,,5zSXjzQA9rH1vbqAVR5vB0,Star Hotel,1999-01-01,288600,False,0.743,0.505,2,-7.548,1,0.0255,0.0583,0.000115,0.116,0.706,99.986
+Cunnie Williams,Mr.Music(BKR Disco Breakout Radio Edit),30,35,BKR,6.0,5YOLSrC7MdNKGJZl9T1htC,Cunnie Williams - Mr.MusicBKR Edits,2024-04-04,206557,False,0.735,0.845,4,-7.316,0,0.0487,0.104,0.000183,0.134,0.916,122.021
+Cunnie Williams,Saturday - Mousse T.'s House Edit,33,35,,,6oblKNYDOZprcV0VViK03Z,Peppermint Jam Records Pres. Catch the Groove Vol. 5,2014-05-02,206493,False,0.877,0.706,9,-8.807,0,0.0888,0.00197,0.0043,0.103,0.683,122.986
+Cunnie Williams,A World Celebration - Mousse T.'s Party Lick,23,35,Heavy D,3.0,3l3XwPaNC8BTJAt8pZjrVQ,World Celebration,2012-02-15,377133,False,0.776,0.748,6,-6.354,1,0.0564,0.00498,0.0544,0.297,0.848,123.006
+Cunnie Williams,Cunnie Williams - Can You Feel Me (Sergio Helou 1990 Edit),19,35,Sergio Helou,23.0,3PD5nR79kZlnwDyd0jqIfx,Cunnie Williams - Can You Feel Me Sergio Helou 1990 Remix Remastered,2024-05-19,205017,False,0.724,0.96,5,-6.776,0,0.0583,0.000327,0.69,0.105,0.521,124.035
+Cunnie Williams,Saturday,27,35,Monie Love,12.0,1PbGIUeeLiQ1xV03snYnNM,Star Hotel,1999-01-01,279733,False,0.923,0.575,9,-7.276,0,0.202,0.0447,0.000776,0.118,0.683,99.909
+Cunnie Williams,Can I Rock,17,35,,,35MoVz1vm89O50JY4ItuGp,Star Hotel,1999-01-01,223066,False,0.908,0.593,7,-7.022,1,0.0758,0.0206,5.29e-06,0.118,0.747,94.934
+Cunnie Williams,Saturday - Mousse T.'s Welcome to the Star Hotel Mix,21,35,Monie Love,12.0,2Sh1Q3uXP4Ss0aAOHx5bBG,Saturday,1998-12-23,470134,False,0.859,0.642,9,-9.887,0,0.0509,0.000595,0.119,0.0824,0.86,122.985
+Cunnie Williams,Spirit - MAW Mix,10,35,Masters At Work,52.0,5RDOoWiwELIjZpPY3sHzn8,Spirit,2000-01-01,581589,False,0.801,0.368,1,-18.378,1,0.0609,0.029,0.626,0.0448,0.827,125.947
+Cunnie Williams,Saturday - Mousse T.'s R&B Mix,7,35,Monie Love,12.0,5GDWF1I0449AIia2PuebuQ,Saturday,1998-12-23,279733,False,0.926,0.578,9,-7.287,0,0.198,0.0387,0.00035,0.114,0.693,99.899
+Cunnie Williams,Come Back To Me,11,35,,,1QiPfBcdLb9ZIiF3k0DZnS,"""Forgotten 00s Hits""",2021-02-12,219893,False,0.772,0.889,5,-5.842,0,0.0413,0.0318,1.14e-06,0.105,0.958,130.024
+Cunnie Williams,Cunnie Williams - Can You Feel Me (Sergio Helou 1990 Remix),4,35,Sergio Helou,23.0,4HnRazqIz0etUWtElugUhp,Cunnie Williams - Can You Feel Me Sergio Helou 1990 Remix Remastered,2024-05-19,437017,False,0.747,0.675,5,-7.546,0,0.0578,5.11e-05,0.846,0.0784,0.379,124.013
+Cunnie Williams,Mr.Music(BKR Marivent Short Story),11,35,BKR,6.0,6Br6xAHgSzVXaOkIoy9Zfu,Cunnie Williams - Mr.MusicBKR Edits,2024-04-04,90485,False,0.776,0.831,7,-6.575,1,0.0432,0.329,0.244,0.0861,0.937,121.994
+Cunnie Williams,Mr.Music(BKR Marivent Club Edit),5,35,BKR,6.0,5o7sS6l0SVGZzztBkzUTmz,Cunnie Williams - Mr.MusicBKR Edits,2024-04-04,414463,False,0.74,0.763,11,-7.688,0,0.0531,0.0797,0.0163,0.0261,0.962,121.986
+Cunnie Williams,"Mr.Music - Darren Studholme, Marivent OK Dub",5,35,Darren Studholme,27.0,1tABLPGxdderuwoagc9Krg,Mr.MusicDarren Studholme Remixes,2019-12-26,238177,False,0.69,0.791,7,-8.025,1,0.0459,0.0557,0.459,0.116,0.967,122.015
+Cunnie Williams,A World Celebration - Cosmack Club Mix,2,35,Heavy D,3.0,3dbC0vLdejz6iiePXV3mag,World Celebration,2012-02-15,433906,False,0.816,0.624,1,-14.656,0,0.0497,0.00116,0.77,0.91,0.796,123.005
+Cunnie Williams,Saturday - Penner+Muder Remix,2,35,Monie Love,12.0,6jsnvgucTSC4iHnkael0k4,Jam Files 05,2011-09-01,428275,False,0.816,0.456,5,-14.116,0,0.106,0.0568,0.274,0.0597,0.759,115.969
+Cunnie Williams,Free My Mind - Interlude,4,35,,,0DGPtSDO2DNrnKvArl5QQN,Star Hotel,1999-01-01,161000,False,0.623,0.194,2,-18.804,1,0.299,0.61,0.0223,0.198,0.678,76.302
+Cunnie Williams,Black Boy,8,35,,,0KVEOEfkZsDQROiFGtbnA4,Star Hotel,1999-01-01,286360,False,0.774,0.388,2,-9.808,1,0.124,0.651,2.22e-05,0.108,0.431,76.115
+Cunnie Williams,I'll Be Over You,4,35,,,6LC2jzXsDvpsucc3PMerB2,Star Hotel,1999-01-01,222733,False,0.851,0.291,11,-9.283,0,0.0963,0.113,0.00159,0.122,0.685,95.916
+Cunnie Williams,Mr.Music - Darren Studholme Anarita Soul Mix,3,35,Darren Studholme,27.0,3S5cxBejjNolfJwamLB4Up,Mr.MusicDarren Studholme Remixes,2019-12-26,366023,False,0.786,0.826,11,-7.038,0,0.0519,0.00647,0.0312,0.0506,0.895,122.008
+Cunnie Williams,World Celebration,8,35,,,1fJ3aDfhFZaWlUQepKidAq,Star Hotel,1999-01-01,275000,False,0.769,0.661,1,-8.275,0,0.0915,0.162,0,0.0575,0.934,95.588
+Cunnie Williams,By My Side,4,35,Buddha Monk,52.0,6TJhieTJ4Orp54CYRBmvy4,Star Hotel,1999-01-01,259000,False,0.797,0.553,5,-9.751,1,0.387,0.092,2.8e-05,0.128,0.729,159.985
+Cunnie Williams,Something's Just Ain't Right,5,35,Monie Love,12.0,5UjsKVore2cUW2zRQty576,Star Hotel,1999-01-01,259600,False,0.782,0.454,7,-10.099,0,0.0904,0.678,2.08e-05,0.22,0.631,93.002
+Cunnie Williams,Mad About You,4,35,,,6maWpahDnFgeMiY5WurSoH,Star Hotel,1999-01-01,289466,False,0.739,0.605,5,-6.708,1,0.0326,0.193,0.000612,0.188,0.8,141.901
+Cunnie Williams,Spirit - MAW Mix,0,35,MAW,0.0,3KiKxDOSCTBu1DT2JvcKJG,Deep Rooted Compiled & Mixed by Terry Hunter,2019-05-17,567520,False,0.817,0.673,1,-7.71,1,0.0431,0.0321,0.564,0.0617,0.814,125.915
+Cunnie Williams,Break Free - Darren Studholme Feel Good Radio Mix,15,35,Darren Studholme,27.0,4Otx9hvUCdHSoiAO1YEkzo,Break FreeDarren Studholme Feel Good Mixes,2024-04-26,187852,False,0.73,0.833,9,-7.092,0,0.0427,0.028,0.00968,0.386,0.939,123.991
+Cunnie Williams,Barry's Mood,11,35,,,3hQ5YRCoQx7rHHobHqlWTr,Star Hotel,1999-01-01,315506,False,0.839,0.36,0,-9.271,1,0.131,0.224,7.96e-05,0.168,0.579,115.971
+Cunnie Williams,New York (Interlude),3,35,,,1lkkejtDIZJ2XVuaMZ2g6t,Star Hotel,1999-01-01,64000,False,0.808,0.547,2,-13.189,1,0.294,0.0167,5.6e-05,0.116,0.657,179.919
+Cunnie Williams,Here I Go Again,6,35,,,657MkzwbCRE7kn1LMSU9Mt,Star Hotel,1999-01-01,291000,False,0.67,0.463,1,-11.068,1,0.243,0.349,0,0.0714,0.451,77.007
+Cunnie Williams,Spinning Wheel,16,35,,,7l6VgiXwAy4EHjByDx2kAH,Star Hotel,1999-01-01,235560,False,0.921,0.488,6,-8.796,1,0.16,0.0745,0,0.047,0.894,90.813
+Cunnie Williams,Saturday - Fedde Le Grand Vocal Mix,1,35,Monie Love,12.0,7AqzoUuXLn1zHGR1vIZrjy,Saturday 2009,2009-01-01,378384,False,0.835,0.79,2,-7.939,1,0.201,0.000553,0.0205,0.0838,0.721,122.982
+Cunnie Williams,Life Goes One,21,35,,,5mqyZoZb9yCmAZiSQ34wrv,Comme un aimant Version 1 [Bande originale du film],2000-05-23,213413,False,0.72,0.369,2,-9.86,0,0.0825,0.617,8.73e-06,0.103,0.376,78.989
+Cunnie Williams,Star Hotel,11,35,,,4E01ZTD0jOIl2J4zllAnsr,Star Hotel,1999-01-01,250933,False,0.831,0.525,11,-7.252,0,0.222,0.137,1.49e-06,0.136,0.808,99.91
+Cunnie Williams,Saturday - D'Influence R&B Mix,7,35,Cunnie Williams,42.0,7aiAGuqnK6JUVWNbwxSUVW,Saturday,1998-12-23,316426,False,0.849,0.601,4,-8.146,0,0.0726,0.00883,2.28e-05,0.267,0.815,100.026
+Cunnie Williams,A World Celebration - Can 7 Hot Meal Vocal,1,35,Cunnie Williams,42.0,24pX0oeomcebeqXEITXMPK,World Celebration,2012-02-15,327066,False,0.78,0.791,6,-11.6,0,0.0803,0.000529,0.79,0.033,0.94,123.005
+Cunnie Williams,Saturday - Alex Gaudino & Jason Rooney Remix,5,35,Cunnie Williams,42.0,5Hgc6azQEzKL9le36Vl6rC,Saturday 2009,2009-01-01,404169,False,0.839,0.855,9,-5.048,0,0.0921,0.000761,0.384,0.0623,0.736,128.003
+Cunnie Williams,Saturday - Mousse T.'s Filterfish,3,35,Cunnie Williams,42.0,68UnszTUxnOvks1MLDFMtL,Saturday,1998-12-23,378865,False,0.883,0.637,9,-11.3,1,0.0551,0.0107,0.859,0.0563,0.278,122.986
+Cunnie Williams,A World Celebration - Royal Garden Full Version,3,35,Cunnie Williams,42.0,2fxOULiUZGniYE4zli6sbf,World Celebration,2012-02-15,247802,False,0.798,0.419,1,-13.302,0,0.231,0.164,2.1e-06,0.0923,0.782,95.35
+Cunnie Williams,Life Goes One,10,35,,,1DqlokIDJNjzCJkCGhjBAu,Comme un aimant Version 2 [Bande originale du film],2001-06-12,213413,False,0.72,0.37,2,-9.86,0,0.0813,0.61,8.6e-06,0.103,0.378,78.989
+Cunnie Williams,Mr.Music - Darren Studholme NuBossa Radio Mix,10,35,Darren Studholme,27.0,6CPyZOuW8AXIuZQ7rbNh9V,Mr.MusicDarren Studholme Remixes,2019-12-26,191000,False,0.614,0.86,11,-5.289,0,0.0518,0.105,6.39e-06,0.223,0.646,122.028
+Cunnie Williams,Mr.Music (Darren Studholme Precious Groove Radio Mix),9,35,Darren Studholme,27.0,6hxbdqofk7d3kyjMD0L13C,I Love My Radio Vol.3,2023-12-17,192000,False,0.696,0.924,7,-4.376,1,0.0483,0.107,0.000769,0.176,0.948,121.999
+Cunnie Williams,Mon microphone est mon seul ami - feat. Cunnie Williams,6,35,Cunnie Williams,42.0,3Xl77N2YmfNh1J1eZMbDft,Reflexions,2001-02-05,268933,False,0.835,0.659,1,-5.122,1,0.2,0.0324,0,0.123,0.601,111.029
+Cunnie Williams,Spirit,5,35,,,3R7QLWIEoHwmI7t2yr92gb,Star Hotel,1999-01-01,273933,False,0.813,0.319,6,-11.69,1,0.16,0.346,2.68e-06,0.0704,0.626,119.981
+Cunnie Williams,Mr.Music - Darren Studholme Precious Groove Radio Mix,7,35,Darren Studholme,27.0,6kJb0uAS3SbmOH2ncHVJRb,Mr.MusicDarren Studholme Remixes,2019-12-26,199000,False,0.701,0.882,7,-5.558,1,0.0434,0.15,0.00236,0.205,0.962,122.018
+Cunnie Williams,Mr.Music(BKR Marivent Long Disco Club Edit),4,35,BKR,6.0,37PUBBykYUP0VG1wNE4qGU,Cunnie Williams - Mr.MusicBKR Edits,2024-04-04,477422,False,0.752,0.808,7,-6.641,1,0.0546,0.102,0.0223,0.0331,0.96,121.99
+Cunnie Williams,Spirit - MAW Mix,0,35,Masters At Work,52.0,5brcbAN5K6y9ZpIWn4dJNn,The Sunday Files Vol. 3,2013-10-18,581589,False,0.801,0.368,1,-18.378,1,0.0608,0.029,0.626,0.0448,0.827,125.947
+Cunnie Williams,Stop Breaking My Heart - Instrumental,0,35,,,7tmpPwwKoUJbFNEOIZbl1a,Stop Breaking My Heart,2019-03-11,205153,False,0.693,0.709,11,-7.958,0,0.0309,0.0626,0.733,0.338,0.828,130.03
+Cunnie Williams,On the Way to… - Interlude,0,35,,,6MgwO6MY4jrYoNcqYEBPOX,Star Hotel,1999-01-01,21200,False,0.685,0.103,1,-23.616,1,0.521,0.148,1.65e-05,0.419,0.565,93.159
+Cunnie Williams,Believe,4,35,,,3heQkU1zV0bP4t7YBu1oEe,Touch of Soul Vol. 2 - 20 Soulful Tunes,2013-11-11,259560,False,0.702,0.31,3,-9.854,0,0.079,0.28,0,0.0798,0.584,148.059
+Cuencos Tibetanos,Cuencos Tibetanos,20,20,,,5Rph1tDeFXpkKF5PMgMdRW,Cuencos Tibetanos - Música de Relajacion Con Cuenco Tibetano para Meditar,2018-10-17,458681,False,0.374,0.00225,11,-18.42,0,0.272,0.923,0.944,0.102,0.244,76.22
+Cuencos Tibetanos,Sonidos tibetanos,17,20,,,2s1cLdbxiKl3IWS7hNR03a,Ambientes quietos de cuencos tibetanos,2022-06-05,64000,False,0.0907,0.968,9,-26.851,1,0.157,0.816,0.942,0.309,0.0156,169.888
+Cuencos Tibetanos,Cuencos Tibetanos y Aves,20,20,Soñoliento Juan,26.0,34sus2rsLpwu8uhZa94YNo,Cuencos Tibetanos de Canto Meditativo,2020-12-09,117120,False,0.43,0.643,8,-14.503,1,0.357,0.876,0.915,0.674,0.0375,96.632
+Cuencos Tibetanos,Ambiente de cuencos tibetanos para dormir,21,20,,,2K6l1AXWn5K31XOBtenwBQ,Ambientes quietos de cuencos tibetanos,2022-06-05,67000,False,0.199,0.944,1,-26.935,0,0.0598,0.824,0.983,0.315,0.0194,52.069
+Cuencos Tibetanos,Humildes sonidos tibetanos para dormir,15,20,,,0zWhLPkjVF3J8lwrbvZuvr,Cuencos tibetanos profundos para dormir profundamente,2022-06-06,63000,False,0.217,0.346,6,-40.737,1,0.0772,0.798,0.985,0.168,0.0321,71.86
+Cuencos Tibetanos,Tazón cantador pacíficos,21,20,,,2AjUEnZMybEIo8xrIVYQEt,Ambientes quietos de cuencos tibetanos,2022-06-05,63000,False,0.219,0.973,6,-26.924,1,0.0395,0.791,0.98,0.409,0.0115,100.088
+Cuencos Tibetanos,Ruidos tibetanos para dormir tranquilos,10,20,,,3kcMsw30KuoxrlrMYrEf4y,Cuencos tibetanos profundos para dormir profundamente,2022-06-06,66000,False,0.213,0.405,9,-42.738,1,0.0901,0.772,0.973,0.141,0.0325,122.985
+Cuencos Tibetanos,Tranquilidad de Espíritu,31,20,,,6McVQKwTCMRopvVHledm3o,Cuencos Tibetanos - Música de Relajacion Con Cuenco Tibetano para Meditar,2018-10-17,272768,False,0.179,0.000839,9,-25.512,0,0.0434,0.991,0.961,0.112,0.0425,75.581
+Cuencos Tibetanos,Limpiar Energía Negativa,35,20,,,1J5tLQZeH6boeOBdFokxDx,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,458681,False,0.374,0.00225,11,-18.42,0,0.272,0.923,0.944,0.102,0.244,76.22
+Cuencos Tibetanos,Lluvia con cuencos tibetanos,13,20,,,1xjn3gyfRxHejC5KHfbBPe,Cuencos tibetanos profundos para dormir profundamente,2022-06-06,67000,False,0.217,0.436,8,-41.425,0,0.0821,0.586,0.976,0.185,0.0247,116.351
+Cuencos Tibetanos,Sueño dichoso sonidos profundos,19,20,,,7gC0nl5UFcW8b8DMWQwwuC,Ambientes quietos de cuencos tibetanos,2022-06-05,63000,False,0.209,0.965,4,-26.782,1,0.271,0.786,0.977,0.385,0.0206,68.494
+Cuencos Tibetanos,Terapia con Cuencos Tibetanos,18,20,Agua Del Mar,20.0,3o4TrXHru6UT2970GPD5Px,Terapia con Cuencos Tibetanos: Música Tibetana Sanadora para Dormir y Relajarse,2019-10-17,253522,False,0.264,0.347,0,-14.238,0,0.0396,0.92,0.0871,0.123,0.0356,119.303
+Cuencos Tibetanos,Ambiente de Cuencos Tibetanos,17,20,,,4o9ATXSSKgunzTU7mg89Gh,Ambientes quietos de cuencos tibetanos,2022-06-05,67000,False,0.191,0.921,4,-26.679,1,0.0977,0.765,0.995,0.277,0.0278,56.777
+Cuencos Tibetanos,Calmar la Mente,34,20,,,06GeUQ8QLzS5RFV5SEyj0q,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,269880,False,0.292,0.0346,6,-17.767,1,0.0499,0.986,0.527,0.109,0.0234,72.346
+Cuencos Tibetanos,Armonizar Chakras,34,20,,,0YsdbvxHANcSWADPmGfO9N,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,412993,False,0.172,0.000831,10,-27.812,1,0.0479,0.979,0.93,0.108,0.0245,71.646
+Cuencos Tibetanos,Sonidos del Tíbet que favorecen el sueño,15,20,,,7ioFTBX9oczIBthyhrEXRe,Cuencos tibetanos profundos para dormir profundamente,2022-06-06,65000,False,0.208,0.387,1,-41.161,0,0.0684,0.752,0.951,0.165,0.0423,61.669
+Cuencos Tibetanos,Las Santas Escrituras (Ondas Delta),20,20,Música Para Meditar y Relajarse,54.0,7tKuhRkSLejUwqD1GFlWC8,Sonidos del Tibet 2019: Música con Cuencos Tibetanos Campanas y Mantras para Sanar,2019-10-03,405424,False,0.14,0.0208,10,-27.093,1,0.0364,0.989,0.83,0.12,0.0362,72.035
+Cuencos Tibetanos,Dejar de Pensar,33,20,,,4E5Vx7ikcqYLDOfiwY9ngW,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,360175,False,0.383,0.000242,6,-28.324,0,0.038,0.995,0.93,0.11,0.382,136.874
+Cuencos Tibetanos,Relajarse Sonido,33,20,,,7dYDB9LkYDecr2QDoaYHne,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,272768,False,0.179,0.000839,9,-25.512,0,0.0434,0.991,0.961,0.112,0.0425,75.581
+Cuencos Tibetanos,Libera Bloqueos Emocionales,32,20,,,1GFDyckkbRjRXs6GkX2f9N,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,380984,False,0.238,0.000275,5,-30.727,0,0.18,0.992,0.947,0.108,0.805,69.718
+Cuencos Tibetanos,Reducir la Ansiedad,31,20,,,1hSeenUD4lVhlUhgG1MOyv,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,265799,False,0.279,0.000962,0,-27.831,0,0.049,0.991,0.913,0.111,0.0341,135.975
+Cuencos Tibetanos,Pensar Positivo,31,20,,,0TCXpmEsSdXreyo2qKgVUz,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,497006,False,0.13,0.00386,11,-19.883,1,0.0545,0.974,0.873,0.0982,0.0248,68.813
+Cuencos Tibetanos,Armonía Espiritual,29,20,,,18fCENzuQQM2fJ6QOZvUf5,Mantras Tibetanos de Sanación: Música para Terapias de Sanación Espiritual,2020-02-19,387999,False,0.0555,0.037,7,-22.648,0,0.0592,0.551,0,0.0965,0.0443,53.018
+Cuencos Tibetanos,Estado de Meditación Profunda,29,20,,,4apVjRm2ZgHfFq1zPfpvnK,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,793148,False,0.143,0.00735,1,-34.74,1,0.0505,0.987,0.937,0.0986,0.0367,142.008
+Cuencos Tibetanos,Sonidos tranquilos y ruidosos del Tíbet con lluvia,12,20,,,4WXe0BSvk1DaC5qt4clj0G,Cuencos tibetanos profundos para dormir profundamente,2022-06-06,63000,False,0.214,0.399,9,-39.868,1,0.136,0.479,0.949,0.143,0.0316,112.692
+Cuencos Tibetanos,Mejora la Creatividad,28,20,,,2iWQ3admFAvGibKge8LEho,Cuencos Tibetanos Sonidos Relajantes Con Agua Dormir Meditación Relajación Armonizar Chakras - Música Tibetana Relajante Budista para Meditar o Dormir,2019-04-17,327017,False,0.156,0.000251,7,-31.591,1,0.0402,0.991,0.847,0.108,0.194,131.136
+Cuencos Tibetanos,Mente enfocada,29,20,Soñoliento Juan,26.0,6BBZ381Q7hndd6WRpEQjks,Cuencos Tibetanos de Canto Meditativo,2020-12-09,111360,False,0.385,0.658,8,-16.137,1,0.211,0.827,0.839,0.213,0.0347,116.474
+Cuencos Tibetanos,Santuario En La Abrazadera Del Sonido,11,20,Alternativas al ruido blanco,7.0,07fPJU3Khliu43rN3wm0wK,Éxtasis De Masaje: Paisaje Sonoro Relajado De Santuario De Ruido Blanco,2024-02-01,120000,False,0.139,0.656,1,-22.812,1,0.112,0.933,0.696,0.106,0.0283,90.895
+Cuencos Tibetanos,Eter,25,20,,,1O462khEWJN8qzeAmcHZ71,Indigo,2018-08-27,244393,False,0.129,0.00283,0,-31.656,1,0.0549,0.994,0.953,0.344,0.0267,66.081
+Cuencos Tibetanos,Metal y Cristal,13,20,,,4OuTAaoZUw8Qa4qHu8KoWX,Cuencos Tibetanos - Música de Relajacion Con Cuenco Tibetano para Meditar,2018-10-17,380984,False,0.238,0.000275,5,-30.727,0,0.18,0.992,0.947,0.108,0.805,69.718
+Cuencos Tibetanos,Disolver Bloqueos,15,20,,,7iaC2JqKzRPwUm7PPprq15,Cuencos Tibetanos - Música de Relajacion Con Cuenco Tibetano para Meditar,2018-10-17,568768,False,0.203,0.0281,4,-19.313,0,0.0447,0.987,0.794,0.107,0.0184,72.181
+Cuencos Tibetanos,Impulsar Su Creatividad,14,20,,,33LyJR888pN9Lfua0i8Fqc,Cuencos Tibetanos - Música de Relajacion Con Cuenco Tibetano para Meditar,2018-10-17,327017,False,0.156,0.000251,7,-31.591,1,0.0402,0.991,0.847,0.108,0.194,131.136
+Cuencos Tibetanos,Meditación Profunda (Música de Spa) #5,16,20,Meditación,24.0,1HGzs3HGAwx1nyvlEATbQa,1 Hora de Música Tibetana - Sonidos para Relajarse,2018-05-28,293998,False,0.154,0.428,5,-21.884,1,0.0455,0.803,0.959,0.116,0.292,84.643
+Cuencos Tibetanos,El Espíritu del Tibet,15,20,Música Para Meditar y Relajarse,54.0,3OU3PLkoEHgjzJZwu4Pga1,El Espíritu del Tibet: Música para la Meditación con Cuencos y Campanas Tibetanas,2019-10-31,281868,False,0.389,0.0116,5,-25.541,0,0.0498,0.994,0.866,0.0939,0.0914,69.361
+Cuencos Tibetanos,Melodías Tranquilas Para Relajación En Lofi,4,20,Ritmo de hip-hop lofi,8.0,21GqDI3bmTh5i3ezC91aj7,Melodías Calmantes Lofi: Vibras De Relajación,2024-05-03,115044,False,0.413,0.151,5,-18.267,1,0.0484,0.731,0.911,0.356,0.538,140.099
+Cuencos Tibetanos,Música para Dormir Profundamente,8,20,Cuencos Tibetanos,31.0,4yEnGMlTpoNpzplH4eJ8DU,Musica de Relajamiento - Medicatión Dormir Relajarse Practicar Yoga o Pilates,2018-05-01,300999,False,0.277,0.227,5,-24.256,1,0.0628,0.985,0.941,0.162,0.34,70.571
+Cuencos Tibetanos,Melodías De Relajación Suaves De Música Lofi,4,20,Ritmo de hip-hop lofi,8.0,7xxI13n9wbePjM7ODuDlF5,Melodías Calmantes Lofi: Vibras De Relajación,2024-05-03,123044,False,0.675,0.282,2,-16.77,0,0.055,0.915,0.859,0.329,0.205,129.99
+Cuencos Tibetanos,Contemplaciones,23,20,,,6pnijiyixGHbeupTQRldtP,Vishuda Cuencos Tibetanos,2013-01-10,313026,False,0.106,0.00152,4,-29.204,0,0.0473,0.995,0.968,0.16,0.0261,68.686
+Cuencos Tibetanos,Subir Tu Energía Vital,27,20,,,5Yv4Yg9xmjHQkC1vj4dCRf,105 Minutos Cuencos Tibetanos Estado Alpha Sanación Armonizar Chacras & Relajación,2018-12-05,265799,False,0.279,0.000962,0,-27.831,0,0.049,0.991,0.913,0.111,0.0341,135.975
+Cuencos Tibetanos,Mantras Tibetanos de Sanación,10,20,,,2uG05HFz5UB7vRLhGsCe2k,Mantras Tibetanos de Sanación: Música para Terapias de Sanación Espiritual,2020-02-19,279999,False,0.526,0.02,0,-21.901,1,0.0337,0.991,0.908,0.152,0.0371,84.0
+Cuencos Tibetanos,Cuencos Tibetanos Sanadores,5,20,,,2eAdOIBCJscqFmlZiSYfJr,Cuencos Tibetanos para Dormir Profundamente,2023-10-03,324953,False,0.148,0.000952,3,-35.632,1,0.0525,0.957,0.864,0.112,0.0317,137.213
+Cuencos Tibetanos,Cuencos tibetanos para la meditación,4,20,Soñoliento Juan,26.0,7HA8vWc46ia5mm8XBvkI7O,Cuencos Tibetanos de Canto Meditativo,2020-12-09,120960,False,0.304,0.584,8,-15.991,1,0.104,0.74,0.903,0.0778,0.0345,171.542
+Cuencos Tibetanos,Cuencos Tibetanos en la Naturaleza,5,20,Soñoliento Juan,26.0,26BG2OoGJ58bx2HtTdFRdS,Cuencos Tibetanos de Canto Meditativo,2020-12-09,113280,False,0.385,0.527,10,-14.289,0,0.184,0.819,0.925,0.554,0.0388,95.774
+Cuencos Tibetanos,Cuenco Tibetanos Sueños,3,20,,,2qtOA3DUWd14q30Ckl1Y8E,Cuencos Tibetanos para Dormir Profundamente,2023-10-03,395013,False,0.151,0.00296,1,-36.515,0,0.0429,0.942,0.893,0.109,0.0348,136.611
+Cuencos Tibetanos,Cuencos Tibetanos para Sanar,6,20,Soñoliento Juan,26.0,1oSaa4GQp21ZObkQmImFhW,Cuencos Tibetanos de Canto Meditativo,2020-12-09,134400,False,0.405,0.443,11,-15.072,1,0.413,0.868,0.908,0.211,0.0359,90.474
+Cuencos Tibetanos,Recorrido,16,20,,,0IpsGkqzDccAgi8VjF7koB,Vishuda Cuencos Tibetanos,2013-01-10,278840,False,0.112,0.00182,0,-33.334,1,0.0469,0.995,0.856,0.119,0.024,67.582
+Cuencos Tibetanos,Cuencos tibetanos de tonos tranquilos y ruidosos,0,20,,,643yIT5pgATur454lHl3Wc,Ruidos tranquilos del Tíbet para dormir profundamente,2022-06-06,63000,False,0.165,0.27,10,-32.486,0,0.0517,4.81e-05,0.719,0.297,0.161,135.824
+Cuencos Tibetanos,Tonos tibetanos ruidosos para dormir agradables,0,20,,,3pODy4d9LJLgCq7YVEdHGR,Ruidos tranquilos del Tíbet para dormir profundamente,2022-06-06,65000,False,0.172,0.241,10,-33.249,0,0.0597,3.72e-05,0.874,0.303,0.257,116.225
+Cuencos Tibetanos,Droning cuencos tibetanos,2,20,Soñoliento Juan,26.0,7MIMnhjeRbhcp562KLitr0,Cuencos Tibetanos de Canto Meditativo,2020-12-09,128639,False,0.501,0.635,10,-14.575,0,0.0697,0.805,0.869,0.0926,0.0388,108.33
+Cuencos Tibetanos,Sonidos Curativos Tibetanos,4,20,,,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,nan
+Current Comfort,Swear I'm Fine,28,28,,,6XQtkZtHtyFf3WbfYjoolv,"""Swear Im Fine Deluxe""",2024-08-20,248000,False,0.376,0.974,6,-3.625,0,0.189,0.000583,0.0805,0.0781,0.148,150.088
+Current Comfort,Clockworks,22,28,Kyle Medina,9.0,3Zf8xXJlxF1of8KNJMUYYt,"""Swear Im Fine Deluxe""",2024-08-20,209000,True,0.465,0.996,11,-2.375,1,0.128,0.000234,0.00107,0.146,0.182,149.961
+Current Comfort,Shake N' Bake,15,28,Ben Hoagland,5.0,0uYcnYEkkj0W6Uw1oS0DOn,"""Swear Im Fine Deluxe""",2024-08-20,205988,False,0.446,0.993,4,-2.818,0,0.14,8.95e-05,0.104,0.354,0.22,95.1
+Current Comfort,Washed Out,14,28,JT Woodruff,36.0,6Zo7k8ojI5ypVIWPwLoO92,"""Swear Im Fine Deluxe""",2024-08-20,201802,False,0.387,0.977,2,-1.917,0,0.193,0.000111,0.0457,0.115,0.437,171.969
+Current Comfort,Swear I'm Fine,13,28,,,5oTpvWRqeDSwcirZa5vuOt,"""Swear Im Fine""",2023-11-10,248000,False,0.376,0.974,6,-3.625,0,0.189,0.000583,0.0805,0.0781,0.148,150.088
+Current Comfort,Stain,12,28,,,5IkQ8gBGJtCTFV6OFgG7pO,Stain,2024-07-16,72558,True,0.296,0.999,4,-3.054,0,0.163,6.99e-05,0,0.0493,0.105,123.718
+Current Comfort,Clockworks,10,28,Kyle Medina,9.0,0R8iaHaLRJBWHkAuvZRs1S,Clockworks,2023-08-29,209000,True,0.465,0.996,11,-2.375,1,0.128,0.000234,0.00107,0.146,0.182,149.961
+Current Comfort,In Your Pocket,9,28,,,4GbHrjrUg2BMzQQVUVEGz5,"""Swear Im Fine Deluxe""",2024-08-20,197000,False,0.602,0.513,11,-7.234,1,0.027,0.234,4.8e-06,0.105,0.458,105.005
+Current Comfort,Pure Vessel,9,28,Matthew Gonzalez,2.0,1YDEqmvRDg3qODnI0w86Nz,"""Swear Im Fine Deluxe""",2024-08-20,159244,False,0.344,0.981,4,-2.635,1,0.198,9.16e-05,0.000323,0.0363,0.208,185.855
+Current Comfort,Stain,8,28,,,0HKpWBMyOh1rtdtolDkd8e,"""Swear Im Fine Deluxe""",2024-08-20,72558,True,0.296,0.999,4,-3.054,0,0.163,6.99e-05,0,0.0493,0.105,123.718
+Current Comfort,Swear I'm Fine - Acoustic,8,28,,,3ICJeGAwkn2iKGJh9bMAKE,"""Swear Im Fine Deluxe""",2024-08-20,223000,False,0.529,0.467,7,-8.624,0,0.0339,0.544,0,0.0809,0.316,149.984
+Current Comfort,Shake N' Bake,5,28,,,2OnPtoFJDOmhrVwImkmK59,"""Swear Im Fine""",2023-11-10,206000,False,0.456,0.993,4,-2.804,0,0.136,0.000204,0.0727,0.349,0.201,95.039
+Current Comfort,Washed Out,6,28,,,62ogfwDy8LUnMalP3srmUS,Washed Out,2023-07-25,202000,False,0.367,0.979,7,-1.789,1,0.206,0.000147,0.116,0.12,0.356,172.046
+Current Comfort,In Your Pocket,6,28,,,4iPXZgU2TY6wGhRp6qbIwK,In Your Pocket,2024-02-13,197000,False,0.602,0.513,11,-7.234,1,0.027,0.234,4.8e-06,0.105,0.458,105.005
+Current Comfort,Washed Out - Acoustic,6,28,,,1aLpmYRl1EzMuOyk2dlbSx,"""Swear Im Fine Deluxe""",2024-08-20,201000,False,0.548,0.371,5,-7.808,1,0.0319,0.518,0,0.136,0.353,161.912
+Current Comfort,Pure Vessel,5,28,,,4IGQjkUiDeGl6W32qy0DKf,Pure Vessel,2023-10-03,160000,False,0.355,0.99,4,-2.528,1,0.192,0.000274,0.000576,0.0435,0.191,185.994
+Current Comfort,Clockworks,2,28,Kyle Medina,9.0,5UwGeOGuhCqTNTLyaGjeWN,"""Swear Im Fine""",2023-11-10,209000,True,0.465,0.996,11,-2.375,1,0.128,0.000234,0.00107,0.146,0.182,149.961
+Current Comfort,Pure Vessel,1,28,,,3noZnIqDs0nwwL81A9ldaE,"""Swear Im Fine""",2023-11-10,160000,False,0.355,0.99,4,-2.528,1,0.192,0.000274,0.000576,0.0435,0.191,185.994
+Current Comfort,Washed Out,1,28,,,34Q0nBXIb5fhv6GbdNF7WE,Clockworks,2023-08-29,202000,False,0.367,0.979,7,-1.789,1,0.206,0.000147,0.116,0.12,0.356,172.046
+Current Comfort,Washed Out,2,28,,,7EjcRU2mSi2bQdityjOSmz,"""Swear Im Fine""",2023-11-10,202000,False,0.367,0.979,7,-1.789,1,0.206,0.000147,0.116,0.12,0.356,172.046
+Current Comfort,Clockworks,0,28,Kyle Medina,9.0,4kTw7DvTTs6Do4BUJAF949,Pure Vessel,2023-10-03,209000,True,0.465,0.996,11,-2.375,1,0.128,0.000234,0.00107,0.146,0.182,149.961
+Current Comfort,Comfort Zone,0,28,,,3cEcKobTwTb95ECC1jfhaY,Majestic View: Heart Beat,2019-01-01,253800,False,0.201,0.487,2,-17.846,1,0.384,0.755,0.679,0.176,0.301,111.741
+Current Comfort,Comfort Zone,0,28,,,4PFOVoRR33B8dHY4lOHBHj,1994-2019,2020-07-10,381440,False,0.71,0.552,5,-12.686,0,0.0888,0.413,0.405,0.103,0.742,117.944
+Current Comfort,Comforting Sleep Sound Effect,0,28,Ocean Sounds,33.0,2MED5BsSb6rwW9QPsa3c2T,Sea Noises for Bedtime Stress Relief Relaxing Inner Strength,2023-02-03,78448,False,0.141,0.436,8,-20.165,1,0.0833,0.0512,0.529,0.326,0.0327,103.539
+Current Comfort,Comforting Stress Relief,0,28,Nature Sounds,37.0,51mrI6XUWAoxAtCUvlEszp,#01 Sea Noises for Relaxing Night Sleep Meditation Wellness,2022-09-30,128828,False,0.24,0.997,2,-24.995,1,0.0815,0.824,0.927,0.976,1e-05,85.587
+Current Comfort,Comfortable Space,0,28,,,4W2YeRjOLQ7x6U01SK4zol,Another Void,2023-07-24,60062,False,0.22,0.181,6,-32.832,0,0.0437,0.654,0.98,0.125,0.403,63.596
+Current Comfort,Comforting Ambient Background Noise,0,28,Ocean Sounds,33.0,None,None,None,None,None,None,None,None,None,None,None,None,None,None,None,nan
+Current Comfort,Comforting Relaxation,0,28,Ocean Sounds,33.0,5WgIx7JluLlxSfrKtxzhbZ,z Z z Sea Noises for Sleeping Relaxing Meditation Pregnant Women,2023-01-13,77703,False,0.134,0.985,1,-18.13,0,0.0528,0.442,0.977,0.968,1e-05,80.599
+Current Comfort,Comforting Sound Effect,0,28,Ocean Sounds,33.0,5iXYCTYx1gfDXBrZYXdIZC,Ocean Sounds for Sleeping Relaxation Studying Massage,2023-02-13,94147,False,0.187,0.934,10,-21.268,0,0.0935,0.139,0.993,0.738,1e-05,71.661
+Current Comfort,Comforting Water Noises,0,28,Ocean Sounds,33.0,40cLdzrQ3rhaaje8Xf23hg,#01 Ocean Sounds for Relaxation Bedtime Studying Children,2022-12-15,80814,False,0.136,0.903,10,-23.309,0,0.051,0.151,0.163,0.9,1e-05,99.225
+Current Comfort,Coastal Comforts - Ocean Sounds for Sleep,0,28,,,3qlnq4QKYQ5tV0mvvVI2tC,Sweet Ocean,2023-09-06,127000,False,0.189,0.336,11,-18.914,0,0.0395,0.5,0.721,0.948,1e-05,59.587
+Current Comfort,Quiet Comforter,0,28,,,2MJ18yo5C2LpeDKuSPB0S7,Peaceful Oceanscapes,2024-09-16,140350,False,0.199,0.0874,9,-29.428,0,0.0536,0.949,0.94,0.686,0.0318,65.023
+Current Comfort,Can You Comfort Me,0,28,,,2dmWeD4ZrXB8QvWGEDe9Un,Versatility,2024-06-14,177391,True,0.98,0.419,2,-11.366,1,0.0565,0.37,0,0.409,0.966,115.01
+Current Comfort,Washed Out,0,28,,,3I2wBDvvfwJvoMpy0SlQ2R,Pure Vessel,2023-10-03,202000,False,0.367,0.979,7,-1.789,1,0.206,0.000147,0.116,0.12,0.356,172.046
+Current Comfort,Hearthside Hymns of Comfort,0,28,Tailormade Ocean Waves,33.0,21pahJVYwOQ91ZlT0zGny9,Pure Fire Music for Ambient Warmth,2024-05-22,120000,False,0.386,0.33,3,-18.985,1,0.0655,0.933,0.907,0.379,0.186,114.332
+Current Comfort,Ocean's Calming Sounds for Baby's Comfort,0,28,Ocean Currents,32.0,42x9f0WnIg07vJPk6W2T3r,Soothing Ocean for Babies: Tranquil Water Sounds,2024-03-20,120000,False,0.24,0.458,3,-19.196,0,0.0478,0.569,0.992,0.117,0.0606,78.023
+Current Comfort,Seaside Melodies for Cat Comfort,0,28,Ocean Currents,32.0,28ojbP19g3utNPZfxgks8c,Melodic Cat Harmony: Music Amidst Ocean Ripples,2024-01-04,120000,False,0.076,0.298,9,-18.545,0,0.0472,0.766,0.985,0.109,0.0397,80.986
+Current Comfort,Vibrant Shades and Skies - Key E Ver.,0,28,,,6hmp6e8Lraau4d0neMWVjW,Autumn Cafe Melody-Comfortable Time,2024-11-19,133809,False,0.675,0.193,2,-22.252,1,0.045,0.827,0.904,0.106,0.473,120.987
+Current Comfort,Bluesy Jazz Afternoon - Key Eb Ver.,0,28,,,3tg5PwZq9f2gKbdfFVtkJ9,Autumn Cafe Melody-Comfortable Time,2024-11-19,167997,False,0.719,0.229,5,-22.07,0,0.05,0.863,0.934,0.116,0.485,97.028
+Current Comfort,Jazz in Autumnal Solitude,0,28,,,1zLQYXDeqdBVVRhWm0cPrS,Autumn Cafe Melody-Comfortable Time,2024-11-19,136845,False,0.709,0.278,0,-20.69,1,0.0462,0.605,0.851,0.1,0.697,119.067
+Current Comfort,Smooth Sunbeam Serenity - Key A Ver.,0,28,,,4gwcx9NW0oVVY8dJWUbhhN,Autumn Cafe Melody-Comfortable Time,2024-11-19,135060,False,0.688,0.223,6,-20.391,0,0.0468,0.794,0.893,0.126,0.378,126.015
+Current Comfort,Silver Screen Secession - Key Ab Ver.,0,28,,,33ViYvDeeOIl2SPbAKebm5,Autumn Cafe Melody-Comfortable Time,2024-11-19,165059,False,0.708,0.264,8,-20.26,1,0.0412,0.743,0.836,0.114,0.406,104.002
+Current Comfort,Sticky Sip Seduction - Key B Ver.,0,28,,,5VJf3HyYCOignWS5zA1aGe,Autumn Cafe Melody-Comfortable Time,2024-11-19,156975,False,0.691,0.176,11,-22.869,1,0.0461,0.856,0.935,0.111,0.375,109.968
+Current Comfort,Jazz and History Lullaby - Key B Ver.,0,28,,,2ohTSyzLCO3BjUwpu7vexx,Autumn Cafe Melody-Comfortable Time,2024-11-19,139183,False,0.726,0.238,0,-21.939,1,0.0453,0.759,0.917,0.112,0.5,116.049
+Current Comfort,Lilting Jazz in Autumn Breeze - Key G Ver.,0,28,,,7LhAxcFScPYskKylPAKeUC,Autumn Cafe Melody-Comfortable Time,2024-11-19,161916,False,0.72,0.216,2,-20.47,1,0.0463,0.816,0.923,0.113,0.365,104.988
+Current Comfort,Golden Shine and Shimmer - Key D Ver.,0,28,,,5BeN0FKcrhtoc8lTW5x8ea,Autumn Cafe Melody-Comfortable Time,2024-11-19,137994,False,0.742,0.255,1,-22.209,1,0.0443,0.76,0.931,0.105,0.56,116.995
+Current Comfort,Quiet Rhythms Quirky Quotes - Key Ab Ver.,0,28,,,6Lqz4bclIk32z5eN1gduHy,Autumn Cafe Melody-Comfortable Time,2024-11-19,156677,False,0.684,0.282,5,-20.217,1,0.0404,0.719,0.843,0.131,0.58,106.983
+Current Comfort,Swinging Serenade Symphonies - Key G Ver.,0,28,,,2acN80CnIcwQTdbECN67Uh,Autumn Cafe Melody-Comfortable Time,2024-11-19,136155,False,0.709,0.22,7,-22.074,1,0.0431,0.827,0.921,0.109,0.453,120.022
+Current Comfort,Cool Autumnal Accent - Key C Ver.,0,28,,,6uLBgioeI9Wbpm78Trjuq8,Autumn Cafe Melody-Comfortable Time,2024-11-19,178679,False,0.667,0.256,9,-20.357,0,0.0381,0.716,0.85,0.125,0.443,95.001
+Current Comfort,Vintage Vignettes - Key Db Ver.,0,28,,,0kjQ079HSdaHsrwWiPyxyb,Autumn Cafe Melody-Comfortable Time,2024-11-19,160364,False,0.53,0.277,1,-20.345,1,0.0522,0.647,0.841,0.0857,0.753,201.942
+Los Hermanos Cuestas,Juan del Gualeyán,36,36,,,6d8cf55evSx64n4PW8Yy1J,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,170120,False,0.707,0.406,7,-9.686,0,0.0426,0.469,6.45e-05,0.11,0.685,86.966
+Los Hermanos Cuestas,Canción de Puerto Sanchez,32,36,,,3edd7vlFTq8UQ4zIgAZgtB,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,200266,False,0.638,0.375,11,-9.923,0,0.0937,0.709,2.35e-06,0.654,0.512,119.544
+Los Hermanos Cuestas,Puestero y Cazador (with Los Chamarriteros),28,36,Los Chamarriteros,10.0,5QednlopKsMxCcEZXLoUd1,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,166306,False,0.692,0.318,1,-15.062,1,0.0543,0.335,0,0.226,0.754,93.897
+Los Hermanos Cuestas,Chamarrita de los Pájaros (with Los Chamarriteros),28,36,Los Chamarriteros,10.0,1tYeBWLfzyQp8djcK0k59U,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,168613,False,0.42,0.439,8,-5.864,0,0.0814,0.221,0,0.0705,0.686,185.636
+Los Hermanos Cuestas,Mire Amigo Santillán,24,36,,,49MDgtJf0E2lN8BJePQ1tH,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,141546,False,0.77,0.407,7,-9.168,0,0.036,0.567,1.77e-05,0.119,0.706,115.924
+Los Hermanos Cuestas,Como los Pájaros,19,36,,,1r5jGviMWJmr6PmRbmSWDy,Los Hermanos Cuestas Cronología - De Entre Ríos al País 1973,1974-11-29,184040,False,0.554,0.259,11,-11.398,0,0.0984,0.568,2.4e-06,0.166,0.366,101.858
+Los Hermanos Cuestas,Entrerriano y de a Caballo (with Los Chamarriteros),22,36,Los Chamarriteros,10.0,3hrEfp5glQyYozNVmmm85w,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,190240,False,0.608,0.343,7,-13.532,0,0.0551,0.197,0,0.118,0.533,89.137
+Los Hermanos Cuestas,Mi Novia la Chamarrita (with Los Chamarriteros),26,36,Los Chamarriteros,10.0,6A4Uo01OCMtbgXkihUmSj9,Folclore - La Colección - Los Hermanos Cuestas,2008-05-20,172280,False,0.575,0.497,7,-7.513,0,0.0408,0.387,2.83e-05,0.485,0.704,95.11
+Los Hermanos Cuestas,Soy Entrerriano (with Orquesta Sinfónica De Entre Ríos & Coro Asociación Verdiana de Entre Ríos),19,36,Orquesta Sinfónica De Entre Ríos,45.0,7eLZTmf4oFQ7bwIHyT1ORg,Canto A Entre Ríos,1974-05-09,204720,False,0.432,0.617,7,-7.607,0,0.0469,0.263,0,0.479,0.601,122.212
+Los Hermanos Cuestas,Carancho Asau,16,36,,,7wIjJhw4Kdczu4GnkH9bUc,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,160560,False,0.724,0.464,7,-8.799,1,0.0349,0.0553,7.88e-05,0.115,0.724,93.108
+Los Hermanos Cuestas,Río de los Pájaros,8,36,,,3iLyQcUbf6JdPVAssFrvX6,Los Hermanos Cuestas Cronología - Nacidos en Entre Ríos 1976,1976-11-29,190800,False,0.693,0.414,7,-10.884,1,0.0348,0.165,9.83e-05,0.137,0.833,115.92
+Los Hermanos Cuestas,Ojitos Color del Tiempo,11,36,,,7wzT1fYEVYasiH5VX2JxRY,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,129066,False,0.789,0.538,7,-7.536,0,0.0504,0.162,2.88e-06,0.0675,0.822,89.609
+Los Hermanos Cuestas,Arroyito Sin Nombre,5,36,,,0O6C4k0xeXpQXfiCP5WHFM,Los Hermanos Cuestas Cronología - Los 10 Años de los Hermanos Cuestas 1982,1982-11-29,135733,False,0.545,0.352,7,-11.683,0,0.0428,0.403,1.82e-05,0.811,0.555,108.494
+Los Hermanos Cuestas,Coplas por Milonga,16,36,,,7evfIlOCc9CJKQHCfgu9cV,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,147813,False,0.663,0.427,7,-9.754,0,0.0373,0.566,0.000343,0.148,0.534,96.224
+Los Hermanos Cuestas,"Canta el Zorzal, Baila la Calandria (with Los Chamarriteros)",8,36,Los Chamarriteros,10.0,4uuI92gjYXnwHQfPCZUref,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,213213,False,0.652,0.48,5,-7.309,1,0.0484,0.365,0,0.0772,0.821,84.541
+Los Hermanos Cuestas,Canción del Jornalero,4,36,,,69eeZHatChLHZoAglxsgf2,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,185853,False,0.548,0.39,4,-7.174,1,0.0524,0.493,2.02e-06,0.0667,0.459,132.496
+Los Hermanos Cuestas,Mi Niña de Chajarí,5,36,,,4c1xJNX31bnWPWMjwBLyL7,Los Hermanos Cuestas Cronología - Los 10 Años de los Hermanos Cuestas 1982,1982-11-29,146706,False,0.615,0.387,7,-9.514,1,0.0428,0.344,0,0.132,0.558,86.861
+Los Hermanos Cuestas,Concierto Virginal,12,36,,,46wxXdLrbmhZkNIxvlwLs0,Los Hermanos Cuestas Cronología - Concierto Virginal 1984,1984-11-29,157493,False,0.671,0.377,3,-9.148,1,0.115,0.459,0.00425,0.0449,0.801,100.056
+Los Hermanos Cuestas,Solar de los Cardenales,11,36,,,0nGjIG80oCIwZ4CPuMIuvy,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,150680,False,0.634,0.478,7,-7.281,1,0.0361,0.267,0.00036,0.0589,0.8,93.13
+Los Hermanos Cuestas,Trote E' Petiso,4,36,,,7xvXwiqJTWT51UGK60BCia,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,195426,False,0.747,0.412,4,-8.785,0,0.0476,0.419,0.00174,0.275,0.795,126.543
+Los Hermanos Cuestas,Puentecito de la Picada (with Los Chamarriteros),18,36,Los Chamarriteros,10.0,7HN5dXrhatJ5lNEnSP7Mh4,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,171520,False,0.638,0.331,5,-13.935,0,0.0388,0.635,0,0.108,0.73,129.16
+Los Hermanos Cuestas,Mi Cupecito Chiru,4,36,,,0ciY53DWHF2cBSFcFUBDwk,Los Hermanos Cuestas Cronología - Los 10 Años de los Hermanos Cuestas 1982,1982-11-29,141013,False,0.743,0.459,4,-9.728,1,0.0329,0.103,0,0.196,0.85,100.563
+Los Hermanos Cuestas,"Costera, Mi Chacarera",6,36,,,0JF1gStx2QnzUxSPveobjN,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,160906,False,0.634,0.371,0,-16.638,1,0.077,0.622,2.21e-05,0.19,0.317,136.764
+Los Hermanos Cuestas,Canto a la Paz de Entre Ríos,10,36,,,2PuCxZRbNqv20x0rFdP32m,Los Hermanos Cuestas Cronología - Nacidos en Entre Ríos 1976,1976-11-29,238160,False,0.398,0.328,4,-12.651,0,0.0322,0.0235,0.00279,0.427,0.397,105.486
+Los Hermanos Cuestas,Costeando el Tajamar,10,36,,,2UtFLYj3zetwZy61hLUtlK,Los Hermanos Cuestas Cronología - Idolos 1985,1985-11-29,243040,False,0.475,0.397,5,-9.987,1,0.0842,0.477,0,0.0905,0.568,77.281
+Los Hermanos Cuestas,Los Sonidos de Mi Tierra (with Los Chamarriteros),16,36,Los Chamarriteros,10.0,3FpGFSALea4VHhxKs0sqEU,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,201986,False,0.534,0.345,0,-13.901,0,0.0449,0.461,2.19e-05,0.307,0.671,87.919
+Los Hermanos Cuestas,Tranqueador Como Perdiz,5,36,,,21LkWFOw2Ml2Pke1TFHkGA,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,191346,False,0.434,0.486,6,-7.078,1,0.129,0.518,0,0.0797,0.464,84.961
+Los Hermanos Cuestas,El Taca Taca del Motor,12,36,,,28lxkkteRp5P5lml7unVgD,Los Hermanos Cuestas Cronología - Idolos 1985,1985-11-29,186440,False,0.58,0.644,10,-7.859,1,0.113,0.244,0,0.162,0.557,94.242
+Los Hermanos Cuestas,El Árbol de los Pájaros (with Los Chamarriteros),15,36,Los Chamarriteros,10.0,6s9lKcIIL03yvQbpQueuWa,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,148080,False,0.722,0.444,11,-7.979,0,0.0476,0.627,0,0.0489,0.797,120.022
+Los Hermanos Cuestas,Malambo del Hornerito,15,36,,,5RBrEmiem6I1K9NIlZfcsu,Los Hermanos Cuestas Cronología - El Canto de los Pájaros 1972,1972-11-29,150226,False,0.771,0.406,11,-10.56,0,0.0721,0.411,0.000421,0.0762,0.597,146.087
+Los Hermanos Cuestas,Soy Ladrillero,9,36,,,5kNAII21Msk5C30hZrQY6i,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,169466,False,0.685,0.301,5,-12.103,1,0.0945,0.224,0.00165,0.248,0.571,78.306
+Los Hermanos Cuestas,Al Cantor del Montiel,16,36,,,34M59erDoye54lpr4GeOSy,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,154560,False,0.555,0.467,7,-6.61,0,0.0461,0.383,2.57e-05,0.0796,0.711,88.452
+Los Hermanos Cuestas,Invitación al Vuelo,10,36,,,4TbQ7RuwEe34ggGD0qt14l,Los Hermanos Cuestas Cronología - Invitación al Vuelo 1977,1977-11-29,190866,False,0.457,0.325,4,-10.057,0,0.0373,0.264,0.00308,0.344,0.814,76.782
+Los Hermanos Cuestas,Pájaros de Mi Flor,17,36,,,4OmAgMwYKaouKVe4MyfGwN,Los Hermanos Cuestas Cronología - El Canto de los Pájaros 1972,1972-11-29,178706,False,0.622,0.529,7,-11.328,1,0.157,0.404,0.866,0.106,0.481,83.335
+Los Hermanos Cuestas,Chacarera del Río Seco,10,36,,,2znH9R50cC7fkZUugjeRdB,Los Hermanos Cuestas Cronología - Invitación al Vuelo 1977,1977-11-29,198640,False,0.545,0.439,9,-8.124,0,0.0325,0.0849,0,0.563,0.646,120.573
+Los Hermanos Cuestas,Tropero Silbador,11,36,,,36LL6uB240ragWEbOw7bl2,Los Hermanos Cuestas Cronología - Invitación al Vuelo 1977,1977-11-29,230120,False,0.614,0.279,11,-11.452,1,0.0317,0.0493,3.15e-06,0.184,0.742,141.907
+Los Hermanos Cuestas,Gualeguaychú (with Los Chamarriteros),11,36,Los Chamarriteros,10.0,3sG6adS2KFWmUBYn6Xk7eS,Los Hermanos Cuestas Cronología - Entrerriano y de a Caballo 1980,1980-07-15,193773,False,0.4,0.263,5,-15.398,0,0.0966,0.526,0,0.111,0.646,164.017
+Los Hermanos Cuestas,La Pavita en el Brasero,12,36,,,3U9VGVX4DqUI5qxOrUBPAh,Los Hermanos Cuestas Cronología - Idolos 1985,1985-11-29,151440,False,0.524,0.457,11,-8.989,0,0.0403,0.0854,3.45e-06,0.165,0.687,94.66
+Los Hermanos Cuestas,Peoncito de Estancia,17,36,,,0qqpIvMOpt1mSJVxLzUe0S,Los Hermanos Cuestas Cronología - El Canto de los Pájaros 1972,1972-11-29,160426,False,0.533,0.348,0,-14.943,0,0.0978,0.0548,0.782,0.172,0.211,110.907
+Los Hermanos Cuestas,Pa' las Casas,6,36,,,7wPIyIw8iO1DqO0WLCk4CL,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,193933,False,0.57,0.383,0,-11.276,1,0.0366,0.02,0.00155,0.341,0.586,90.01
+Los Hermanos Cuestas,Recuerdo Costero,17,36,,,3rTFWv7BzJqcnQQnhfmQi2,Los Hermanos Cuestas Cronología - Sonidos de la Tierra 1979,1979-11-29,190920,False,0.638,0.424,7,-10.736,0,0.028,0.0418,0.00735,0.0917,0.84,89.79
+Los Hermanos Cuestas,El Mensual Pancho Romero,6,36,,,30QBe0vcHcXPy6M08Pa7Un,Los Hermanos Cuestas Cronología - Los 10 Años de los Hermanos Cuestas 1982,1982-11-29,137146,False,0.809,0.308,2,-10.9,1,0.0533,0.434,0,0.0632,0.697,116.115
+Los Hermanos Cuestas,Costero del Uruguay (with Los Chamarriteros),14,36,Los Chamarriteros,10.0,18m752N4XH7mKk7xHlYR3R,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,174466,False,0.616,0.329,11,-8.712,1,0.0626,0.62,3.95e-05,0.235,0.505,88.987
+Los Hermanos Cuestas,Los Hijos del Padre Río,9,36,,,6HdFdslFL5AUd00uNdohCB,Los Hermanos Cuestas Cronología - Idolos 1985,1985-11-29,183493,False,0.641,0.49,2,-9.326,0,0.11,0.239,0,0.595,0.736,92.119
+Los Hermanos Cuestas,Concierto de Isla (with Los Chamarriteros),8,36,Los Chamarriteros,10.0,3YtGY7uz3uM4EPSIbLZkPL,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,153440,False,0.599,0.506,0,-6.884,1,0.0617,0.648,2.51e-06,0.124,0.545,93.572
+Los Hermanos Cuestas,Chamamé del Grillo,6,36,,,4bnjjdgXCoc3UYUV13VfjW,Los Hermanos Cuestas Cronología - El Canto de los Pájaros 1972,1972-11-29,154120,False,0.723,0.314,5,-10.433,0,0.07,0.278,0.000813,0.116,0.636,128.627
+Los Hermanos Cuestas,"De Mi Entre Ríos, la Flor",13,36,,,4S4M1kkQbnlqiM05B5HZJY,Los Hermanos Cuestas Cronología - El Árbol de los Pájaros 1981,1981-11-29,174840,False,0.695,0.419,2,-9.01,1,0.0602,0.487,0.000187,0.0455,0.8,88.904
+Los Hermanos Cuestas,Talón Chanfleao (with Los Chamarriteros),6,36,Los Chamarriteros,10.0,5R5G0syZ2LYU0I5k6ZPeK6,Los Hermanos Cuestas Cronología - Silbando Como los Pájaros 1986,1986-11-29,200386,False,0.665,0.453,6,-6.269,1,0.0442,0.437,0,0.146,0.694,96.166
+Los Hermanos Cuestas,La Solapa,8,36,,,7t2MYVxIv3331VOTU9ck3q,Los Hermanos Cuestas Cronología - El Canto de los Pájaros 1972,1972-11-29,149026,False,0.517,0.345,7,-11.355,1,0.0578,0.205,0,0.0758,0.757,92.349
+Los Hermanos Cuestas,Victoria Entre Ríos,4,36,,,4D5tNg3TeXu2XNbhY3EgPC,Folclore - La Colección - Los Hermanos Cuestas,2008-05-20,191253,False,0.656,0.443,5,-6.322,1,0.0855,0.729,0.000354,0.0618,0.612,82.486
+Los Plebes de la Cuadra,El Travieso - En Vivo,25,25,Los Plebes de la Cuadra,22.0,4yvBNLFW047sIozqnh7aMV,Disco en Vivo Vol.2 En Vivo,2023-04-12,220757,False,0.612,0.588,2,-10.964,1,0.0397,0.373,0,0.111,0.837,108.333
+Los Plebes de la Cuadra,Pluma De Wax - En vivo,26,25,Peso Pluma,93.0,70Z6Qgh7kEfWk6kYLnA79o,Pluma De Wax En vivo,2021-11-11,142103,False,0.63,0.639,4,-6.812,1,0.0419,0.722,8.03e-06,0.157,0.889,113.949
+Los Plebes de la Cuadra,El Hats,27,25,Victor Valverde,59.0,5c2WcYUuuKerJFW25taPUZ,El Hats,2022-12-30,193201,False,0.717,0.64,0,-6.62,0,0.0311,0.546,0,0.154,0.962,137.039
+Los Plebes de la Cuadra,La Pluma de Wax - En Vivo,15,25,Los Plebes de la Cuadra,22.0,0e5AGZ4CwbToqg7ULsrYo5,La Pluma de Wax En Vivo,2023-04-17,141231,False,0.618,0.589,4,-8.76,1,0.0361,0.697,6.28e-06,0.108,0.867,114.038
+Los Plebes de la Cuadra,La Gavilaniza,11,25,,,6NwBW2cYcxXINfm4rV3GaS,La Gavilaniza,2024-04-19,210813,False,0.757,0.623,0,-6.41,0,0.0325,0.294,0,0.148,0.629,99.014
+Los Plebes de la Cuadra,Uy Si Como No,14,25,Los Cuates de Sinaloa,50.0,6oKzS3KuHFXFOHnELWAI4v,Uy si como no,2023-07-10,217495,False,0.74,0.762,7,-8.15,1,0.0326,0.195,0,0.0646,0.744,113.097
+Los Plebes de la Cuadra,El Chino Piloto,5,25,Los Plebes de la Cuadra,22.0,6atHj8zkclAuhlWeiYyFFR,Pisteando Con Amigos,2021-08-20,227970,False,0.927,0.649,9,-6.396,1,0.139,0.623,0,0.0902,0.548,104.909
+Los Plebes de la Cuadra,Almohadas,8,25,Los Plebes de la Cuadra,22.0,634rSm6Rhnn2u2YAJEYang,Almohadas,2022-04-11,153887,True,0.834,0.584,1,-5.927,0,0.0587,0.415,0,0.0985,0.794,144.034
+Los Plebes de la Cuadra,Con El Sombrero De Lado,5,25,Los Mentados De Culiacán,47.0,7LON6Q8uM78qoNuekloTCY,Con El Sombrero De Lado,2024-05-31,222168,False,0.822,0.65,3,-5.873,1,0.0545,0.761,1.72e-06,0.0734,0.858,102.529
+Los Plebes de la Cuadra,Cabrón y Vago,4,25,,,0VR7tnf3JJemHYSG9TiCsR,Cabrón y Vago,2023-04-19,163213,True,0.611,0.559,7,-5.544,1,0.0322,0.79,0,0.29,0.839,93.721
+Los Plebes de la Cuadra,La Escuela Nunca Me Gustó,1,25,,,3h4OsuHwvlDlUv9CuMTBGQ,La Escuela Nunca Me Gustó,2023-04-19,201351,False,0.677,0.544,9,-5.711,1,0.0315,0.686,6.53e-06,0.174,0.756,109.473
+Los Plebes de la Cuadra,Gente De Guzmán,0,25,,,20ddZkh0Sedk0SbbE1e6JU,Gente De Guzmán,2021-06-11,164310,False,0.805,0.724,7,-5.552,1,0.0308,0.343,0,0.0647,0.779,107.487
+Los Plebes de la Cuadra,Corrido De Chito,0,25,,,7r52CyoTwggZ2gk6cTzhOA,El Corrido De Manani,2019-01-21,196960,False,0.639,0.689,5,-4.556,1,0.0312,0.684,0,0.337,0.953,105.049
+Los Plebes de la Cuadra,Corrido de Micky - En Vivo,0,25,,,6hC1MAqUAuE0jtOIKRSjHo,Disco En Vivo,2023-04-19,190798,False,0.634,0.611,5,-7.276,1,0.029,0.487,0,0.155,0.72,114.11
+Los Plebes de la Cuadra,Corrido de Chinola - En Vivo,0,25,,,4SQsNOB0GqoUJW5QozUHan,Disco En Vivo,2023-04-19,162960,False,0.66,0.552,4,-8.11,1,0.0471,0.653,0,0.311,0.92,111.876
+Los Plebes de la Cuadra,El Corrido Del Pio,0,25,,,7HdAWNKGBX23XG1VZK5g21,El Corrido De Manani,2019-01-21,193453,False,0.727,0.668,7,-4.428,1,0.0296,0.684,0,0.0843,0.91,109.973
+Los Plebes de la Cuadra,El Hijo De Don Mayo,2,25,,,7tIKJ5xNeuLYTMfFhMHxWJ,El Hijo De Don Mayo,2022-05-29,212392,False,0.616,0.449,5,-6.439,1,0.0398,0.174,0,0.27,0.681,105.567
+Los Plebes de la Cuadra,El Corrido Del Micky,3,25,,,0hcQiaMzDvk4uidXIsYJRF,El Corrido De Manani,2019-01-21,177520,False,0.748,0.607,5,-5.034,1,0.0285,0.617,0,0.111,0.889,109.946
+Los Plebes de la Cuadra,Los Andares De Alfredo,2,25,,,1Kt5vdsfRBeCwHo4DwKhci,Los Andares De Alfredo,2022-07-01,188926,False,0.654,0.433,2,-8.001,1,0.0349,0.34,0,0.118,0.732,103.805
+Los Plebes de la Cuadra,El Barón Del Desierto - En Vivo,1,25,,,4bDF2jDSpP7TdaDLS3ITBQ,Disco En Vivo,2023-04-19,198551,True,0.637,0.611,2,-7.486,1,0.032,0.553,0,0.159,0.606,110.898
+Los Plebes de la Cuadra,Te Escribi Un Poema,0,25,,,5oe8erPg2HKC5mUFMaDhTO,El Corrido De Manani,2019-01-21,184373,False,0.673,0.433,4,-5.062,1,0.0282,0.706,0,0.0911,0.608,85.035
+Los Plebes de la Cuadra,El Guero Ranas,2,25,,,1KHPfhBJajUm7pspd1uIeD,El Corrido De Manani,2019-01-21,254453,False,0.697,0.59,9,-4.823,1,0.0253,0.632,0,0.43,0.713,107.512
+Los Plebes de la Cuadra,Te Escribí Un Poema,1,25,,,4CcjknPjtumXRXbbv4weHa,Te Escribí Un Poema,2019-05-16,184413,False,0.676,0.379,4,-7.556,1,0.0287,0.708,0,0.0912,0.631,85.036
+Los Plebes de la Cuadra,El Gusto No Les Di,0,25,,,4UUbrtiN73fxuL5u4PK0lV,El Gusto No Les Di,2023-03-03,251533,False,0.794,0.6,5,-6.84,1,0.0418,0.293,0,0.117,0.752,107.64
+Los Plebes de la Cuadra,El Capitán - En Vivo,0,25,,,0jJ4IjHtL7U10JC6FIvLmO,El Capitán En Vivo,2022-05-12,230191,False,0.737,0.609,3,-6.586,1,0.038,0.254,1.49e-06,0.092,0.83,111.63
+Los Plebes de la Cuadra,Por Necio,1,25,,,74G99vMsybsNCsBM1DpTDJ,Que Tal Si Te Compro,2019-11-01,190165,False,0.61,0.419,4,-3.701,1,0.0315,0.445,0,0.0903,0.612,154.058
+Los Plebes de la Cuadra,Amor a primera vista - En vivo,0,25,,,6zRA6cvfl6Y9fup0IoaGLL,Amor a primera vista En vivo,2024-08-09,169054,False,0.5,0.357,5,-6.98,1,0.0561,0.428,0,0.281,0.928,200.472
+Los Plebes de la Cuadra,El Apache,1,25,,,5q6RujZKcJ9cYN0uuTJuA8,El Apache,2023-08-26,206680,False,0.727,0.661,0,-6.347,1,0.0487,0.375,0,0.154,0.88,154.978
+Los Plebes de la Cuadra,Me Dicen Nini - En Vivo,3,25,,,19m21WwU9dDn7Vt6skgaS1,Me Dicen Nini En Vivo,2022-07-29,178494,False,0.755,0.552,11,-5.513,0,0.0593,0.572,0,0.135,0.718,111.606
+Los Plebes de la Cuadra,Serás Mía,0,25,,,1zmo9yfdUNFHPqx4MCHoRA,Que Tal Si Te Compro,2019-11-01,280106,False,0.745,0.47,0,-4.5,1,0.025,0.6,0,0.13,0.819,96.483
+Los Plebes de la Cuadra,No me pesa,2,25,,,0GVHBxUvFvp1v8Ah7KCGTP,No me pesa,2024-07-26,205740,False,0.838,0.582,9,-7.538,1,0.035,0.63,2.02e-05,0.0818,0.684,104.009
+Los Plebes de la Cuadra,El Güero Ranas - Con Banda,1,25,,,3c4D486JwjnY9VGAPynhnG,El Güero Ranas Con Banda,2019-06-27,255627,False,0.687,0.697,10,-3.497,1,0.0277,0.271,0,0.11,0.809,107.55
+Los Plebes de la Cuadra,El Travieso - En Vivo,0,25,,,2dNkvF2NiqHKBMLp7eyPvH,Disco En Vivo,2023-04-19,247222,False,0.534,0.448,4,-8.038,1,0.0344,0.65,0,0.15,0.718,128.833
+Los Plebes de la Cuadra,El Zurdo,2,25,,,3e2xbZAdFuHmvDFsAwyuSc,El Zurdo,2023-12-08,198556,False,0.755,0.548,4,-6.684,1,0.0401,0.704,0,0.0652,0.925,107.389
+Los Plebes de la Cuadra,Si no te hubieras ido - En vivo,0,25,,,1rVgw9JLmE82r5zaMcQ6jq,Si no te hubieras ido En vivo,2024-07-12,271018,False,0.704,0.315,0,-8.673,1,0.0317,0.603,0,0.227,0.636,93.69
+Los Plebes de la Cuadra,Con Cartitas y Palabras - En Vivo,0,25,Jorge Morales El Jilguero,30.0,3dTkHAeFQdwTCVBqD88Hxm,Disco En Vivo,2023-04-19,163943,False,0.716,0.416,11,-10.408,1,0.0322,0.492,1.92e-06,0.127,0.89,116.228
+Los Plebes de la Cuadra,El Fugitivo,0,25,,,3i4kn6AAhqiW4HC12M1Aqy,El Fugitivo,2022-06-15,177371,False,0.609,0.527,9,-7.141,1,0.206,0.377,0,0.0606,0.961,81.66
+Los Plebes de la Cuadra,Si Supieras,0,25,,,0N6x1CJO1UhFyCp57G6YSq,Si supieras,2023-04-25,146448,False,0.567,0.552,2,-6.975,1,0.0305,0.638,0,0.174,0.699,86.233
+Los Plebes de la Cuadra,Sangre Por Sangre - En Vivo,1,25,Jorge Morales El Jilguero,30.0,5UPCZi20akmQ93C6x7KBUi,Disco En Vivo,2023-04-19,172391,False,0.63,0.511,7,-9.406,1,0.0417,0.581,3.16e-05,0.191,0.77,113.919
+Los Plebes de la Cuadra,Caro Quintero,0,25,,,54JgQJBGnsUJCFiZUlkTPI,Caro Quintero,2023-04-19,166368,False,0.515,0.659,2,-5.239,1,0.0389,0.702,0,0.225,0.688,99.8
+Los Plebes de la Cuadra,"Músico, Poeta y Loco",1,25,,,1gK2CvbHbBbCT0QHDdO3xU,Músico Poeta y Loco,2022-04-22,216662,False,0.74,0.337,10,-7.689,1,0.0367,0.453,0,0.0996,0.562,103.931
+Los Plebes de la Cuadra,Ezequiel Coronado,0,25,,,2XSUj51VksaDYwGRxIfNhe,Ezequiel Coronado,2023-04-19,270048,False,0.507,0.51,7,-11.141,1,0.0342,0.441,6.19e-05,0.206,0.687,102.07
+Los Plebes de la Cuadra,Qué Ocupo,0,25,,,49HzWk8QZNEj4dyyokHqE4,Qué Ocupo,2021,178494,False,0.73,0.388,0,-5.246,1,0.0442,0.595,0,0.102,0.784,160.1
+Los Plebes de la Cuadra,Enorme Dolor,2,25,Los Plebes de la Cuadra,22.0,3wTYnnYpimBMbu2NKlVans,Pisteando Con Amigos,2021-08-20,154671,False,0.693,0.393,2,-6.452,1,0.067,0.619,0,0.0925,0.655,74.807
+Los Plebes de la Cuadra,Los Empacadores,2,25,Los Plebes de la Cuadra,22.0,2uPqO1WhrP7Ead1R6WN7Cn,Pisteando Con Amigos,2021-08-20,202997,False,0.903,0.611,10,-6.314,1,0.053,0.424,0,0.0514,0.718,115.013
+Los Plebes de la Cuadra,El Chino Piloto,0,25,Los Plebes de la Cuadra,22.0,1wmzn9Mzl7WbsrNMFe17TG,El Chino Piloto,2021-06-11,227970,False,0.927,0.649,9,-6.396,1,0.139,0.623,0,0.0902,0.548,104.909
+Los Plebes de la Cuadra,La Marianita,0,25,,,17KIE1tjzgrjV2YVIPNYRM,Contrabando De Juárez,2019-09-05,232000,False,0.488,0.501,5,-5.23,1,0.0331,0.596,9.19e-05,0.115,0.67,188.203
+Los Plebes de la Cuadra,Las Diferencias,0,25,,,6ei30SAXRhxjlT6rDZxawA,Contrabando De Juárez,2019-09-05,305925,False,0.505,0.483,5,-4.718,1,0.0305,0.527,0,0.1,0.669,168.932
+Los Plebes de la Cuadra,Lamberto Verdugo,0,25,,,0XzHNFRoUVlt6iEER5J1BD,Contrabando De Juárez,2019-09-05,168917,False,0.717,0.517,4,-4.995,1,0.0304,0.644,0,0.102,0.832,103.794
+Los Plebes de la Cuadra,La Encomienda,0,25,,,5Dn5c75s2cqAQBWKiFgcPG,El Corrido De Manani,2019-01-21,166653,False,0.752,0.496,7,-5.56,1,0.0291,0.611,0,0.101,0.914,114.96
+Leonardo Cupelli,"Everything, Forever",32,32,,,0o4STUmiHirVtus3Qmyh2Y,Everything Forever,2020-03-19,87500,False,0.486,0.0128,4,-32.354,1,0.05,0.993,0.963,0.101,0.08,65.959
+Leonardo Cupelli,Here,28,32,,,3rLYj3hgyEw9BhGgcJER8O,Here,2020-04-02,146300,False,0.309,0.0259,0,-35.156,1,0.046,0.994,0.94,0.0897,0.216,114.393
+Leonardo Cupelli,"Everything, Forever",3,32,,,4ZFD5SwLiX6oPrY6GcmICu,Here,2020-04-02,87500,False,0.486,0.0128,4,-32.354,1,0.05,0.993,0.963,0.101,0.08,65.959
+Leonardo Cupelli,Water and Stone,12,32,,,1rEc12ZLjNLkx5rK9lbEzd,Water and Stone,2020-04-30,234919,False,0.366,0.017,7,-30.425,0,0.0342,0.991,0.94,0.127,0.0543,112.582
+Leonardo Cupelli,Consistent Value,4,32,,,3KqFn7bqRxdrJloUoWZGZq,Consistent Value,2020-04-16,147145,False,0.344,0.00311,0,-34.656,0,0.0336,0.969,0.961,0.105,0.125,66.494
+Leonardo Cupelli,In the Midst of Our Haste,0,32,,,1gxz3I5akmHVthYKanWNA1,In the Midst of Our Haste,2022-08-27,138914,False,0.283,0.0181,1,-32.85,1,0.0597,0.991,0.904,0.105,0.291,198.442
+Leonardo Cupelli,Align,1,32,,,1aXGsyJQ7zPI6MteZE5WJ5,In the Midst of Our Haste,2022-08-27,150159,False,0.408,0.0399,8,-29.394,0,0.0504,0.992,0.957,0.163,0.55,122.149
+Leonardo Cupelli,A New Ground,1,32,,,230KW6JdZO2dtBJUpwtTjt,In the Midst of Our Haste,2022-08-27,134188,False,0.457,0.0766,3,-27.483,1,0.0462,0.993,0.853,0.0976,0.115,122.418
+Leonardo Cupelli,My Head is Under the Piano,0,32,,,4vvD4fS659dV435rQ7tBZR,My Head is Under the Piano,2024-02-29,194573,False,0.306,0.0688,10,-24.154,0,0.0404,0.943,0.859,0.0914,0.0433,110.987
+Leonardo Cupelli,Almost,0,32,,,2Sa1czRalAo6HY6dPxphhB,High Wind,2020-12-10,229651,False,0.153,0.214,8,-18.71,1,0.0459,0.895,0.46,0.12,0.0295,136.517
+Leonardo Cupelli,Say a Simple Phrase,0,32,,,6CihJn3pR6qrG8PQsYrfL1,Say a Simple Phrase / in the Right Place,2019-07-13,178909,False,0.489,0.0341,1,-33.811,1,0.0452,0.979,0.963,0.109,0.151,102.732
+Leonardo Cupelli,We Make Fires,0,32,,,21dTpsSmGeGdLXi3N7znk1,We Make Fires,2021-03-25,146200,False,0.39,0.00858,10,-29.829,0,0.0427,0.992,0.931,0.112,0.185,96.947
+Leonardo Cupelli,This Brought me Here,0,32,,,6IGvBWCgHwDEUZrt8jO3cJ,In the Midst of Our Haste,2022-08-27,190205,False,0.455,0.0367,8,-29.118,0,0.0434,0.989,0.912,0.118,0.364,115.521
+Leonardo Cupelli,Less,0,32,,,4WrTihQyBJpJ9Dr3OlPB8Q,Less,2019-08-04,257400,False,0.306,0.295,0,-14.462,0,0.0597,0.938,0.917,0.125,0.0294,200.073
+Leonardo Cupelli,Similar,0,32,,,6VNjeQax9l1h5qL9yJMzho,Similar,2020-12-24,165960,False,0.173,0.146,5,-19.416,0,0.0443,0.989,0.703,0.105,0.0376,100.209
+Leonardo Cupelli,Consistent Value,0,32,,,0Geh48E1ufkdmOqhjtULg8,Water and Stone,2020-04-30,147145,False,0.161,0.00312,0,-34.656,0,0.0362,0.969,0.961,0.105,0.123,62.468
+Leonardo Cupelli,High Wind,0,32,,,2oQX4tkJWwFAs2ZCbMzDwp,Similar,2020-12-24,194905,False,0.264,0.0787,6,-16.934,0,0.0614,0.992,0.00947,0.294,0.193,149.733
+Leonardo Cupelli,Liminal,0,32,,,0qP6hgOXVWC41vTahXI2d9,Liminal,2020-03-05,137066,False,0.238,0.112,2,-33.838,1,0.0446,0.995,0.965,0.0984,0.36,155.819
+Leonardo Cupelli,Three Reflections,0,32,,,2mVlYRkvSXOykQc97lzj99,Three Reflections,2021-04-23,179600,False,0.275,0.0929,1,-25.764,1,0.051,0.946,0.962,0.115,0.23,93.411
+Leonardo Cupelli,Can Such Things Be?,0,32,,,5OrN9Am0S5I4cEChe2LqkC,Say a Simple Phrase / in the Right Place,2019-07-13,125333,False,0.0732,0.085,3,-28.587,1,0.0361,0.949,0.966,0.0849,0.0377,74.561
+Leonardo Cupelli,High Wind,0,32,,,7mLrrr4yZXooEhqdDeZcwV,High Wind,2020-12-10,194905,False,0.264,0.0787,6,-16.934,0,0.0614,0.992,0.00947,0.294,0.193,149.733
+Leonardo Cupelli,Forma,0,32,,,3Ajrc0WhbYN7tTruQLj4JN,Forma,2019-09-11,238811,False,0.637,0.705,0,-14.961,0,0.0384,0.9,0.926,0.102,0.956,100.993
+Leonardo Cupelli,Liminal,0,32,,,36VATR2OC297HHeMwxFkxu,Everything Forever,2020-03-19,137066,False,0.238,0.112,2,-33.838,1,0.0446,0.995,0.965,0.0984,0.36,155.819
+Leonardo Cupelli,We Make Fires,0,32,,,5O10Er26YS9Dh9InF1EFC9,Three Reflections,2021-04-23,146200,False,0.39,0.00858,10,-29.829,0,0.0427,0.992,0.931,0.112,0.185,96.947
+Leonardo Cupelli,Spheres,0,32,,,5JlMnK2Dd1tXJWJ4ZQEqHf,In the Midst of Our Haste,2022-08-27,135364,False,0.358,0.0342,3,-27.638,0,0.05,0.993,0.922,0.0988,0.207,130.245
+Leonardo Cupelli,Here,0,32,,,0Ve5asLTN5cddUotcZPDIa,Consistent Value,2020-04-16,146300,False,0.309,0.0259,0,-35.156,1,0.046,0.994,0.94,0.0897,0.216,114.393
+Leonardo Cupelli,A magnificent piece of old wood,0,32,,,5LNQdCHyEcV0BkkRtKif4c,A magnificent piece of old wood,2024-03-28,171671,False,0.288,0.0364,6,-34.246,0,0.0342,0.963,0.94,0.112,0.155,168.972
+Leonardo Cupelli,In the Right Place,0,32,,,2bRRjjAjSIcb7Ig6FDyItf,Say a Simple Phrase / in the Right Place,2019-07-13,150000,False,0.262,0.112,1,-27.082,1,0.0429,0.991,0.924,0.116,0.221,136.26
+Leonardo Cupelli,Almost,0,32,,,6iM2i2mzzS0JeBRYQApEw6,Almost,2020-11-26,229651,False,0.153,0.214,8,-18.71,1,0.0459,0.895,0.46,0.12,0.0295,136.517
+Leftover Cuties,When You're Smiling (Bonus Track),25,25,,,0NdyJaHANZf5x0BONp3Bij,Game Called Life EP,2009-02-21,130153,False,0.479,0.65,0,-8.276,1,0.0745,0.464,8.52e-05,0.203,0.72,199.557
+Leftover Cuties,One Heart,18,25,,,489qhFmq6m9H9pCGwI1lqx,The Spark & the Fire,2013-07-23,166572,False,0.554,0.737,6,-7.666,0,0.138,0.0453,2.59e-05,0.294,0.885,201.992
+Leftover Cuties,Smile Big,18,25,,,4ijygIZXIiZCIH1jVEYK1k,Smile Big,2012-08-01,157924,False,0.637,0.615,5,-4.17,0,0.0487,0.52,0.000172,0.0715,0.725,134.434
+Leftover Cuties,Lost In The Sea,20,25,,,5TXtHVCZ1SIPEdCZf6mmEH,Game Called Life EP,2009-02-21,149626,False,0.765,0.308,0,-10.508,1,0.0662,0.783,1.03e-05,0.0883,0.376,110.24
+Leftover Cuties,Game Called Life,21,25,,,54pfW4zF2r7GGAjQUI32NK,Game Called Life EP,2009-02-21,201266,False,0.721,0.464,5,-7.303,1,0.0294,0.622,0,0.0836,0.4,111.831
+Leftover Cuties,You Are My Sunshine,23,25,,,1SoDBwNErRX1cK03w2Dtj1,You Are My Sunshine,2011-01-03,262862,False,0.459,0.442,10,-6.733,0,0.0309,0.333,0,0.373,0.456,86.539
+Leftover Cuties,Places to Go,12,25,,,2vBThmXeRfwvbX609AcXYu,Places to Go,2011-05-31,181600,False,0.501,0.692,1,-7.95,1,0.0375,0.607,0,0.228,0.783,142.799
+Leftover Cuties,You Are My Sunshine,15,25,,,7u7sOPfPPXHClirNuHhM0e,Departures,2012-05-15,265546,False,0.438,0.435,10,-7.661,0,0.0288,0.257,0,0.126,0.502,88.234
+Leftover Cuties,At Last,16,25,,,6UDxuZ2GfTdEuPtplQUHwh,Departures,2012-05-15,163306,False,0.537,0.425,5,-8.687,1,0.0252,0.624,0.0107,0.186,0.354,92.402
+Leftover Cuties,Poker Face (Bonus Track),13,25,,,7hn3gMTZecpSGnnyqEkfOa,Game Called Life EP,2009-02-21,189826,False,0.698,0.615,1,-7.292,1,0.0822,0.343,0,0.0943,0.757,111.084
+Leftover Cuties,Sunnyside,13,25,,,7rDwN3RTyolzqwrpQICDfY,Places to Go,2011-05-31,197346,False,0.534,0.677,2,-8.346,0,0.0437,0.518,0,0.12,0.473,119.854
+Leftover Cuties,Lost in the Sea,11,25,,,3wxD9LanpbsdQWPFxm0PeR,Places to Go,2011-05-31,147440,False,0.441,0.461,0,-8.563,1,0.0341,0.753,0,0.122,0.489,105.464
+Leftover Cuties,Through It All,8,25,,,5F8Oon13YDhj0qLR3dfveF,Game Called Life EP,2009-02-21,231293,False,0.59,0.0681,0,-14.502,1,0.0608,0.983,2.29e-05,0.0925,0.205,77.084
+Leftover Cuties,"Don't Think Twice, It's All Right",9,25,,,7MlkFsiVisUzkZTjszxY0e,Departures,2012-05-15,332746,False,0.557,0.428,0,-10.137,1,0.0373,0.504,0.000202,0.106,0.295,136.531
+Leftover Cuties,Christmas Time Is Here,5,25,,,7th0ZKCnUwqRSP6JeFWkAz,Christmas Time Is Here,2012-12-03,237253,False,0.431,0.273,0,-11.426,0,0.0308,0.945,8.46e-06,0.103,0.0711,121.364
+Leftover Cuties,Happy Song,11,25,,,0jkAc0Ys0RcWtHwZljoNvC,Game Called Life EP,2009-02-21,209786,False,0.858,0.388,2,-9.81,1,0.0592,0.439,9.77e-06,0.131,0.716,102.787
+Leftover Cuties,Rise and Shine,9,25,,,3k1M4aGOR7bcn4fGpG4avh,The Spark & the Fire,2013-07-23,205493,False,0.524,0.527,2,-9.404,1,0.0459,0.558,0.0659,0.247,0.504,114.559
+Leftover Cuties,Trouble,11,25,,,2pcylNolEMPVgA5tYHug7l,Departures,2012-05-15,286226,False,0.446,0.361,2,-9.053,0,0.0305,0.528,1.79e-06,0.225,0.31,120.662
+Leftover Cuties,Santa Baby,5,25,,,4z2KAc5oM9xBccIoYcrLSc,Christmas Time Is Here,2012-12-03,236173,False,0.643,0.593,9,-4.396,1,0.0774,0.577,0,0.108,0.728,94.314
+Leftover Cuties,Clarity,5,25,,,4kqRSKCr2mncAmFxXh2Qvd,The Spark & the Fire,2013-07-23,262053,False,0.42,0.446,7,-9.355,1,0.0273,0.377,1.36e-05,0.0716,0.24,83.335
+Leftover Cuties,You Are My Sunshine,10,25,,,7AvdVn8XyWcyMcaLMiOuvc,Game Called Life EP,2009-02-21,262862,False,0.454,0.445,10,-6.789,0,0.0318,0.33,0,0.372,0.465,86.806
+Leftover Cuties,If Only It Could Be,7,25,,,6gsiRit8cpTl26wmNP0mms,The Spark & the Fire,2013-07-23,205240,False,0.606,0.708,10,-6.904,0,0.0714,0.126,0.000633,0.0853,0.81,120.954
+Leftover Cuties,Winter Wonderland,4,25,,,04yyPnr7tXYpUnUoEBHdZw,Christmas Time Is Here,2012-12-03,151920,False,0.622,0.804,7,-6.325,1,0.0521,0.244,0,0.0844,0.837,124.431
+Leftover Cuties,Fidelity,9,25,,,0BwhhHtoTi6tB37gDxddY7,Departures,2012-05-15,225840,False,0.562,0.543,1,-6.247,0,0.0737,0.624,2.19e-06,0.534,0.803,102.632
+Leftover Cuties,Thick and Thin,5,25,,,4H6DjGrlghp1GJXQyPps8Z,The Spark & the Fire,2013-07-23,180413,False,0.513,0.762,10,-6.726,1,0.0412,0.37,0,0.126,0.781,119.656
+Leftover Cuties,Blue Christmas,2,25,,,3xnqRzaIoPqs8hStZAMDer,Christmas Time Is Here,2012-12-03,195613,False,0.553,0.556,9,-3.946,1,0.0348,0.564,0,0.0725,0.614,76.086
+Leftover Cuties,White Christmas,3,25,,,7gQxyeJI7fiKGxwh1zc4y4,Christmas Time Is Here,2012-12-03,180986,False,0.517,0.762,9,-4.417,1,0.0371,0.1,0,0.431,0.803,125.37
+Leftover Cuties,Sweet Pea,8,25,,,3LmG0CxBQ7960yoJ6FrjyI,Little Big Room,2020-03-27,145506,False,0.653,0.555,7,-6.802,1,0.0973,0.664,1.55e-05,0.171,0.69,108.099
+Leftover Cuties,There’s a Place,3,25,,,2LapGXyTcNAulVxxeAWbfj,Little Big Room,2020-03-27,175013,False,0.62,0.304,1,-10.121,0,0.0386,0.724,0.000991,0.369,0.295,96.257
+Leftover Cuties,Not One,2,25,,,640S8ErKLNtOtQ58lSMLSq,Places to Go,2011-05-31,270266,False,0.401,0.242,2,-11.239,1,0.0328,0.733,1.93e-06,0.372,0.175,82.589
+Leftover Cuties,The Book of Love,1,25,,,4naC7M61uXTRmgqyo5KpaL,Little Big Room,2020-03-27,137973,False,0.624,0.659,11,-5.995,1,0.141,0.271,0,0.069,0.512,95.051
+Leftover Cuties,What's the Matter?,1,25,,,5R3CjxDgj5fKmmhTWdDFDj,The Spark & the Fire,2013-07-23,306480,False,0.411,0.574,0,-7.655,1,0.0276,0.449,0.000563,0.111,0.495,96.449
+Leftover Cuties,I Miss You,2,25,,,3A8m0VkB33AcsaGOPTwxow,Places to Go,2011-05-31,267400,False,0.515,0.275,11,-12.448,1,0.0344,0.741,1.08e-05,0.0736,0.167,85.116
+Leftover Cuties,Once Again,2,25,,,1Jc1PXfbnZB01moIWJnTBl,The Spark & the Fire,2013-07-23,262853,False,0.491,0.637,9,-7.054,1,0.048,0.349,0.000159,0.067,0.335,121.036
+Leftover Cuties,Nobody Knows You When You’re Down and Out,2,25,,,19c1vsveBST8AeRVKrDXMj,Little Big Room,2020-03-27,198813,False,0.535,0.494,2,-6.973,1,0.0314,0.557,8.45e-06,0.0912,0.308,98.35
+Leftover Cuties,All That Love,2,25,,,2wwlSmrrXpeezr7lkSWENh,The Spark & the Fire,2013-07-23,199933,False,0.55,0.569,0,-7.538,1,0.0306,0.835,0.183,0.102,0.378,120.514
+Leftover Cuties,When You're Smiling (Bonus Track),3,25,,,1Ud0qnuTAiAV5148P090JU,Game Called Life EP,2009-02-21,130153,False,0.479,0.65,0,-8.276,1,0.0745,0.464,8.52e-05,0.203,0.72,199.557
+Leftover Cuties,All of Me,5,25,,,5Pb5QOWdWRX5wExHxCQ6VU,Little Big Room,2020-03-27,307200,False,0.576,0.498,5,-7.209,1,0.0536,0.23,0.000347,0.139,0.302,111.155
+Leftover Cuties,By Morning,2,25,,,7fdUi3RYZybCJyNWnWwxYn,Places to Go,2011-05-31,202200,False,0.498,0.346,7,-9.484,1,0.0327,0.744,1.5e-06,0.116,0.415,97.356
+Leftover Cuties,One Heart,2,25,,,77hcaffvutDsKSCJORURjG,One Heart,2013-06-10,166572,False,0.554,0.737,6,-7.666,0,0.138,0.0453,2.59e-05,0.294,0.885,201.992
+Leftover Cuties,If You Want the Rainbow,3,25,,,2EJq2fUJkllvKwDYz4TXfr,If You Want the Rainbow,2016-05-19,176496,False,0.569,0.82,7,-5.012,1,0.0934,0.294,0,0.0926,0.926,167.836
+Leftover Cuties,Pennies from Heaven,8,25,,,6cpCMr69lmd9pHPgEnBwvQ,Little Big Room,2020-03-27,218053,False,0.584,0.577,5,-7.615,0,0.0499,0.545,6.51e-05,0.137,0.541,119.895
+Leftover Cuties,Can’t Help Falling in Love,2,25,,,1T6TW2ymY10AEIxNobJ2W7,Little Big Room,2020-03-27,258279,False,0.288,0.608,0,-7.529,1,0.0359,0.749,0.0403,0.118,0.288,177.508
+Leftover Cuties,Everyone,1,25,,,3GX4o5gnYz7HmOV3RAJ0zu,The Spark & the Fire,2013-07-23,341040,False,0.44,0.665,10,-7.066,1,0.0469,0.529,0.000442,0.104,0.533,102.337
+Leftover Cuties,Poker Face,4,25,,,266ua1vFCqw0xlEEUAhWND,Departures,2012-05-15,190360,False,0.655,0.622,1,-7.147,1,0.0551,0.314,0,0.0907,0.752,110.533
+Leftover Cuties,Let's Misbehave,3,25,,,40EqI3bozqm86d9pFAdLf8,Little Big Room,2020-03-27,190466,False,0.605,0.712,0,-5.69,1,0.0648,0.581,0,0.342,0.829,91.185
+Leftover Cuties,Blind Man,2,25,,,5lwhRzCzAb1b520eAhbaSb,The Spark & the Fire,2013-07-23,203240,False,0.441,0.558,7,-7.374,1,0.0302,0.539,0,0.302,0.401,97.394
+Leftover Cuties,Sweet Pea,4,25,,,1FbkSJb1pCrgohqmIs3sAE,Sweet Pea,2020-02-21,145506,False,0.653,0.555,7,-6.802,1,0.0973,0.664,1.55e-05,0.171,0.69,108.099
+Leftover Cuties,Daydream,3,25,,,4C0yhhJALvY2KVkoi2gF4z,Little Big Room,2020-03-27,130906,False,0.778,0.0916,1,-15.981,0,0.117,0.991,0,0.2,0.587,106.519
+Leftover Cuties,Everything I Got,2,25,,,2lEUm62BXDwpSvKGJ4Yog5,Places to Go,2011-05-31,247680,False,0.486,0.712,4,-7.297,0,0.051,0.235,2.27e-05,0.166,0.616,124.247
+Cultivated Mind,Catch that Feelin',23,23,,,3NOriHsL791OzMGwDMgSdi,"""Catch that Feelin""",2022-10-14,209032,False,0.81,0.615,0,-9.707,1,0.0532,0.0882,0.000112,0.228,0.917,155.061
+Cultivated Mind,Tend the Garden (feat. Christian Lubertazzi),17,23,Christian Lubertazzi,6.0,508qsXtZ94kNArgZgSNKZG,Tend the Garden,2017-02-24,187186,False,0.652,0.806,7,-5.896,1,0.0423,0.0353,0,0.33,0.963,79.913
+Cultivated Mind,One Love Revolution,14,23,Cultivated Mind,17.0,3OG6j3nEXIyWrXokXQdDPA,One Love Revolution,2024-08-16,253714,False,0.735,0.661,1,-6.979,1,0.0418,0.173,0.00713,0.115,0.758,140.101
+Cultivated Mind,Send Us Your Best,12,23,Cultivated Mind,17.0,1IKL0diISD6iThW2dzVCam,Forward Always,2022-11-04,318017,False,0.861,0.567,11,-7.643,0,0.141,0.276,0.000192,0.089,0.63,143.944
+Cultivated Mind,Fill I Cup,8,23,Cultivated Mind,17.0,28Di4IzPKYwfvPCbj186y8,Fill I Cup,2024-11-22,308085,False,0.903,0.599,11,-8.624,0,0.27,0.0407,3.76e-05,0.468,0.944,140.992
+Cultivated Mind,Miss That Girl,9,23,,,2yN73QtbjCB7pD4B9m4ZBL,No Quarter for Thieves,2019-08-28,320015,False,0.861,0.494,7,-9.553,1,0.0476,0.221,0.0742,0.138,0.89,134.952
+Cultivated Mind,Find My Way,9,23,Greg Gutty,14.0,39lygYCfpSAWO1ruJ2IdtD,The Solution,2016-10-14,247292,False,0.728,0.556,6,-8.108,1,0.0292,0.0262,5.3e-05,0.165,0.918,149.965
+Cultivated Mind,Memories,8,23,Big Natty,3.0,0fbqfLdffYNkNqsCCxVYxq,King St. Dub,2018-01-12,300094,False,0.771,0.494,0,-9.917,1,0.124,0.195,0,0.0676,0.754,145.038
+Cultivated Mind,Send Us Your Best,7,23,One Culture,36.0,0ZOtX0LR8Un4QjErH22w2g,Send Us Your Best,2022-08-25,318017,False,0.861,0.567,11,-7.643,0,0.141,0.276,0.000192,0.089,0.63,143.944
+Cultivated Mind,Cultivate Your Mind,3,23,,,4eBfir0g1TNv0TADfaOF5a,Tend the Garden,2017-02-24,383293,False,0.734,0.473,9,-10.325,1,0.0444,0.0166,0.0233,0.115,0.653,139.998
+Cultivated Mind,Feeling Just Right,7,23,Cultivated Mind,17.0,6pziMM8pF0gd5tD2Tmyj96,Feeling Just Right,2024-05-10,228075,False,0.783,0.577,11,-8.704,0,0.127,0.279,1.63e-06,0.352,0.893,176.941
+Cultivated Mind,East Coast Rising,3,23,,,6IHUazP414GdoiQiKG3vJe,Tend the Garden,2017-02-24,303466,False,0.657,0.572,7,-7.822,1,0.0447,0.0131,0.000788,0.134,0.621,154.997
+Cultivated Mind,Blood in the Water,3,23,,,1rasy8UcKXPCSRbSe6rHDZ,No Quarter for Thieves,2019-08-28,329814,False,0.811,0.582,11,-9.496,0,0.108,0.144,7.17e-05,0.0874,0.816,154.974
+Cultivated Mind,Long Time,6,23,Cultivated Mind,17.0,3iy97JsJlj4c8bXmEZdiAL,Long Time,2024-09-22,237009,False,0.682,0.761,2,-5.559,1,0.0799,0.104,0,0.798,0.879,156.999
+Cultivated Mind,Oversteppers,2,23,,,5dpESvlybtICAY5yy61eoE,No Quarter for Thieves,2019-08-28,133582,False,0.887,0.573,9,-9.271,0,0.0681,0.579,1.54e-05,0.0568,0.893,144.947
+Cultivated Mind,Sunday School,2,23,,,2aqD1lz5Hy4B4G9VyTzgDB,No Quarter for Thieves,2019-08-28,362438,False,0.954,0.41,9,-10.353,0,0.227,0.437,1.08e-05,0.0889,0.591,122.985
+Cultivated Mind,Another Man's Cologne,2,23,,,728fjfmuCQcHRX1oseKBPx,No Quarter for Thieves,2019-08-28,204937,False,0.726,0.553,4,-8.773,0,0.209,0.451,0,0.234,0.786,79.975
+Cultivated Mind,No Quarter for Thieves,2,23,,,6Hpm1VCyIcq7BMJLJFlpVZ,No Quarter for Thieves,2019-08-28,291130,False,0.838,0.624,4,-8.456,0,0.043,0.155,0.000213,0.32,0.821,119.979
+Cultivated Mind,Venomous Woman 2017,1,23,,,2D0qtMZCs3n9aS6eu73x8F,Venomous Woman Dubble Feature,2017-06-16,317926,False,0.739,0.413,4,-11.325,0,0.075,0.194,5.22e-06,0.0866,0.349,77.508
+Cultivated Mind,Old Time Riddim,2,23,,,6G0vKg7Kw7yoOkYIyCOtBw,No Quarter for Thieves,2019-08-28,378808,False,0.671,0.756,7,-7.666,1,0.056,0.0635,8.96e-05,0.0421,0.523,136.996
+Cultivated Mind,Iniverse,1,23,Big Natty,3.0,1eJaNMtpw2WIpojwWNSHiS,King St. Dub,2018-01-12,374398,False,0.753,0.699,7,-9.006,1,0.0475,0.0269,0.0154,0.0875,0.819,150.032
+Cultivated Mind,A Good Man in Prison (A Thing so Minimal),2,23,,,41azMRsvj69eWOxFQm1Lly,Tend the Garden,2017-02-24,196114,False,0.791,0.518,7,-8.282,1,0.0526,0.0323,0.00326,0.286,0.684,80.019
+Cultivated Mind,East Coast Rising (Cultivated Mind 2017),1,23,,,5550xNtiNfrO1C89BNn3yF,East Coast Rising Cultivated Mind 2017,2017-01-18,303511,False,0.657,0.572,7,-7.822,1,0.0447,0.0131,0.000788,0.134,0.621,154.997
+Cultivated Mind,Stand Together,1,23,Greg Gutty,14.0,0e5jlSOoiYENUi1w7Ba77M,The Solution,2016-10-14,289320,False,0.739,0.512,2,-7.655,1,0.0511,0.00255,0,0.286,0.649,144.994
+Cultivated Mind,No Dub for Thieves (No Quarter for Thieves Dub),1,23,,,66XlvrJiPbxgLXmxMTWQz0,No Quarter for Thieves,2019-08-28,118745,False,0.783,0.499,4,-10.216,0,0.0405,0.0785,0.495,0.127,0.652,120.047
+Cultivated Mind,Greener Pasture (I'm Gonna Make It),1,23,Big Natty,3.0,6HjxgzmfHb9k3uxOaDDmlb,King St. Dub,2018-01-12,347990,False,0.791,0.527,7,-8.586,0,0.122,0.235,2.41e-05,0.285,0.723,129.994
+Cultivated Mind,The Devil's Got a Hold on Me (feat. Haley Drew),1,23,Haley Drew,43.0,0blD1GGmfoHDVoRcKLYSLx,Tend the Garden,2017-02-24,168000,False,0.714,0.544,9,-9.968,0,0.0324,0.106,1.18e-06,0.193,0.91,90.038
+Cultivated Mind,Caramia Divine,1,23,,,7vdrRpmZWcsizryPpDfn44,No Quarter for Thieves,2019-08-28,233010,False,0.831,0.553,9,-9.511,0,0.0558,0.196,0.000272,0.068,0.664,119.982
+Cultivated Mind,Miss That Dub (Miss That Girl Dub),1,23,,,372QOpHBQWtzChgBbYoTks,No Quarter for Thieves,2019-08-28,173242,False,0.767,0.649,7,-8.951,1,0.0404,0.0991,0.442,0.876,0.916,135.082
+Cultivated Mind,Reggaeletto,1,23,Big Natty,3.0,79TOapXU4hODooKezdQIsI,King St. Dub,2018-01-12,270373,False,0.743,0.594,0,-8.988,1,0.0487,0.0338,0.00695,0.309,0.651,139.966
+Cultivated Mind,Fair-Weather Friends (feat. Drew Boyd),1,23,Big Natty,3.0,0lzoUNUtNWvkKSJLHLpmZ0,King St. Dub,2018-01-12,207955,False,0.773,0.596,0,-8.107,0,0.0446,0.112,2.31e-06,0.763,0.721,139.984
+Cultivated Mind,David (feat. Scott Davis),1,23,Scott Davis,26.0,3m0YSvcK4G1rhBEHoTxVQ0,Tend the Garden,2017-02-24,213306,False,0.813,0.661,7,-8.053,1,0.0291,0.209,0.00118,0.169,0.961,134.989
+Cultivated Mind,Middle Lands,1,23,,,4yzwSokhadH8WoFa77gLGN,Tend the Garden,2017-02-24,203346,False,0.745,0.496,9,-11.68,1,0.0507,0.0698,0.915,0.327,0.708,144.076
+Cultivated Mind,King St. Dub,1,23,Big Natty,3.0,1xmRogUTPx9oftXayjmnxI,King St. Dub,2018-01-12,404204,False,0.725,0.539,7,-11.07,0,0.0695,0.354,0.09,0.162,0.545,147.97
+Cultivated Mind,Napoli,1,23,,,05bhgWNqKpvR4WAw5GtBeH,Tend the Garden,2017-02-24,203573,False,0.758,0.584,5,-10.917,0,0.0576,0.000608,0.898,0.119,0.734,155.073
+Cultivated Mind,A Good Man in Prison (Acoustic Version),1,23,,,6isUmRKtEpe6LdLUpgYzmS,No Quarter for Thieves,2019-08-28,245108,False,0.768,0.528,4,-8.623,0,0.096,0.592,8.93e-06,0.32,0.881,165.93
+Cultivated Mind,Crooked Son (Hidden Track),1,23,,,0BmPfmonmqlRNiN7sBw7CE,No Quarter for Thieves,2019-08-28,222770,False,0.769,0.489,9,-8.778,1,0.0305,0.473,1.48e-05,0.0487,0.759,109.979
+Cultivated Mind,Sit and Stare (feat. Cody Stead),1,23,Cody Stead,62.0,3HLb3Xsfsr7k2rSdJidqvt,Tend the Garden,2017-02-24,229906,False,0.758,0.574,7,-7.779,0,0.0425,0.0423,4.49e-06,0.043,0.738,142.968
+Cultivated Mind,Can't Get Enough,1,23,,,45XD4m2YBxVQXqjO1xO9XZ,No Quarter for Thieves,2019-08-28,326796,False,0.789,0.57,2,-7.592,0,0.036,0.106,0.00103,0.496,0.901,144.936
+Cultivated Mind,Reach out (Studio Version),1,23,,,1HujwoYZcfjvLdNItIPFLa,No Quarter for Thieves,2019-08-28,269257,False,0.751,0.791,7,-8.415,0,0.104,0.083,0,0.0526,0.95,159.932
+Cultivated Mind,Venomous Dub 2017,1,23,,,0JvGCBGn5hGvwnNDvrkNWQ,Venomous Woman Dubble Feature,2017-06-16,427895,False,0.694,0.446,4,-10.932,0,0.0497,0.00204,0.779,0.106,0.239,77.503
+Cultivated Mind,Overdubbers (Oversteppers Dub),1,23,,,4Kmt1kRd8xNyMdtTcSPa1h,No Quarter for Thieves,2019-08-28,313491,False,0.729,0.616,9,-10.042,0,0.0575,0.0516,0.482,0.0703,0.845,145.017
+Cultivated Mind,Find My Way (feat. Greg Gutty),1,23,Greg Gutty,14.0,7DY6WCq4Wx1FLTCyV9QmqF,Tend the Garden,2017-02-24,219937,False,0.749,0.554,6,-8.167,1,0.0285,0.0284,3.26e-05,0.247,0.923,150.028
+Cultivated Mind,Johnny Law (feat. Matt Ployd),1,23,Matt Ployd,32.0,0KYcqgW5xGpKwP5MIg8N8D,Tend the Garden,2017-02-24,202000,False,0.705,0.574,0,-7.991,0,0.0357,0.00178,1.33e-06,0.31,0.26,135.019
+Cultivated Mind,My Solution,1,23,Greg Gutty,14.0,6mJKx75F2fkLhufdz77mYG,The Solution,2016-10-14,207563,False,0.72,0.597,11,-6.661,1,0.0264,0.00484,9.82e-06,0.135,0.808,135.003
+Cultivated Mind,Old Moses,1,23,,,3kvTR4duxhnIe52XqA4Kxa,Old Moses,2020-07-17,212484,False,0.822,0.626,10,-7.475,0,0.234,0.305,0,0.296,0.685,157.022
+Cultivated Mind,David Dub,1,23,Big Natty,3.0,7ruemBY5bqu7LOF5RrdLYb,King St. Dub,2018-01-12,227555,False,0.719,0.553,7,-8.83,1,0.0366,0.154,0.835,0.189,0.799,134.979
+Cultivated Mind,Stashin' gold (Tazzi Riddim),1,23,,,5LMEgmpWziYBdqJ0aVPzQI,No Quarter for Thieves,2019-08-28,428499,False,0.691,0.636,7,-9.974,0,0.0819,0.57,0.00142,0.0977,0.593,130.012
+Cultivated Mind,Everything I Need,0,23,Cultivated Mind,17.0,4Yr1arZfF3t1tpsjCZ0VXQ,The REEF,2020-06-25,204000,False,0.803,0.413,0,-10.263,1,0.0506,0.131,0,0.205,0.886,96.094
+Cultivated Mind,Question Everything,0,23,Cultivated Mind,17.0,522bJpSeI4iNXUvI0NHLHw,Question Everything,2020-06-19,266000,False,0.504,0.389,7,-11.408,1,0.0706,0.0327,0.0572,0.102,0.408,138.055
+Christian Cueva,Resistiré,64,64,Aida Cuevas,,0XFQb7pNfT90A7fRxjMWgz,Resistiré,2020-04-16,252443,False,0.45,0.878,9,-4.592,1,0.0827,0.0071,0,0.0908,0.744,199.844
+Christian Cueva,Color Esperanza / Sólo le Pido a Dios - Versión México,50,64,Alex Lora,,6Z48v2xlf3H66cgxz6Rxg3,Color Esperanza / Sólo le Pido a Dios Versión México,2020-05-31,223906,False,0.586,0.885,7,-5.241,1,0.0758,0.173,0,0.082,0.624,95.989
+Christian Cueva,Cervecero,45,64,Christian Cueva,31.0,2D4FRMlpTJcfifiQKDX7Nl,Cervecero,2024-11-10,207123,False,0.821,0.735,2,-5.633,0,0.0418,0.301,0,0.757,0.696,109.48
+Christian Cueva,How Am I Supposed To Live Without You - The Voice Performance,32,64,,,7vsyFbEED6axZRogqfny4t,How Am I Supposed To Live Without You The Voice Performance,2016-09-19,210271,False,0.415,0.614,8,-4.874,1,0.0363,0.352,0,0.144,0.18,140.368
+Christian Cueva,To Worship You I Live (Away) - The Voice Performance,21,64,,,4KnQFBTTj6zfH0sHlAZvSl,To Worship You I Live Away [The Voice Performance],2016-12-05,215736,False,0.245,0.53,0,-6.085,1,0.0303,0.0311,0.000101,0.217,0.34,141.81
+Christian Cueva,Hello - The Voice Performance,26,64,Jason Warrior,,1xWGg2ZDKG5eZMIRCWdcfi,Hello The Voice Performance,2016-10-10,152161,False,0.197,0.579,6,-4.393,1,0.037,0.32,1.02e-06,0.106,0.227,76.676
+Christian Cueva,Million Reasons - The Voice Performance,19,64,,,1Dlm8dsHjIQCkSCE2n3lvi,Million Reasons The Voice Performance,2016-11-28,206971,False,0.539,0.58,9,-5.382,1,0.0265,0.0916,6.86e-05,0.11,0.21,129.974
+Christian Cueva,Yesterday - The Voice Performance,13,64,,,76OpfWukzN6OhbAIYqoUeT,Yesterday The Voice Performance,2016-11-07,150233,False,0.204,0.423,7,-7.871,1,0.0309,0.443,0,0.0951,0.254,79.943
+Christian Cueva,White Flag,7,64,,,7kXSrq4Gf9NWKkDvVZuaki,White Flag,2017-12-24,360053,False,0.451,0.509,9,-7.333,1,0.0325,0.0223,0,0.154,0.168,145.805
+Christian Cueva,Superstar - The Voice Performance,8,64,,,5fWLSRmposdu951mUcFuOX,Superstar The Voice Performance,2016-10-25,229592,False,0.45,0.537,10,-5.289,1,0.0277,0.253,2.63e-05,0.361,0.198,121.715
+Christian Cueva,The Scientist - The Voice Performance,11,64,,,4qvi7rLDrMF2EQxdhyc2Uu,The Scientist The Voice Performance,2016-11-14,226559,False,0.483,0.597,6,-5.551,1,0.0246,0.124,0.000229,0.178,0.311,146.438
+Christian Cueva,Dejame Amarte,20,64,Christian Chávez,68.0,73MKyVGddZsoPeveR3kQ7x,Dejame Amarte,2020-11-27,242561,False,0.45,0.361,1,-8.832,1,0.0457,0.76,4.16e-06,0.145,0.352,127.793
+Christian Cueva,Rosanna - The Voice Performance,6,64,,,5qg5AII9Kz0BlDCjGJc9oF,Rosanna The Voice Performance,2016-11-21,182213,False,0.523,0.843,6,-4.614,0,0.115,0.00557,0.00137,0.248,0.502,167.977
+Christian Cueva,Constant Love,2,64,Christian Cuevas,31.0,3Deo9NnutHtJBQ7PZp83j9,See The Son,2022-01-30,215186,False,0.781,0.683,11,-7.401,0,0.07,0.196,0.00409,0.0803,0.796,108.992
+Christian Cueva,La Voz de un Amigo,30,64,Gaby Morales,17.0,2XzvhoeEV3HfIg7cTav9m1,La Voz de un Amigo,2023-11-24,168890,False,0.683,0.751,4,-6.717,1,0.0575,0.349,5.15e-06,0.149,0.828,150.191
+Christian Cueva,maybe (monster),1,64,,,52kOvubY9mI09BcA1AGPH4,february fifteenth,2024-02-14,192000,False,0.435,0.313,6,-10.984,1,0.0488,0.384,0,0.104,0.296,107.243
+Christian Cueva,Portland,0,64,,,5CHlefg6FOziELTbbibpvL,Portland,2020-05-03,200594,False,0.404,0.592,4,-5.637,0,0.039,0.471,0,0.645,0.351,145.536
+Christian Cueva,good news,1,64,,,3O2yWKJSjvAmGhv20TrVdE,good news,2023-08-04,207428,False,0.344,0.411,10,-8.191,1,0.0303,0.263,0.00229,0.141,0.14,139.9
+Christian Cueva,take me home,2,64,,,2xlr6LYBFbE99KR2U96Dho,take me home,2022-03-25,234659,False,0.388,0.138,5,-15.206,1,0.0385,0.856,2.7e-06,0.0953,0.159,70.745
+Christian Cueva,february fifteenth,2,64,,,2sQKXhg5nXNZPX7VxxivDr,february fifteenth,2024-02-14,130909,False,0.497,0.288,0,-10.868,1,0.0679,0.794,0,0.13,0.288,80.603
+Christian Cueva,I'm Good,1,64,Christian Cuevas,31.0,6jsxhumAf2kYTnxmzZRYfM,"""The Creators Voice""",2022-02-18,311000,False,0.435,0.617,0,-9.013,1,0.0374,0.0168,0,0.149,0.0786,74.013
+Christian Cueva,Hazme el Amor,0,64,Christian Cuevas,31.0,5Hn8PwOAOjMNkWoshZlgQj,Salsa Factory Bunch: The Beginning,2016-02-12,216533,False,0.611,0.817,5,-6.573,1,0.0429,0.46,2.1e-06,0.0417,0.929,179.779
+Christian Cueva,Te irá mejor sin mi,0,64,Christian Cuevas,31.0,4B1q2CKj77KBhBK7lKVRM4,Te irá mejor sin mi,2021-03-20,227976,False,0.737,0.338,2,-11.375,0,0.053,0.761,0.000305,0.103,0.253,95.044
+Cuarto Grado,Abrázame Fuerte,37,37,,,3XckSGEGnjzBhuHlycrvHR,Abrázame Fuerte,2017-11-28,272147,False,0.625,0.902,1,-3.016,1,0.0312,0.439,4.62e-06,0.316,0.804,159.966
+Cuarto Grado,Ámame,30,37,,,7kHhlUNLOkmGQJMoT1uIvf,Abrázame Fuerte,2017-11-28,282013,False,0.755,0.872,0,-4.135,1,0.074,0.305,0,0.26,0.78,169.747
+Cuarto Grado,Mentiste,29,37,,,6quxjeYA6Sl8NZHSU72s9o,Mentiste,2018-02-23,312120,False,0.611,0.923,8,-1.619,1,0.0409,0.582,0,0.443,0.859,161.956
+Cuarto Grado,Me Has Dejado,26,37,,,0TOBgBpu6HKLOlrJSBE9s6,Abrázame Fuerte,2017-11-28,219441,False,0.656,0.786,5,-6.928,0,0.0429,0.404,0,0.106,0.662,167.894
+Cuarto Grado,50 Grados,8,37,,,2JH15DKHfxKdGYua2m51WR,El Guardian Del Desierto,2016-07-06,135888,False,0.845,0.777,8,-5.397,1,0.0723,0.714,1.52e-06,0.0994,0.972,115.203
+Cuarto Grado,Ya Te Olvidé,14,37,,,1ZX2QpCH8lqtz9tFChHDv6,Ya Te Olvidé,2015-10-23,289144,False,0.745,0.951,2,-2.725,0,0.092,0.354,8.48e-06,0.125,0.554,93.935
+Cuarto Grado,Bésame,18,37,,,57gSdUtLkRUyd492fVE3Mj,Bésame,2019-02-07,287061,False,0.672,0.972,4,-2.442,0,0.0373,0.257,5.09e-06,0.094,0.796,149.986
+Cuarto Grado,Te Amo,14,37,,,6b48TTesmXLmDzeEBUIAZp,Abrázame Fuerte,2017-11-28,293584,False,0.37,0.9,0,-1.464,1,0.0366,0.0875,0,0.577,0.728,83.0
+Cuarto Grado,Me Confundes,15,37,,,3GgUeVfapw6KbPw2lEMD6B,Me Confundes,2019-11-19,284156,False,0.714,0.84,7,-3.365,0,0.0368,0.422,0,0.0976,0.825,160.008
+Cuarto Grado,No Vale,13,37,,,6G5ASYllcv7D2LKNF9jCuT,Abrázame Fuerte,2017-11-28,212370,False,0.68,0.84,9,-4.01,1,0.0317,0.21,0,0.235,0.721,160.057
+Cuarto Grado,Llorarás,12,37,,,6J34y3pQSybHnvsFErJcwy,Llorarás,2018-01-05,290475,False,0.566,0.917,5,-2.561,0,0.0432,0.529,1.4e-06,0.107,0.717,167.927
+Cuarto Grado,50 Grados (El Charly) - En Vivo,4,37,,,0BenGF7E0nSeSdangqHv0E,En Vivo con Servando ZL,2019-04-24,143386,True,0.733,0.87,7,-3.507,1,0.233,0.238,0,0.51,0.907,119.535
+Cuarto Grado,Palo Pao,4,37,,,1jK6YS39AGc5NiJZf2a5jX,Palo Pao,2014-08-11,239707,False,0.705,0.923,7,-3.725,1,0.0562,0.346,0,0.223,0.727,94.982
+Cuarto Grado,Amarte Así,9,37,,,6YVnipnRyhWi1cSZiSIjA6,Amarte Así,2022-05-12,241445,False,0.764,0.939,7,-3.748,1,0.035,0.423,2.52e-06,0.0817,0.626,166.009
+Cuarto Grado,Tómame,6,37,Yeni Valdes,2.0,465rsPs40Ry4xs8YjFSofU,Tómame,2019-09-20,298384,False,0.715,0.952,2,-3.16,1,0.0404,0.509,0,0.0845,0.606,170.031
+Cuarto Grado,Tan Solo Márchate,8,37,,,5hWfx2BzgQplNdpDuTbEDF,Abrázame Fuerte,2017-11-28,272705,False,0.656,0.861,11,-2.55,0,0.0344,0.56,0,0.579,0.792,139.996
+Cuarto Grado,Hace Calor,3,37,,,39BicHi9Wxl9fgZG5KhQAa,Hace Calor,2014-09-05,213570,False,0.793,0.929,7,-3.274,1,0.0787,0.385,0,0.382,0.786,96.963
+Cuarto Grado,Que Te Vaya Bien,5,37,,,2II0UcGOMk8ltZKs2Re70N,Que Te Vaya Bien,2024-04-11,172124,False,0.707,0.783,10,-4.815,1,0.0651,0.118,1.97e-06,0.265,0.742,155.885
+Cuarto Grado,Vete con Ella,8,37,,,3R5ulgbhARCOqJBXFKFP3a,Vete con Ella,2023-05-13,320602,False,0.779,0.827,7,-5.484,1,0.046,0.606,1.69e-06,0.0707,0.723,165.944
+Cuarto Grado,Por Qué Insistes,9,37,,,0iQs2PMkmYre5RWhe9kqEW,Abrázame Fuerte,2017-11-28,251156,False,0.699,0.815,11,-3.916,1,0.0344,0.601,0,0.0955,0.861,150.003
+Cuarto Grado,COMO ENTENDER - Versión Acústica,6,37,,,43wbp3sAdShDBwzfmQH64t,COMO ENTENDER Versión Acústica,2023-05-06,88455,False,0.7,0.799,9,-3.936,1,0.0617,0.726,0,0.226,0.929,80.008
+Cuarto Grado,Solo Pido,9,37,Shaka Real,,3YGr5G7bDInRsP3K8WdSHv,Solo Pido,2022-01-28,229642,False,0.585,0.876,7,-2.937,1,0.041,0.5,1.48e-05,0.309,0.587,83.267
+Cuarto Grado,Quisiera Verte,4,37,,,18j0GvQ5DpltsBSdhgGjlU,Quisiera Verte,2014-06-14,242947,False,0.496,0.902,8,-4.028,0,0.0511,0.216,0.000219,0.122,0.668,90.071
+Cuarto Grado,Homenaje A Celia Cruz,3,37,,,3ILVE3qyLi5kkzad3W5Rm3,Homenaje A Celia Cruz,2024-10-25,415817,False,0.614,0.787,6,-5.701,1,0.0821,0.0865,0.0582,0.107,0.558,110.799
+Cuarto Grado,Bésame Despacio,10,37,Latin Love,,4zhuRZBpIb2STbKDcOAWer,Bésame Despacio,2024-01-14,216557,False,0.69,0.856,1,-5.421,0,0.0377,0.193,5.87e-05,0.0983,0.813,166.125
+Cuarto Grado,Vete Con Ella,3,37,,,7wRbsKA1qczQ1ASsUQCoDj,Vete Con Ella,2019-12-06,217851,False,0.719,0.921,8,-4.118,1,0.0927,0.623,6.97e-06,0.343,0.907,175.881
+Cuarto Grado,Perdóname,8,37,Eyther Caicedo,37.0,7fC6Biokk6L1tFFUTX8urN,Perdóname,2020-08-06,294813,False,0.69,0.788,0,-4.65,1,0.0411,0.676,1.84e-05,0.0847,0.939,167.956
+Cuarto Grado,Biri Biri Bam Bam,6,37,Gustavo Enrique,12.0,5QebyMDKlE3BIn8uZZ4HwT,Biri Biri Bam Bam,2018-01-05,207651,False,0.629,0.941,9,-2.42,1,0.0702,0.417,0,0.114,0.88,179.932
+Cuarto Grado,Mientes,5,37,Cuarto Grado,5.0,5nTQc2MIb1Sy5wjAZ8wwcS,Mientes,2021-05-01,217861,False,0.679,0.914,1,-4.405,0,0.126,0.446,0,0.29,0.833,127.023
+Cuarto Grado,Te Amo,1,37,Geovandiel y El Razzy,27.0,48nXC2txWZStJTvPh3SsnM,Te Amo,2023-09-18,215017,False,0.822,0.823,8,-4.208,1,0.0434,0.249,0,0.229,0.76,128.055
+Cuarto Grado,Bésame - Acústico,0,37,OKAN YORE,4.0,5qzSSBY8Q6hUh2yDtQgJhp,Bésame Acústico,2023-05-26,180745,False,0.659,0.595,9,-3.128,0,0.0304,0.571,0,0.291,0.634,149.899
+Cuarto Grado,Bésame Despacio - Versión Estudio,0,37,Latin Love,40.0,1W1I8BcW6fgYQkViMdJmnX,Bésame Despacio Versión Estudio,2024-01-31,216910,False,0.7,0.853,4,-5.296,1,0.0366,0.2,2.89e-05,0.102,0.808,165.918
+Curren$y,1982 (with Curren$y & LE$),56,56,Curren$y,19.0,4OTmDHEUGop3Qw1GAXm3F9,1982 with Curren$y & LE$,2024-08-16,226666,True,0.762,0.745,8,-5.434,0,0.37,0.145,0,0.115,0.861,89.946
+Curren$y,The Count (feat. Wiz Khalifa),58,56,Harry Fraud,57.0,171PWhxgdrIOgcAiBPO3Gr,The Marina,2018-05-30,194594,True,0.385,0.757,0,-5.96,1,0.167,0.709,0,0.235,0.469,82.673
+Curren$y,September 8th (feat. K3vlar Deon & Curren$y),53,56,K3vlar Deon,39.0,13BDMDQ4RzQirV5LnXtFDO,Nonsense and Mexican Shit,2022-08-26,193343,True,0.615,0.683,1,-6.616,0,0.556,0.137,0,0.331,0.517,163.816
+Curren$y,No Yeast (feat. Boldy James),50,56,The Alchemist,0.0,3x9UBH1vVMNVLCPTx9duyZ,Continuance,2022-02-18,243840,True,0.514,0.449,6,-12.713,1,0.342,0.853,0.000198,0.711,0.622,65.451
+Curren$y,All Work,47,56,Young Dolph,73.0,0GNbF413D1n8yS2vLpOBhl,Back at Burnie’s,2019-12-20,150047,True,0.688,0.88,9,-5.044,1,0.233,0.0564,0,0.154,0.618,140.904
+Curren$y,3AM in New Orleans,51,56,Curren$y,19.0,18kOgPYJgcMCpurna8P23T,Lil Black Jean Jacket 3,2022-05-11,133679,True,0.649,0.647,6,-7.386,1,0.0913,0.0496,0.0008,0.104,0.844,158.982
+Curren$y,Airborne Aquaruim,46,56,,,71vuS1nprefkBeCK344TEL,Pilot Talk: Trilogy,2017-06-09,171266,True,0.609,0.942,5,-5.363,0,0.365,0.0116,0,0.22,0.368,121.433
+Curren$y,Rooftops (feat. Curren$y),48,56,Curren$y,19.0,5zkgL12I3jPd6iOgPotFRB,Rolling Papers,2011-03-29,260079,True,0.685,0.632,9,-7.76,0,0.278,0.261,0,0.116,0.251,87.02
+Curren$y,Obsession,47,56,The Alchemist,0.0,5nl9tqYW5tta5N2x2VKi3b,Continuance,2022-02-18,165733,True,0.359,0.387,7,-13.576,1,0.393,0.701,0.00814,0.414,0.286,171.505
+Curren$y,Chandelier (feat. Curren$y),46,56,Curren$y,19.0,0doPjH3V2qKDUKjfpW3k92,Party Pack. Vol 2,2019-09-04,212333,True,0.841,0.559,8,-7.284,0,0.307,0.0735,0.0165,0.103,0.573,94.949
+Curren$y,Barragán Lighting,47,56,The Alchemist,0.0,5jJhS8m6vstzzeHdlGoHjt,The Great Escape,2023-03-31,152693,True,0.427,0.741,11,-8.243,0,0.179,0.351,0.000228,0.143,0.838,82.638
+Curren$y,Jill Scott (feat. Wiz Khalifa & Curren$y),46,56,Harry Fraud,57.0,2MKGgh3tAB58wylg2J8CWc,P Got Game,2024-11-08,232258,True,0.763,0.615,1,-7.034,1,0.195,0.37,0,0.182,0.543,93.004
+Curren$y,Lucha Bros (feat. Curren$y & Benny the Butcher),47,56,Curren$y,19.0,5oEVxzfDc9PYH7zWRBZB7W,Hitler Wears Hermes 7,2019-11-01,262000,True,0.484,0.629,2,-7.814,1,0.175,0.451,0.00198,0.36,0.463,78.269
+Curren$y,Gangsta Shit (feat. Kokane & G Perico),44,56,Curren$y,19.0,6BHGdGFbJSYu7E1O4E4yTt,Pheno Grigio,2019-07-07,249619,True,0.839,0.741,1,-4.91,0,0.234,0.0467,0,0.333,0.347,95.107
+Curren$y,Never Get Her Back (feat. Premo Rice),43,56,DJ.Fresh,48.0,0PKtCmVD0vk9EDMZW97Pon,The Encore,2024-10-11,229363,True,0.574,0.669,10,-6.311,0,0.273,0.0515,0,0.933,0.633,78.34
+Curren$y,New Thangs,44,56,Freddie Gibbs,17.0,532dcSo8ZGjxQwM2C3usPO,Fetti,2018-10-31,143760,True,0.595,0.555,10,-9.227,0,0.198,0.377,0,0.2,0.742,78.558
+Curren$y,Marble Columns (feat. Larry June),44,56,Harry Fraud,57.0,3IPSBSVqnwlWu2wsexdHqo,VICES,2023-06-30,190588,True,0.548,0.723,6,-8.288,0,0.244,0.017,0.000327,0.465,0.589,135.892
+Curren$y,sumac,39,56,Curren$y,19.0,5iFXP9EcV1J4PYujt4TsZr,michelinman,2024-11-11,179114,True,0.837,0.396,5,-11.395,0,0.243,0.034,0.000236,0.109,0.663,146.136
+Curren$y,Top Of The Morning,42,56,DJ.Fresh,48.0,5dlxwBSejcXd9gxn80aSH3,The Encore,2024-10-11,144098,True,0.539,0.685,8,-6.182,1,0.275,0.0833,9.39e-06,0.372,0.683,149.972
+Curren$y,GLADIUS,42,56,Curren$y,19.0,2S6UdljYBjV6MRDRclz49N,GLADIUS,2024-11-12,221496,False,0.784,0.523,1,-5.003,1,0.287,0.00582,1.83e-05,0.633,0.342,88.347
+Curren$y,Scottie Pippens (feat. Freddie Gibbs),42,56,The Alchemist,0.0,19O7OqzwiT0U5DKec68WJR,Covert Coup,2011,187238,True,0.384,0.908,10,-5.517,0,0.325,0.0762,0,0.328,0.67,84.29
+Curren$y,As I Proceed,40,56,Larry June,67.0,0SGaNL87POLdATnAKNz8lN,The Green Tape,2020-04-10,135235,True,0.736,0.646,6,-7.267,1,0.315,0.0406,0,0.265,0.546,90.994
+Curren$y,This and That,41,56,,,3u9u4xAkzKuONeP4QD9E3q,Fire In The Clouds,2018-08-31,146823,True,0.641,0.584,5,-8.775,0,0.183,0.327,0.000248,0.116,0.167,169.953
+Curren$y,New Devils,40,56,DJ.Fresh,48.0,0K7vxaI1f3SuOJr44I8Iu0,The Encore,2024-10-11,110567,True,0.529,0.785,8,-6.075,1,0.448,0.245,0,0.351,0.242,160.052
+Curren$y,GLADIUS,40,56,Of The Trees,44.0,58cUewxhRSdO1KGIumljnc,VOLCANOLOGY,2024-11-15,221496,False,0.784,0.523,1,-5.003,1,0.287,0.00582,1.83e-05,0.633,0.342,88.347
+Curren$y,Reese's Cup,41,56,The Alchemist,0.0,4kpcPVXkDIRi2YK1nkZOU1,Continuance,2022-02-18,98226,True,0.54,0.73,10,-12.825,0,0.312,0.579,0.00307,0.854,0.444,90.444
+Curren$y,Jodeci Tape,41,56,The Alchemist,0.0,3FjPWawwcRq4LWgPGfr1oJ,Continuance,2022-02-18,124240,True,0.557,0.49,2,-12.934,1,0.278,0.642,0,0.672,0.153,78.152
+Curren$y,Half Moon Mornings,41,56,The Alchemist,0.0,5IT1CDNuikl4Jpf549LBda,Continuance,2022-02-18,135666,True,0.388,0.6,5,-12.212,0,0.901,0.83,0.00112,0.228,0.545,75.858
+Curren$y,SPACESHIP VIEWS,41,56,Curren$y,19.0,2Yu8MFsFUBXid4qUXVa4fK,MICHAEL,2023-06-16,192393,True,0.626,0.693,6,-7.245,0,0.298,0.0337,0,0.31,0.435,144.083
+Curren$y,OG (feat. Curren$y),43,56,Wiz Khalifa,15.0,6u3oWF5vlFwF0M1QCYJ5MO,Mac and Devin Go To High School Music From and Inspired By The Movie,2011-12-09,298146,True,0.562,0.804,9,-4.759,1,0.135,0.257,0,0.162,0.36,148.222
+Curren$y,Smoke Break,40,56,The Alchemist,0.0,5PdhemEPinSh2zx1U5rLxl,Covert Coup,2011,143626,True,0.596,0.833,5,-7.053,1,0.276,0.209,0,0.555,0.569,78.127
+Curren$y,Whale Watching (feat. Styles P),40,56,The Alchemist,0.0,4kAmC3XDkFZMrxGlhEovd1,Continuance,2022-02-18,205653,True,0.8,0.524,5,-10.359,1,0.357,0.766,3.24e-05,0.554,0.724,133.007
+Curren$y,Double 07,39,56,The Alchemist,0.0,7bPIXpeBvcdU3nnYkX4F75,Covert Coup,2011,129604,True,0.488,0.813,0,-6.539,1,0.176,0.0265,0,0.536,0.115,148.119
+Curren$y,Next One (feat. Larry June),39,56,DJ.Fresh,48.0,3zwrZyhSUDdGMu3HAlHmHh,The Tonite Show The Sequel,2024-08-30,187673,True,0.465,0.754,11,-6.663,0,0.345,0.203,7.54e-05,0.141,0.606,179.114
+Curren$y,Bottom of the Bottle (feat. August Alsina & Lil Wayne),40,56,August Alsina,62.0,4WC72P8F0CnYmqoPYQ7JDD,Canal Street Confidential Deluxe Edition,2015-12-04,238338,True,0.739,0.539,6,-9.735,1,0.337,0.0161,0,0.235,0.835,85.082
+Curren$y,Car Service,38,56,Curren$y,19.0,4g1N1VBIeSqSQ913eoGLGg,How Fly,2009-08-09,180441,True,0.691,0.745,7,-3.968,1,0.0706,0.0806,0,0.0954,0.437,75.001
+Curren$y,The Vapors,38,56,DJ.Fresh,48.0,4yIurbJzs8NoAUf2cDf2mV,The Encore,2024-10-11,114686,True,0.679,0.637,8,-6.15,0,0.177,0.11,0,0.323,0.703,90.017
+Curren$y,If I Ever Take You Home,38,56,DJ.Fresh,48.0,2AdlX75u5LYY7PXEMRA5FQ,The Encore,2024-10-11,174094,True,0.663,0.75,4,-7.725,0,0.385,0.193,4.79e-05,0.38,0.714,81.893
+Curren$y,Endurance Runners (feat. Larry June),39,56,The Alchemist,0.0,4mU1ubOvjMbTe6cawoNqYC,Continuance,2022-02-18,190826,True,0.388,0.597,6,-11.586,1,0.355,0.691,0.537,0.151,0.734,142.047
+Curren$y,Stoned On Ocean,37,56,,,1wzXGFJ3CQobC3KKyYBRZz,Stoned On Ocean,2016-06-27,212076,True,0.386,0.741,1,-4.629,1,0.216,0.207,0,0.62,0.298,130.331
+Curren$y,"Glass House (feat. Curren$y, Big K.R.I.T.)",37,56,Big K.R.I.T.,57.0,4X3tFirBsgqyOSvZzb733R,Kush & Orange Juice,2010-04-14,196670,True,0.742,0.908,4,-4.541,0,0.147,0.103,0,0.222,0.876,82.019
+Curren$y,5.0 Chronicles (feat. Curren$y),37,56,Curren$y,19.0,2YaHufXvq41m3npwts1Mu1,Spaceships on the Blade,2022-08-19,201945,True,0.663,0.788,7,-5.874,1,0.268,0.401,0,0.217,0.616,143.952
+Curren$y,Rollin' Up,38,56,Curren$y,19.0,4FGaozmHTDbIFt5bOvZZBO,How Fly,2009-08-09,227004,True,0.535,0.715,4,-5.885,0,0.35,0.422,1.57e-06,0.106,0.56,78.691
+Curren$y,Louis Baggage (feat. Babyface Ray),38,56,The Alchemist,0.0,5lPsuQEj6GwZkAn8MMHaqB,Continuance,2022-02-18,150053,True,0.438,0.563,4,-11.501,0,0.39,0.879,1.19e-05,0.669,0.444,81.959
+Curren$y,Zero Proof,37,56,Curren$y,19.0,4BP07cXRwO8vCuM7eZyD1s,Zero Proof,2024-03-15,104070,True,0.669,0.639,2,-10.63,1,0.165,0.00403,0.726,0.0747,0.352,113.001
+Curren$y,Let Me Hit That,36,56,Curren$y,19.0,40nSgONZZsJjMNqpDksdOA,Downtown: Life Under The Gun,2013-01-01,228360,True,0.649,0.552,1,-5.89,1,0.0832,0.0626,0,0.248,0.231,136.349
+Curren$y,The NSX,37,56,DJ.Fresh,48.0,74ZypO1X682wTUWMHM2j4i,The Encore,2024-10-11,121869,True,0.55,0.665,5,-6.753,0,0.104,0.00673,0.00837,0.309,0.525,143.802
+Curren$y,Fake Flowers,38,56,The Alchemist,0.0,6kdYgh9p7t8wlxljk8KGJg,Bo Jackson,2021-08-13,226800,True,0.654,0.366,11,-14.573,0,0.471,0.796,0,0.67,0.216,87.657
+Curren$y,Sunday Morning Drive (feat. Curren$y & Dom Kennedy),37,56,Harry Fraud,57.0,6CFS1rOM1rlhESQr6FMaFS,Keep Going,2020-10-02,235500,True,0.542,0.727,8,-7.422,1,0.0935,0.555,0,0.426,0.894,79.782
+Curren$y,High!,36,56,,,5rBuydRwRo5qCC162MVcuZ,Still Stoned on Ocean,2021-10-08,135497,True,0.678,0.77,9,-3.856,0,0.248,0.309,0,0.144,0.373,139.956
+Clara Cuvé,Control,34,34,,,3eRkkh6Ih4VA4oktw2x53a,Sektion 1,2020-06-01,343063,False,0.554,0.994,10,-7.144,0,0.0467,0.000526,0.294,0.0747,0.528,142.016
+Clara Cuvé,4 am,36,34,,,02E8qv06f7gm7q1tontVZh,SEKTION 4,2024-07-08,251364,False,0.535,0.989,4,-5.674,1,0.072,0.00218,0.588,0.13,0.373,155.02
+The Curly,Curly Q,31,31,,,5etEJrn4QNlm0Z7xIbmnDi,Prince Daddy & The Hyena,2022-04-15,257993,False,0.341,0.539,1,-7.356,1,0.0342,0.0202,4.56e-05,0.102,0.129,170.354
+The Curly,Curly,29,31,,,6pHAvkUFK93yIZ1MCaAuYE,Curly,2024-02-02,187652,False,0.174,0.664,0,-6.292,1,0.0332,0.000607,0.000492,0.106,0.223,172.721
+The Curly,The Curly Shuffle,22,31,,,5Pijq9ImAu5xweS1lxAKwK,The Curly Shuffle,2004-11-09,174706,False,0.632,0.484,9,-11.772,1,0.104,0.156,0,0.153,0.873,80.687
+The Curly,Curly Dub,29,31,,,41dAkjkupLry8yNdSMm3ae,Ape-Ology Presents Super Ape vs. Return of the Super Ape,2008-01-28,250706,False,0.87,0.307,6,-17.092,0,0.244,0.00241,0.0832,0.115,0.537,125.45
+The Curly,Relaxing With Lee - Take 2 / Incomplete,38,31,Charlie Parker,34.0,42wbar3MwSjbRwAn7vYDeR,Bird And Diz Expanded Edition,1952-07-01,73440,False,0.559,0.38,1,-13.858,1,0.0402,0.508,3.39e-05,0.298,0.677,88.286
+The Curly,Curly Q,16,31,,,2hbJJzgspJQ43mNOirnSyU,Curly Q,2021-10-21,257993,False,0.341,0.539,1,-7.356,1,0.0342,0.0202,4.56e-05,0.102,0.129,170.354
+The Curly,Leap Frog - Take 11 / Take 6 / Master Take,36,31,Charlie Parker,34.0,7xZLIErdMaUV0GmtsRclS5,Bird And Diz Expanded Edition,1952-07-01,157306,False,0.562,0.728,5,-9.14,1,0.0984,0.441,3.33e-05,0.351,0.731,78.205
+The Curly,An Oscar For Treadwell - Incomplete 411-1,35,31,Charlie Parker,34.0,4KP5a2ykBXcP0q9QDOthqJ,Unheard Bird: The Unissued Takes,2016-01-01,113520,False,0.623,0.458,0,-11.105,1,0.0641,0.222,0,0.14,0.67,110.112
+The Curly,Relaxing With Lee - Take 6 / Take 3 / Master Take,34,31,Charlie Parker,34.0,14DEfXQJTnx4VHxU5CI47e,Bird And Diz Expanded Edition,1952-07-01,170933,False,0.58,0.389,6,-11.995,1,0.0405,0.27,0.000949,0.179,0.726,84.24
+The Curly,Curly Dub,18,31,,,5hTIYs2NEhR6GJMvOgnodu,Super Ape,1976,252706,False,0.885,0.555,7,-10.769,1,0.177,0.00142,0.0294,0.111,0.608,125.427
+The Curly,Curly Locks,18,31,The Upsetters,18.0,64Wgrto581pO9OQmsnNkmC,Roast Fish Collie Weed & Corn Bread,1978-04-07,243952,False,0.693,0.531,7,-10.045,1,0.0823,0.00999,1.02e-05,0.0695,0.791,121.186
+The Curly,Curly Teeth,16,31,,,5w7VPVwIJspdTYQM7mGuJA,Jewellery,2009-03-09,146640,True,0.741,0.767,1,-8.472,1,0.0352,0.718,0.000446,0.156,0.923,110.015
+The Curly,Curly Brackets,10,31,,,572LQk61cvgVIkzjkrdQCb,Yung Tripp Out,2019-03-03,248000,False,0.488,0.86,0,-8.539,0,0.0377,0.0021,0.914,0.656,0.408,120.02
+The Curly,Crushed Heavenly,20,31,K-The-I???,0.0,32nb79RqOvkpx8fPnmtl4M,Crushed Heavenly,2024-11-22,174506,False,0.52,0.649,1,-9.284,1,0.391,0.114,0.000487,0.503,0.623,171.756
+The Curly,"Valdez Off Crenshaw (feat. Kamasi Washington, Cory Henry & Robert Sput Searight)",26,31,Curly,13.0,3Okyf6bGfdiDwqe5T9uS7z,Curly,2023-07-28,456114,False,0.701,0.541,10,-8.326,0,0.0854,0.0692,0.907,0.102,0.494,159.959
+The Curly,Curly Hair,23,31,,,4P2lMkV2F473AAT21x443r,Curly Hair,2019-04-26,224875,False,0.643,0.731,10,-5.529,0,0.209,0.0464,8.89e-05,0.405,0.44,95.981
+The Curly,Wishing Bad,28,31,The Alchemist,0.0,5oKzqIFwsRiivu5q98O3VQ,Haram,2021-03-26,225255,False,0.555,0.445,0,-11.004,0,0.345,0.161,7.86e-06,0.799,0.388,105.737
+The Curly,Bringin' in the Georgia Mail,22,31,The Nashville Grass,18.0,5BcfNeAnjBSjFlXq4xOatY,100 Greatest Bluegrass Hits,2008-06-02,141160,False,0.594,0.534,9,-11.245,1,0.0289,0.65,0.0343,0.0607,0.751,139.223
+The Curly,The Day That Curly Billy Shot Down Crazy Sam Mcgee - 2008 Remaster,35,31,,,3oNKCXbSUcr5kb7ONdMVOM,Hollies,1974-03-01,267493,False,0.545,0.952,9,-6.089,1,0.0861,0.257,0,0.115,0.837,137.96
+The Curly,Curly Lips,5,31,,,2pGhh7TwzFAiQ15ykVYru6,Imaginary Friend,1994-06-27,268826,False,0.538,0.152,4,-21.162,1,0.0406,0.727,0.657,0.124,0.231,118.723
+The Curly,Curly Q,5,31,,,0ag6VePiuT0iZoJC05LQyH,Shoelaces,2022-04-05,257993,False,0.341,0.539,1,-7.356,1,0.0342,0.0202,4.56e-05,0.102,0.129,170.354
+The Curly,Insomnia,23,31,TheRealVSpence,10.0,61lbKkY39Thg9MRk8DO48X,Insomnia,2016-12-20,260596,True,0.565,0.717,6,-5.519,0,0.112,0.122,0,0.0998,0.375,91.907
+The Curly,Curly Haired Baby,9,31,,,6OWvhdP395TcpGOfjugm5R,The Original Recordings,2008-05-26,166320,False,0.711,0.532,11,-13.778,1,0.0403,0.319,0.903,0.142,0.96,123.452
+The Curly,Curly,8,31,John Mayall & The Bluesbreakers,48.0,4nHdWLJXtcCVMmq1FuRJvQ,Crusade Deluxe Edition,2007-01-01,203680,False,0.342,0.576,2,-10.39,1,0.0303,4.94e-06,0.813,0.0742,0.712,112.514
+The Curly,Curly (Edit),10,31,,,2mkviAbcBEjjz6rpYukf4p,Races Vol. 2,2023-09-13,62415,False,0.576,0.478,8,-19.2,0,0.0361,0.868,0.869,0.11,0.7,163.328
+The Curly,Curly Q,4,31,,,5jYJIERzUQ12icPNRm8Zdz,A Random Exercise in Impermanence The Collector,2022-03-08,257993,False,0.341,0.539,1,-7.356,1,0.0342,0.0202,4.56e-05,0.102,0.129,170.354
+The Curly,Curly Q,3,31,,,0TW3zWxLdCf0s4AdNJNzsE,El Dorado,2022-03-24,257993,False,0.341,0.539,1,-7.356,1,0.0342,0.0202,4.56e-05,0.102,0.129,170.354
+The Curly,Curly Dub,9,31,,,4xVWUCHYluMiBstQ494Eg5,The Best of Lee Perry,1996-10-14,250706,False,0.87,0.307,6,-17.092,0,0.244,0.00241,0.0832,0.115,0.537,125.45
+The Curly,Leap Frog - Take 5 / Complete,17,31,Charlie Parker,34.0,1A279UgI14kgYYrvqFFvrs,Dizzy 100,2017-09-29,150762,False,0.505,0.843,5,-5.41,1,0.136,0.604,0.00622,0.23,0.592,115.991
+The Curly,I'll Fly Away - Instrumental,13,31,Curly Seckler,13.0,2TMbbjQUK05O2rCSSvyWse,Essential Bluegrass Gospel,2008-05-29,157400,False,0.481,0.818,7,-5.052,1,0.0333,0.00905,0.965,0.325,0.88,131.865
+The Curly,An Oscar For Treadwell - Take 3 / Alternate Take,18,31,Charlie Parker,34.0,6CN3FXpU0VOa6XoRZ6dt83,Bird And Diz Expanded Edition,1952-07-01,208906,False,0.621,0.639,5,-8.736,1,0.0388,0.409,4.81e-06,0.0539,0.696,110.968
+The Curly,24th & Lake (feat. Cory Henry & Robert Sput Searight),12,31,Curly,13.0,6uPjhxRjo2uNf9EnFyOi8B,Curly,2023-07-28,349243,False,0.661,0.561,10,-8.97,0,0.0501,0.0638,0.878,0.107,0.496,175.877
+The Curly,Leap Frog - Take 5 / Complete,20,31,Charlie Parker,34.0,1L6jTBgafXtYAj360MTFMZ,Bird And Diz Expanded Edition,1952-07-01,155960,False,0.521,0.71,5,-9.827,1,0.0945,0.395,0.00028,0.186,0.689,113.009
+The Curly,Curly Headed Fucks,3,31,Hank Trill,7.0,3PNlXHmqRV4CqbujSkQM8B,Curly Headed Fucks,2023-11-10,110680,True,0.56,0.626,11,-9.758,1,0.281,0.0325,0,0.668,0.732,149.907
+The Curly,Curly Rudy,4,31,,,3Rq73CinUK4wk8xnGCNBY4,Another morning Another pillows,2002-10-23,176533,False,0.492,0.914,2,-2.539,1,0.0683,0.00457,0.00469,0.121,0.792,132.526
+The Curly,Curly - Alternate Mix,2,31,,,1qkX4RCKAOhNER5VJj93eB,Shazam Deluxe Edition,2007-01-01,165640,False,0.551,0.835,5,-6.164,1,0.0554,0.46,0,0.151,0.874,146.969
+The Curly,Curly Dub,4,31,,,6yY7SYteBBRrbvEeMKdhoL,"""Lee Scratch Perry & The Upsetters: Super Ape & Return of the Super Ape""",2012-11-26,253400,False,0.894,0.485,7,-12.535,1,0.215,0.00127,0.0113,0.149,0.535,125.472
+The Curly,Curly Toes,5,31,,,5oGd4hYGgXtLlyOnpYs5qj,Songs in the Key of Z Vol. 2: The Curious Universe of Outsider Music,2002,175466,False,0.617,0.312,2,-9.377,1,0.549,0.91,0,0.269,0.458,79.919
+The Curly,Sweeter (feat. Cory Henry) (Extended Version),10,31,Curly,13.0,6BHJqet8xjBXgs3lNV21ye,Curly,2023-07-28,572743,False,0.709,0.261,7,-12.131,0,0.0574,0.569,0.476,0.113,0.24,119.992
+The Curly,Я забувся,34,31,,,5tVANMJGFfQYI4kvOfo6HQ,Я забувся,2022-09-02,97714,True,0.81,0.647,10,-5.784,0,0.101,0.869,0,0.129,0.816,90.77
+The Curly,Relaxing With Lee - Take 4 / Take 2 / Alternate Take,14,31,Charlie Parker,34.0,1bNQ73KbJRMjGLjHXIeHua,Bird And Diz Expanded Edition,1952-07-01,239493,False,0.504,0.401,6,-11.289,1,0.0386,0.543,2.24e-05,0.243,0.666,167.84
+The Curly,An Oscar For Treadwell,13,31,Dizzy Gillespie,50.0,5bJjBQZvRTz8qeU0BnJ2Fs,Bird And Diz Expanded Edition,1952-07-01,204200,False,0.519,0.642,0,-9.073,1,0.0365,0.515,0.000469,0.129,0.752,109.232
+The Curly,COME HERE MA !,16,31,Maiya The Don,38.0,5vN7qAyBCcBZJdszsidmbZ,COME HERE MA !,2023-08-23,154824,True,0.59,0.528,4,-6.081,1,0.392,0.275,0,0.063,0.62,89.348
+The Curly,Girl With Curly Colored Hair,11,31,,,2S6H8IIci6CGpvremYRd3Z,Girl With Curly Colored Hair,2024-09-20,170293,False,0.455,0.834,0,-8.005,1,0.0453,0.0046,5.4e-06,0.309,0.454,162.019
+The Curly,LIKE A MACK,16,31,Curly Fryz,5.0,6blXlArC846rWaPsOkn7cG,HITNRUN Phase One,2015-09-14,244706,False,0.873,0.736,1,-5.558,1,0.162,0.00343,2.34e-06,0.25,0.367,102.219
+The Curly,Leap Frog - Take 9 / Complete,12,31,Charlie Parker,34.0,2fc4nz4WaN1108Jf7NUASi,Bird And Diz Expanded Edition,1952-07-01,129560,False,0.467,0.684,5,-10.42,1,0.0978,0.263,1.11e-05,0.294,0.733,79.638
+The Curly,Relaxing With Lee,14,31,Charlie Parker,34.0,1koo0p1fMs6TCDGn6zSiUT,Motherless Brooklyn Original Motion Picture Soundtrack,2019-10-25,168062,False,0.53,0.425,1,-10.902,1,0.0543,0.356,0.169,0.215,0.613,84.129
+The Curly,Тобі личить,30,31,Marcel Garçon,28.0,05omy7Mi6TQZZzyxon6K91,Тобі личить,2024-04-17,154639,False,0.801,0.656,1,-7.196,1,0.124,0.14,0,0.134,0.419,97.008
+The Curly,Leap Frog - Take 8 / Take 4 / Alternate Take,12,31,Charlie Parker,34.0,1s3mkUlwWlTkt1GF7pAUBL,Bird And Diz Expanded Edition,1952-07-01,124333,False,0.437,0.663,5,-10.105,1,0.116,0.45,0.000788,0.293,0.845,163.064
+The Curly,Full Steam Ahead,13,31,GameChops,67.0,0B9wwEkCwF9kNhLBdf2HM2,Full Steam Ahead,2022-02-11,226892,False,0.512,0.705,7,-8.422,0,0.036,0.252,0.912,0.203,0.0542,108.98
+Cuerdas Colombianas,Soy Boyacense,31,31,,,6f8ZMyc1fDYIJOZFXWWzdM,Colombia Instrumental,2008,244160,False,0.523,0.762,2,-4.358,1,0.04,0.658,0.00785,0.243,0.829,107.987
+Cuerdas Colombianas,Campesina Santandereana,28,31,,,3hWqJO77Uyfcs6Me5csr8j,Colombia Instrumental,2008,200186,False,0.528,0.863,9,-4.244,1,0.0385,0.39,0.944,0.179,0.844,169.91
+Cuerdas Colombianas,El Sanjuanero,26,31,,,2shn9D3l2dxMhGD3MT5rFn,Colombia Instrumental,2008,208573,False,0.727,0.864,11,-4.636,0,0.0313,0.4,0.598,0.142,0.913,133.669
+Cuerdas Colombianas,Guabina Chiquinquereña,22,31,,,0LDKX49OKfLeEDPuStytBj,Colombia Instrumental,2008,161840,False,0.762,0.657,3,-4.661,1,0.0339,0.736,0.000301,0.156,0.96,112.88
+Cuerdas Colombianas,Bésame Morenita,23,31,,,2pV7UFYia1h2G8PLKUy9F0,Colombia Instrumental,2008,183040,False,0.6,0.915,9,-5.189,1,0.0432,0.204,0.562,0.11,0.957,89.267
+Cuerdas Colombianas,El Aguacate,18,31,,,2sPgNhIgAPSTiasoyDIeQc,Colombia Instrumental,2008,224520,False,0.74,0.615,7,-3.485,0,0.0348,0.728,0.457,0.0879,0.791,109.462
+Cuerdas Colombianas,El Barcino,18,31,,,3oIpCpHi5tHs1vwQNjb482,Colombia Instrumental,2008,207480,False,0.669,0.774,1,-4.764,1,0.0307,0.55,0.864,0.255,0.864,89.595
+Cuerdas Colombianas,On Tabas,20,31,,,4ao2nHJYR1qUpa4E3rd2Do,Colombia Instrumental,2008,186706,False,0.563,0.852,11,-5.222,0,0.0314,0.638,0.307,0.194,0.932,97.373
+Cuerdas Colombianas,Ojalà Que No Crecieras,19,31,,,7nEw0UCCbQpS9mLfU4uPcC,Colombia Instrumental,2008,185040,False,0.519,0.719,10,-3.596,1,0.0317,0.591,0.867,0.278,0.664,150.392
+Cuerdas Colombianas,Soy Tolimense,19,31,,,1gg0fGydXBIgQoABSUJg9l,Colombia Instrumental,2008,205253,False,0.678,0.645,0,-4.405,1,0.0339,0.447,0.866,0.237,0.897,133.258
+Cuerdas Colombianas,Chatica Linda,20,31,,,6qAJRY3OEvXfVhXsm86CP9,Colombia Instrumental,2008,158533,False,0.391,0.842,0,-5.021,1,0.0362,0.444,0.324,0.237,0.957,80.999
+Cuerdas Colombianas,Pasito,19,31,,,1zZ0eAuqzWUIFH6iuYqeMj,Colombia Instrumental,2008,147920,False,0.504,0.86,0,-3.979,1,0.0408,0.549,0.016,0.181,0.959,179.851
+Cuerdas Colombianas,Al Sur,18,31,,,34Nwpmh28wmlIhN1Sne7ZH,Colombia Instrumental,2008,154173,False,0.68,0.686,7,-3.249,1,0.0361,0.675,0.0483,0.0984,0.551,85.063
+Cuerdas Colombianas,Flor Del Campo,20,31,,,4NykPDXlrDnAhgB1XlunOQ,Colombia Instrumental,2008,175066,False,0.447,0.516,5,-3.929,1,0.0394,0.693,0.27,0.155,0.805,207.878
+Cuerdas Colombianas,Agáchate el Sombrero,19,31,,,7guodToxWDN47fr2DiP9Eh,Colombia Instrumental,2008,197293,False,0.528,0.938,7,-4.049,1,0.0452,0.804,0.00446,0.339,0.882,89.208
+Cuerdas Colombianas,Esto Es Torbellino,16,31,,,3Ve6iqungP7F604K3Y2v1r,Lo Mejor del Requinto,1999-07-14,325950,False,0.512,0.859,0,-6.504,1,0.0474,0.118,0.752,0.0756,0.962,200.203
+Cuerdas Colombianas,Torbellino Veleño,17,31,,,2AzPm6RH3D0AgOtzCX5yDH,Lo Mejor del Requinto,1999-07-14,183830,False,0.569,0.754,5,-6.394,1,0.0324,0.389,0.644,0.0909,0.911,88.444
+Cuerdas Colombianas,Las Acacias,16,31,,,4KQbSIuhO3rzCrUueyIeVQ,Colombia Instrumental,2008,242933,False,0.416,0.573,10,-5.829,0,0.0414,0.39,0.00705,0.165,0.787,204.128
+Cuerdas Colombianas,Vueltas Antioqueñas,6,31,,,7bhyIGljIC6Jb2qy3FmZMP,Danzas Colombianas,2005-05-01,237950,False,0.648,0.827,5,-4.997,1,0.0344,0.521,0.837,0.192,0.965,103.202
+Cuerdas Colombianas,"San Pedro en el Espinal, Pt. 2",8,31,,,0ycFlJXP4hsSm5AWWegAGa,Lo Mejor del Requinto,1999-07-14,139416,False,0.67,0.87,2,-3.154,1,0.0309,0.155,0.00637,0.0831,0.954,126.885
+Cuerdas Colombianas,Guabina Santandereana,12,31,,,0qGFF98ydDBEp6Gm9aT1PD,Mis Memorias Santander,2007-10-22,251203,False,0.626,0.65,5,-7.147,1,0.0409,0.265,0.105,0.061,0.939,82.426
+Cuerdas Colombianas,El Contrabandista,11,31,,,3DWD7Hpu1kdyp656BRHKUD,Mis Memorias Tolima,2007-10-08,265856,False,0.698,0.766,9,-6.25,1,0.0498,0.657,0.114,0.312,0.612,137.895
+Cuerdas Colombianas,Campesina de Mi Amor,6,31,,,4xuu11IMmyboNoAwEwknuh,Lo Mejor del Requinto,1999-07-14,173950,False,0.625,0.742,5,-3.279,1,0.0328,0.519,0.788,0.215,0.96,127.345
+Cuerdas Colombianas,La Mistela,4,31,,,76ekXWmJGDMRUKglgsPXJS,Mis Memorias Huila,2004-10-15,135936,False,0.582,0.727,10,-10.641,1,0.0611,0.756,0,0.251,0.725,120.349
+Cuerdas Colombianas,Orgullo Boyacence,3,31,,,4MxF9FHSXMHjSv9I5KvDbN,Mis Memorias Boyaca,2005,167520,False,0.654,0.803,2,-3.746,1,0.0359,0.37,0,0.223,0.939,117.996
+Cuerdas Colombianas,Soy Tolimense,8,31,,,3aS6UqPLynyct6v8RgGn8y,De Mi Colombia Canciones Costumbristas,2002-04-02,208296,False,0.565,0.446,0,-10.863,1,0.028,0.804,0,0.134,0.828,133.263
+Cuerdas Colombianas,Señora Bucaramanga,6,31,,,7tHB0wLEl06UzucD1PNKg2,Mis Memorias Santander,2007-10-22,168056,False,0.588,0.606,5,-6.043,0,0.0777,0.818,0,0.088,0.759,81.872
+Cuerdas Colombianas,Torbellino Veleño,9,31,,,7B777WOj0VGFUnZH8F6fYB,Mis Memorias Santander,2007-10-22,183830,False,0.569,0.754,5,-6.394,1,0.0324,0.389,0.644,0.0909,0.911,88.444
+Cuerdas Colombianas,Pájaro Campana,10,31,,,1rPa6gKVwWmXWjVwz3NFd4,Requinto Internacional,2004-05-11,207110,False,0.471,0.714,10,-4.051,1,0.035,0.0505,0.0755,0.0534,0.828,112.195
+Cuerdas Colombianas,"San Pedro en el Espinal, Pt. 1",6,31,,,6FQctATov9esqahDtHPG9W,Lo Mejor del Requinto Vol. 2,2001-09-11,150910,False,0.491,0.943,2,-4.32,0,0.0445,0.376,0.000772,0.316,0.935,78.306
+Cuerdas Colombianas,Alma del Huila,5,31,,,7lXLwTu40ZCpvhNBfnMDpL,De Mi Colombia Vol. 2,2003-05-13,159950,False,0.55,0.581,9,-6.016,1,0.0357,0.782,0,0.331,0.947,149.794
+Cuerdas Colombianas,La Sombrerera,5,31,,,6MzMcyNp70Oxb19FaxyxZR,Mis Memorias Tolima,2007-10-08,199683,False,0.593,0.611,0,-10.372,1,0.0317,0.784,0,0.218,0.829,149.528
+Cuerdas Colombianas,El Cuchipe,3,31,,,7h0h7dSrRPVXVj66Ibl6qb,Mis Memorias Boyaca,2005,197000,False,0.624,0.754,0,-4.56,1,0.0279,0.227,0,0.109,0.962,95.628
+Cuerdas Colombianas,Canalete,4,31,,,52zAyazE1P776BmKZjFkEH,Mis Memorias Huila,2004-10-15,174950,False,0.741,0.691,9,-7.71,1,0.044,0.495,0,0.289,0.955,120.562
+Cuerdas Colombianas,Los Guaduales,4,31,,,4yOOVgb9QKEek61lpi3C2C,Mis Memorias Huila,2004-10-15,190950,False,0.671,0.474,0,-7.571,1,0.0335,0.803,0,0.182,0.619,129.949
+Cuerdas Colombianas,Oropel,3,31,,,27fLXlkv2SP0tQjETv3L2e,Mis Memorias Huila,2004-10-15,162950,False,0.624,0.366,5,-7.761,1,0.0391,0.737,0,0.126,0.691,140.439
+Cuerdas Colombianas,Pedacito de Cielo,7,31,,,764h1p1VcTVkuo0Xvn9KbZ,Lo Mejor del Requinto,1999-07-14,188950,False,0.418,0.693,0,-4.572,1,0.0349,0.624,0.306,0.356,0.92,117.52
+Cuerdas Colombianas,La Gata Golosa,8,31,,,76rdsyqmPO84fpWz90eL4G,Requinto Internacional,2004-05-11,195950,False,0.455,0.814,7,-5.747,1,0.0358,0.042,0.309,0.161,0.962,141.915
+Cuerdas Colombianas,Trago A Los Músicos,6,31,,,2uXWMYUy47YIbiJ10N8Lla,Lo Mejor del Requinto,1999-07-14,168950,False,0.441,0.73,0,-4.231,1,0.0395,0.198,0.561,0.313,0.967,109.332
+Cuerdas Colombianas,Veleñita,11,31,,,19crFazYnvY3HaUSLPLOCx,Mis Memorias Santander,2007-10-22,178603,False,0.543,0.493,0,-6.429,1,0.0342,0.531,0.91,0.126,0.7,138.325
+Cuerdas Colombianas,Santa Sofía Mi Pueblo,7,31,,,05XulAttq6jeVj2X6juvoq,Lo Mejor del Requinto,1999-07-14,156950,False,0.553,0.777,7,-3.458,0,0.0356,0.485,0.273,0.239,0.935,113.124
+Cuerdas Colombianas,Campesina Santandereana,2,31,,,2IikjMDMaNzuD5ZlfMss1x,Mis Memorias Santander,2007-10-22,207616,False,0.434,0.617,0,-5.511,1,0.0516,0.739,0,0.118,0.757,173.612
+Cuerdas Colombianas,El Tureño,11,31,,,0X8cgl0kcrtLRV6Q10v1k9,Mis Memorias Santander,2007-10-22,200883,False,0.601,0.769,0,-3.211,1,0.0388,0.597,0.295,0.16,0.905,114.234
+Cuerdas Colombianas,Torbellino Chipateño,10,31,,,3RCx18UBVCENXnjulAKkhs,Lo Mejor del Requinto Vol. 2,2001-09-11,156003,False,0.498,0.881,7,-2.855,1,0.0756,0.198,0.684,0.287,0.824,178.041
+Cuerdas Colombianas,Alma Llanera,2,31,,,0AQzQ0zjfvKD461nMefOSd,Requinto Internacional,2004-05-11,193190,False,0.592,0.931,0,-0.298,1,0.0293,0.664,0.492,0.339,0.962,100.017
+Cuerdas Colombianas,Si Pasas por San Gil,9,31,,,0a8X7zQHAYQm4RmEireq9d,Mis Memorias Santander,2007-10-22,166296,False,0.591,0.582,10,-5.62,1,0.0291,0.82,0,0.146,0.598,78.711
+Cuerdas Colombianas,Se Puso a Tomar José,3,31,,,6jMkXK4f7zuJgNdnPeev8p,De Mi Colombia Vol. 2,2003-05-13,181070,False,0.489,0.718,8,-8.927,1,0.149,0.687,0,0.243,0.646,112.757
+Cuerdas Colombianas,La Ruana,2,31,,,5oBDUtgfQqCKGVqKFUgenu,De Mi Colombia Vol. 2,2003-05-13,203016,False,0.491,0.664,9,-7.617,1,0.0566,0.747,0,0.211,0.716,149.956
+Cuerdas Colombianas,Cenizas al Viento,2,31,,,2AxqxnjiuqjYvEmaEqmKoq,De Mi Colombia Canciones Costumbristas,2002-04-02,189523,False,0.404,0.411,9,-11.266,1,0.0314,0.81,0,0.127,0.551,171.507
+Cuerdas Colombianas,El Huilense,5,31,,,6wkzAc1pqT2i9lcwD1DiHB,Mis Memorias Huila,2004-10-15,139936,False,0.549,0.694,9,-7.335,1,0.0435,0.474,0,0.0635,0.941,131.348
+Max Culture Media,Sweet Dreams,21,21,,,1b6EagxaH3sMlyMufxbEUG,Sweet Dreams,2009,305446,False,0.715,0.509,2,-10.049,1,0.0809,0.964,0.956,0.116,0.733,74.986
+Max Culture Media,Sensations One,10,21,,,1wxm34YqxDGO22fckI84G2,Sensations One,2021-02-14,128000,False,0.351,0.0798,1,-22.078,1,0.0765,0.929,0.925,0.1,0.118,57.505
+Max Culture Media,NATURE Strees-Free,6,21,,,74UghwvZTFymYEszsGmp5g,NATURE Strees-Free,2021-09-22,230661,False,0.204,0.032,3,-25.729,1,0.037,0.992,0.871,0.135,0.138,80.473
+Max Culture Media,Happy Edm Birthday,1,21,,,4ju639BtI4Mg0rrOttgOyZ,Happy Edm Birthday,2021-04-15,70324,True,0.599,0.957,11,-5.812,1,0.0351,0.000919,0.722,0.116,0.212,129.999
+Max Culture Media,Max Sleep Music (Canción De Cuna),9,21,,,3oicPC2X2I55CyToz3TXf6,Max Sleep Music Canción De Cuna,2020-10-24,367505,False,0.0941,0.135,3,-21.028,1,0.0423,0.965,0.942,0.109,0.174,67.821
+Max Culture Media,Funky Melody,1,21,Jose Luis Briones,24.0,3ybxwaYAYBAeA6IgeG00lK,Funky Melody,2020,136842,False,0.848,0.679,7,-7.034,1,0.0473,0.00614,0.828,0.0536,0.961,113.941
+Max Culture Media,Instrumental Max Culture,37,21,Jose Luis Briones,24.0,43OswIh2NyLZ0cFcJlF5k7,Instrumental Max Culture,2005-01-01,307031,False,0.756,0.0768,3,-18.229,1,0.0547,0.991,0.00847,0.132,0.194,118.1
+Los Internacionales Nenes de la Cumbia,Tu Abandono,38,38,,,7v99I5ZyR83WOTkWtkMywf,Grandes Éxitos,2020-08-09,270173,False,0.568,0.801,9,-5.672,0,0.0453,0.225,0,0.229,0.853,114.611
+Los Internacionales Nenes de la Cumbia,Perdonarte Jamás,34,38,,,6xeinVlfeVw0hPaiRRKjgf,Grandes Éxitos,2020-08-09,325067,False,0.558,0.798,4,-2.204,0,0.0334,0.797,4.61e-06,0.177,0.781,110.946
+Los Internacionales Nenes de la Cumbia,Agonia de Amor,28,38,,,7BPKiskIClDnvvmUA8737R,Grandes Éxitos,2020-08-09,645749,False,0.505,0.651,9,-7.98,0,0.0472,0.611,0,0.272,0.702,104.642
+Los Internacionales Nenes de la Cumbia,Tu Amor Fué una Traición,26,38,,,1HDPlKrlRrGgunbTxvNCAi,Grandes Éxitos,2020-08-09,238240,False,0.591,0.844,2,-5.717,0,0.0424,0.797,1.13e-06,0.651,0.909,110.16
+Los Internacionales Nenes de la Cumbia,Brindo / El Divorcio / Tu No Eres para Mi,27,38,,,2WChXG04bZFowyN0g10eKI,Grandes Éxitos,2020-08-09,563200,False,0.559,0.641,4,-7.085,0,0.0377,0.865,0.0632,0.293,0.832,113.46
+Los Internacionales Nenes de la Cumbia,Huarochirana,28,38,,,6b7yir4Pdedt5S5jfRX4pT,Grandes Éxitos,2020-08-09,268920,False,0.564,0.567,0,-10.475,1,0.0403,0.574,0,0.16,0.964,112.756
+Los Internacionales Nenes de la Cumbia,Te Extraño Más y Más,24,38,,,3yCt5nWnMsK68eLUH0qFpj,Grandes Éxitos,2020-08-09,222613,False,0.548,0.621,10,-6.332,1,0.0335,0.82,0,0.736,0.732,111.808
+Los Internacionales Nenes de la Cumbia,Tu Abandono / Perdonarte Jamás,21,38,,,64n05MoRrE543ExaBHModf,Grandes Éxitos,2020-08-09,537053,False,0.565,0.906,9,-1.89,0,0.0483,0.552,0,0.221,0.819,114.147
+Los Internacionales Nenes de la Cumbia,Sufro por Ti,22,38,,,11pKeyXGrtKos39mFmFykg,Grandes Éxitos,2020-08-09,567760,False,0.603,0.746,9,-6.491,1,0.046,0.568,0,0.267,0.875,112.904
+Los Internacionales Nenes de la Cumbia,Marcado - Remix,21,38,,,5InAHHcFF7Q7WGqejrepYV,Grandes Éxitos,2020-08-09,515599,False,0.527,0.855,9,-0.519,1,0.0395,0.592,0,0.0783,0.754,112.999
+Los Internacionales Nenes de la Cumbia,Parrandita 88,14,38,,,73F0YVZZ3qTwuKufHLzBeT,Grandes Éxitos,2020-08-09,795404,False,0.565,0.818,7,-3.503,1,0.0377,0.716,0,0.352,0.825,123.299
+Los Internacionales Nenes de la Cumbia,Guitarra Chichera - Remix,16,38,,,0v1QqBP9qwnKWGvC0ejqrS,Grandes Éxitos,2020-08-09,677357,False,0.543,0.684,9,-5.542,0,0.0566,0.738,0,0.45,0.798,114.943
